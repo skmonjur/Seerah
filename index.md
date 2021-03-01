@@ -207,10 +207,15 @@
                <h2>Qusai Ibn Qalb</h2>
                <p>
                <ul>
-                  <li>How he went to top of the chain</li>
-                  <li>Uniting the Qurayesh</li>
-                  <li>His sons</li>
-                  <li>Duties and responsibilities of taking care of Hajjis</li>
+                  <li>He went to top of the chain by uniting the Qurayesh tribe</li>
+                  <li>He gained power over Khujaya tribe</li>
+                  <li>His sons are going to be the leaders of Qurayesh</li>
+                  <li>They (i.e. his sons) will have duties and responsibilities of taking care of Hajjis</li>
+				  <li>One of his son was Abde Manaf</li>
+				  <li>Abde Manaf had a son named, Haashim</li>
+				  <li>Haashim's son Abdul Muttalib is the Grand Father of Prophet pbuh</li>
+				  <li>In other words, Son of Abdul Muttalib is Abdullah, and Son of Abdullah is Prophet pbuh</li>
+				  
                </ul>
                </p>
             </div>

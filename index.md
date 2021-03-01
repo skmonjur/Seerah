@@ -171,11 +171,16 @@
                <h2>Prophet Ibrahim (As)</h2>
                <p>
                <ul>
-                  <li>Breaks Idols</li>
+                  
+
+
+				  <li><a href="https://quran.com/21/58">Breaks Idols</a></li>
                   <li>Father thorws him out of the home</li>
                   <li>Goes for in search of God</li>
                   <li>King throws Ibrahim (As) in fire</li>
-                  <li>Ibrahim (As) says "HabunAllah owa ni maal owakeel", recorded in Quran</li>
+                  
+				  <li><a href="https://quran.com/3/173">Ibrahim (As) says "HabunAllah owa ni maal owakeel", more or less meaning, "Allah alone is sufficient as an aid for us and He is the best Protector." And Allah knows the best</a></li>
+				  
                   <li>His relative Prophet Lut (As) also gets prophethood</li>
                </ul>
                </p>
@@ -186,7 +191,9 @@
                <h2>Good news of Son</h2>
                <p>
                <ul>
-                  <li>Angel visits and gives good news of son to Ibrahim (As)</li>
+                  
+				  <li><a href="https://quran.com/11/71">Angel visits and gives good news of son to Ibrahim (As)</a></li>
+				  
                   <li>Yaqoob and Ishmael (As) are the two sons</li>
                   <li>From Prophet Yaqoob (As) comes Bani Israel and all their Prophets, including Prophet Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
                   <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As)</li>
@@ -383,7 +390,8 @@
 			   <li>Throughout his pbuh life, Allah kept him pbuh away from shirk and paganism</li>
 			   <li>Prophet pbuh used to to away from all the corruption of the Makkan society and seek refuge in solitude in the cave of Hira</li>
 			   <li>During one of these sessions was the first time Allah sent Gibrael (As) with the verses of Surah Alak, the first revealation at the age of 40</li>
-			   <li>It was not an accident or coincidence the the first verse revelaed was an advise to read, i.e. "Iqra"</li>
+			   <li><a href="https://quran.com/96/1">It was not an accident or coincidence the the first verse revelaed was an advise to read, i.e. "Iqra"</a></li>
+			   
 			   <li>Reading / gaining knowldege is the foundation of seeking guidance and worship Allah with the correct knowledge</li>
 			   <li>Prophet pbuh was scared and shocked to experience the appearance of Gibarel (As)</li>
 				<li>Prophet pbuh told this to his pbuh wife Khadeeja (Ra)</li>
@@ -498,12 +506,14 @@
                <h2>620 Isra al Miraaj</h2>
                <p>
 			   
+			    
 			   
 			   <ul>
 			   <li>Age 50</li>
+			   <li><a href="https://quran.com/17/1">Firstly Prophet pbuh goes from Makkah to Jerujalem and from there to Heaven</a></li>
 			   <li>Prayer was revealed</li>
 			   <li>Last few verses of Surah Bakarah was revealed (verification required)</li>
-			   <li>Firstly Prophet pbuh goes from Makkah to Jerujalem and from there to Heaven</li>
+			   <li></li>
 			   <li>Abu Bakar (Ra) says, if he (pbuh) says he (pbuh) went to Jerusalem, then he (pbuh) is saying the truth</li>
 			   <li>Prophet (pbuh) narrates baitul makdis to the questioners (hadith ref required)</li>
 			   

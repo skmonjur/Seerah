@@ -383,12 +383,13 @@
 			   <li>Throughout his pbuh life, Allah kept him pbuh away from shirk and paganism</li>
 			   <li>Prophet pbuh used to to away from all the corruption of the Makkan society and seek refuge in solitude in the cave of Hira</li>
 			   <li>During one of these sessions was the first time Allah sent Gibrael (As) with the verses of Surah Alak, the first revealation at the age of 40</li>
+			   <li>It was not an accident or coincidence the the first verse revelaed was an advise to read, i.e. "Iqra"</li>
+			   <li>Reading / gaining knowldege is the foundation of seeking guidance and worship Allah with the correct knowledge</li>
+			   <li>Prophet pbuh was scared and shocked to experience the appearance of Gibarel (As)</li>
+				<li>Prophet pbuh told this to his pbuh wife Khadeeja (Ra)</li>
+				<li>Khadeeja (Ra)immediately beleived Prophet pbuh, and became the first ever Muslim on the face of Earth, what an honor</li>
 			   <li>Secret Preaching started</li>
-			   <li>Procecution of Muslims by Makkans started taking place for beleiving in one and only God, Allah</li>
-			   <li>614 Sumayia's death</li>
-			   <li>615 First migration to Abisynia</li>
-			   <li>615 Hamza (Ra) joins in the group of First Muslims</li>
-			   	<li>616 Omar (Ra) joins in the group of First Muslims</li>
+			   
 				
 			   </ul>
 			   
@@ -397,8 +398,58 @@
 			   </p>
             </div>
          </div>
+		 
+		 <div class="container right">
+            <div class="content">
+               <h2>First few beleivers</h2>
+               
+			   <ul>
+			   
+			   <li>After Khadeeja (Ra), Ali (Ra) and his pbuh daughers were among the first beleivers</li>
+			   <li>Abu Bakar (Ra) was the first Muslim outsite of Prophet (pbuh) family</li>
+			   <li>Abu Bakar was his pbuh neighbour and friend</li>
+			   <li>Makkans used to love Abu Bakar (Ra) for his noble character which was similar to Prophet pbuh, no wonder they were friends and were almost of same age (i.e. one year difference approximately)</li>
+			   <li>...</li>
+				
+			   </ul>
+			   
+			   
+			   
+			   
+            </div>
+         </div>
+		 
+		 
+		 
+		   <div class="container left">
+            <div class="content">
+               <h2>Makkans Reaction</h2>
+               
+			   <ul>
+			   <li>Makkans didnt accept the msg of Prophet pbuh</li>
+			   <li>Makkans were not going to give up the religion, custom and culture of their forefathers</li>
+			   <li>Makkans started punishing their Muslim slaves</li>
+			   <li>These tourture only raised the status of the Companions (Ra) of the Prophet pbuh</li>
+			   <li>Leaders of Qurayes tribe tries to talk to Abu Talib, the Uncle of the Prophet pbuh for Prophet to refrain from preaching</li>
+			<li>Abu Talib did not back off and showed unconditional support to his nephew pbuh</li>
+			   <li>614 Sumayia's death</li>
+			   <li>615 First migration to Abisynia</li>
+			   <li>615 Hamza (Ra) joins in the group of First Muslims</li>
+			   <li>616 Omar (Ra) joins in the group of First Muslims</li>
+			   
+				
+			   </ul>
+			   
+			   
+			   
+			   
+            </div>
+         </div>
+		 
          
-     
+
+			   
+			   
          
          <div class="container left">
             <div class="content">

@@ -160,7 +160,13 @@
    </head>
    <body>
       <div class="timeline">
-         <div class="container right">
+         
+		  
+		 
+		 
+		 
+		 
+		 <div class="container right">
             <div class="content">
                <h2>Prophet Ibrahim (As)</h2>
                <p>
@@ -202,19 +208,37 @@
                </p>
             </div>
          </div>
+		 
+		 <div class="container left">
+            <div class="content">
+               <h2>Jews in Medina</h2>
+               <p>
+               <ul>
+                  <li>There were Jews in Madina before Prophet pbuh</li>
+                  <li>They were waiting for their prophet and were looking for a place the description of which matched Madina</li>
+                  <li>Allah mentions in the Quran about them, they knew the Prophet pbuh more than their own children</li>
+
+               </ul>
+               </p>
+            </div>
+         </div>
+		 
+		 
          <div class="container left">
             <div class="content">
                <h2>Qusai Ibn Qalb</h2>
                <p>
                <ul>
-                  <li>He went to top of the chain by uniting the Qurayesh tribe</li>
-                  <li>He gained power over Khujaya tribe</li>
+                  <li>His lineage was from Prophet Ishmael (As)</li>
+				  <li>He went to top of the chain by uniting the Qurayesh tribe</li>
+				  <li>He gained power over Khujaya tribe</li>
                   <li>His sons are going to be the leaders of Qurayesh</li>
                   <li>They (i.e. his sons) will have duties and responsibilities of taking care of Hajjis</li>
 				  <li>One of his son was Abde Manaf</li>
 				  <li>Abde Manaf had a son named, Haashim</li>
 				  <li>Haashim's son Abdul Muttalib is the Grand Father of Prophet pbuh</li>
 				  <li>In other words, Son of Abdul Muttalib is Abdullah, and Son of Abdullah is Prophet pbuh</li>
+				  <li>People of Qurayesh were honoured because they were the caretakers of the Kabah</li>
 				  
                </ul>
                </p>
@@ -259,13 +283,14 @@
          </div>
          <div class="container right">
             <div class="content">
-               <h2>Haleema</h2>
+               <h2>Haleema Sa'dya (Ra)</h2>
                <p>
                <ul>
                   <li>Makkan's had a tradition of sending young kids to deserts for learning pure language and to be tough in the harsh environment</li>
-                  <li>Haleema was one of the foster mothers who was looking for a baby to take care</li>
-                  <li>None took Prophet pbuh as he pbuh was an orphan, except Haleema (Ra)</li>
-                  <li>During his pbuh stay at Haleema (Ra) the incident with Angel Gibrael took place where he came and washed his (pbuh) heart as per the hadith. Narrated by Muslim (162)</li>
+                  <li>Haleema (Ra) was one of the foster mothers who was looking for a baby to take care</li>
+				  <li>Haleema (Ra) finds blessings in her body, animals and they could spot the goodness as soon as the Prophet pbuh went to their house</li>
+                  <li>None took Prophet pbuh as he pbuh was an orphan, except Haleema(Ra)</li>
+                  <li>During his pbuh stay at Haleema (Ra) (Ra) the incident with Angel Gibrael took place where he came and washed his (pbuh) heart as per the hadith. Narrated by Muslim (162)</li>
 				  
                </ul>
                </p>
@@ -277,10 +302,14 @@
          <div class="container left">
             <div class="content">
                <h2>Losing Mother and Grandfather</h2>
-               <p>
-			   
-			   Death of Mother Ameena and Abdul Muttalib
-			   </p>
+               <ul>
+                  <li>After coming back from Haleema (Ra), Prophet pbuh stayed with his pbuh mother approximately 2 years</li>
+				  <li>After that his pbuh mother died</li>
+				  <li>Then for sometime Prophet pbuh was under the care of his pbuh, Grandfather</li>
+				  <li>After the Grandfather passed away the Prophet pbuh was looked after by his pbuh Uncle Abu Talib, the son of Abdul Muttalib</li>
+                  
+				  
+               </ul>
             </div>
          </div>
          
@@ -294,7 +323,7 @@
                   <li>Bahira warned Abu talib to take the Prophet (pbuh) at a safe place in case the Bizentines finds out about him and kill him</li>
                   <li>Prophet pbuh participated Battle of Fijar at the age of 20 on the side of Qurayesh</li>
                   <li>Hilf ul Fudul was formed</li>
-                  <li>Taking care of Goats for Makkans as a profession</li>
+                  <li>Like all other prophets, our Prophet pbuh also tended sheep for sometime for the people of Makkah</li>
 				  <li>Khadeejaa (Ra) appoints Prophet pbuh as her business representative to Syria</li>
 		
 				  
@@ -351,13 +380,15 @@
                <h2>610 CE, First Revelation</h2>
                <p>First Revelation, during the month of Ramadan (Verification Required)
 			   <ul>
-			   <li>Age 40 (39 years and some months)</li>
-			   <li>Secret Preaching</li>
-			   <li>Procecution of Muslims</li>
+			   <li>Throughout his pbuh life, Allah kept him pbuh away from shirk and paganism</li>
+			   <li>Prophet pbuh used to to away from all the corruption of the Makkan society and seek refuge in solitude in the cave of Hira</li>
+			   <li>During one of these sessions was the first time Allah sent Gibrael (As) with the verses of Surah Alak, the first revealation at the age of 40</li>
+			   <li>Secret Preaching started</li>
+			   <li>Procecution of Muslims by Makkans started taking place for beleiving in one and only God, Allah</li>
 			   <li>614 Sumayia's death</li>
 			   <li>615 First migration to Abisynia</li>
-			   <li>615 Hamza (Ra) joins in</li>
-			   	<li>616 Omar (Ra) joins in</li>
+			   <li>615 Hamza (Ra) joins in the group of First Muslims</li>
+			   	<li>616 Omar (Ra) joins in the group of First Muslims</li>
 				
 			   </ul>
 			   

@@ -321,7 +321,7 @@
 				  
 				  
                </ul>
-               </p>
+               
             </div>
          </div>
          <div class="container right">

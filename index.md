@@ -284,7 +284,7 @@
                <h2>Before Marriage</h2>
                <p>as per "When the Moon Split" compilled by S R Mubarakpuri:
                <ul>
-                  <li>Age 12 Prophet (pbuh) went to Syria with his (pbuh) uncle Abu Talib</li>
+                  <li>At the age of 12 Prophet (pbuh) went to Syria with his (pbuh) uncle Abu Talib</li>
                   <li>A christian monk named as Bahira recognised Prophet (pbuh) as having sings of being a prophet</li>
                   <li>Bahira warned Abu talib to take the Prophet (pbuh) at a safe place in case the Bizentines finds out about him and kill him</li>
                   <li>Prophet pbuh participated Battle of Fijar at the age of 20 on the side of Qurayesh</li>

@@ -591,7 +591,7 @@
                   <li>They also told Makkans to ask the Prophet about "Soul"</li>
 
 </ul>
-                  <li>...</li>
+
                </ul>
                </p>
             </div>
@@ -811,7 +811,7 @@
       </div>
 
 <div class="content">
-<p>There are many roles of Prophet pbuh to chose from, he was a Leader, a brother, a husband, a friend, a father in law. There are so many roles to chose from the companions (ra) around him (pbuh). Everyone has to play their roles to carry and deliver the message to others up until the time Prophet Isa (i.e. Jesus) comes back and lead the nation of Muslims for the final victory by the will of Allah</p>
+<p>There are many roles of Prophet pbuh for us to chose from. He pbuh was a Leader, a brother, a husband, a friend, a father in law. There are so many roles to chose from the companions (ra) around him (pbuh). Every one of us has to play our respective roles to carry and deliver the message to others up until the time Prophet Isa (i.e. Jesus) comes back and lead the nation of Muslims for the final victory by the will of Allah</p>
 
 <p>Anything good in this small and insignificant piece of work is from Allah and all the mistakes are from myself due to the whispers of shaytan. May Allah frogive me, my family and all my beloved brothers and their families and make us all among the neighbours of Prophet Muhammad peace and blessings be upon him.</p>
 </div>

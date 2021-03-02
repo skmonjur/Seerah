@@ -46,6 +46,7 @@
          top: 15px;
          border-radius: 50%;
          z-index: 1;
+
          }
          /* Place the container to the left */
          .left {
@@ -159,6 +160,11 @@
       </script>
    </head>
    <body>
+
+<div>
+<p>The details were mainly taken from the book, "When the Moon Split" compiled by Safiur Rahman Mubarakpuri. Other additional information were taken from other sources such as <a href="https://www.islamicbulletin.org">Link</a></p>
+</div>
+
       <div class="timeline">
          
 		  
@@ -168,7 +174,7 @@
 		 
 		 <div class="container right">
             <div class="content">
-               <h2>Prophet Ibrahim (As)</h2>
+               <h2>Prophet Ibrahim / Abraham (As)</h2>
                <p>
                <ul>
                   
@@ -417,7 +423,7 @@
 			   <li>Abu Bakar (Ra) was the first Muslim outsite of Prophet (pbuh) family</li>
 			   <li>Abu Bakar was his pbuh neighbour and friend</li>
 			   <li>Makkans used to love Abu Bakar (Ra) for his noble character which was similar to Prophet pbuh, no wonder they were friends and were almost of same age (i.e. one year difference approximately)</li>
-			   <li>...</li>
+		
 				
 			   </ul>
 			   
@@ -434,7 +440,7 @@
                <h2>Makkans Reaction</h2>
                
 			   <ul>
-			   <li>Makkans didnt accept the msg of Prophet pbuh</li>
+			   <li>Makkans didnt accept the message of Prophet pbuh</li>
 			   <li>Makkans were not going to give up the religion, custom and culture of their forefathers</li>
 			   <li>Makkans started punishing their Muslim slaves</li>
 			   <li>These tourture only raised the status of the Companions (Ra) of the Prophet pbuh</li>
@@ -444,6 +450,9 @@
 			   <li>615 First migration to Abisynia</li>
 			   <li>615 Hamza (Ra) joins in the group of First Muslims</li>
 			   <li>616 Omar (Ra) joins in the group of First Muslims</li>
+			   <li>Religion of Islam became strong after these two men joined in and beleived in the message</li>
+			   <li>Muslims prayed openly at the Kabah</li>
+<li>They openly declared their faith</li>
 			   
 				
 			   </ul>
@@ -461,7 +470,7 @@
                <h2>Dawah strategy at Makkah</h2>
                
 			   <ul>
-<p>In his book Safiur Rahman Mubarakpuri points out some of the hikmah of the way the Prophet pbuh and companions dealt with the opression</p>
+<p>In his book "When the Moon Split" Safiur Rahman Mubarakpuri points out some of the hikmah of the way the Prophet pbuh and companions dealt with the opression, however Allah knows the best</p>
 
 			   <li>The companions (Ra) were being trained to face the torture and punishment on the path of Allah</li>
 			   <li>They were able to endure due to their lack of attachment with the Duniya and eagerness for the bliss of Paradise</li>
@@ -480,6 +489,25 @@
 			   
 			   
 			   
+            </div>
+         </div>
+
+         <div class="container left">
+            <div class="content">
+               <h2>Few points on migration to Abisineya</h2>
+               <p>
+               <ul>
+                  <li>Prophet pbuh wanted to save and ensure the spread of the message and hence he sent some Mulsims to a land of just king</li>
+                  <li>People of Abissinya were Christians (Abrahamic Religion) opposed to the people of Makkah who were pagans this was an advantage for Muslims</li>
+                  <li>Prophet pbuh knew about Abissinya from his pbuh nursemaid Umm Aiman about the land and its people</li>
+                  <li>As a merciful Leader Prophet pbuh was concerned about the safety and freedom of his pbuh followers and hence he pbuh permitted Hijrah option for them to go and live a safe life and spread the message</li>
+<li>In the group there were Companions (Ra) like his pbuh dauther (Rukaiya Ra), son in law (Uthman Ra) and his pbuh cousin Jafar ibn Abu Taleb, which shows he pbuh was not taking a mere chance wih the life of some followers and including his pbuh beloved family members in that decision too</li>
+<li>This also shows even though his pbuh family members had to suffer the same fate as his followers / companions (Ra)</li>
+<li>These migrations (1st and 2nd Abissinyan migrations) lowered the status of Qurayesh as others in Surrounding areas were kind eough to provide shelter to their (Qurayesh's own tribesmen) people. And it als became obvious they (Qurayesh) were prosecuting Muslims because they worship only Allah and no one else</li>
+<li>...</li>
+
+               </ul>
+               </p>
             </div>
          </div>
 			   

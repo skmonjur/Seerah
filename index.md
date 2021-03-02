@@ -177,12 +177,15 @@
                <h2>Prophet Ibrahim / Abraham (As)</h2>
                <p>
                <ul>
-                  
+<li>All three Abrahamic religions initiate from this Prophet of Allah, Judaism, Christianity and Islam</li>
+<li>From Prophet Yaqoob (As) comes Bani Israel and all their Prophets, including Prophet Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
+                  <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As)</li>
+                
 
 
-				  <li><a href="https://quran.com/21/58">Breaks Idols</a></li>
-                  <li>Father thorws him out of the home</li>
-                  <li>Goes for in search of God</li>
+				  <li><a href="https://quran.com/21/58">Prophet Abraham (As) Breaks Idols as recorded in Holy Quran (Quran 21:58)</a></li>
+                  <li>His (As) Father thorws him (As) out of the home</li>
+                  <li><a href="https://quran.com/6/78">Prophet Abraham (As)goes for in search of God (Quran 6:78)</a></li>
                   <li>King throws Ibrahim (As) in fire</li>
                   
 				  <li><a href="https://quran.com/3/173">Ibrahim (As) says "HabunAllah owa ni maal owakeel", more or less meaning, "Allah alone is sufficient as an aid for us and He is the best Protector." And Allah knows the best</a></li>
@@ -198,11 +201,10 @@
                <p>
                <ul>
                   
-				  <li><a href="https://quran.com/11/71">Angel visits and gives good news of son to Ibrahim (As)</a></li>
+				  <li><a href="https://quran.com/11/71">Angel visits and gives good news of son to Ibrahim (As) (Quran 11:71)</a></li>
 				  
                   <li>Yaqoob and Ishmael (As) are the two sons</li>
-                  <li>From Prophet Yaqoob (As) comes Bani Israel and all their Prophets, including Prophet Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
-                  <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As)</li>
+                  
                </ul>
                </p>
             </div>
@@ -724,5 +726,9 @@
          
          
       </div>
+
+<div class="content">
+<p>What lesson you will take from this and use that to guide your next steps?</p>
+</div>
    </body>
 </html>

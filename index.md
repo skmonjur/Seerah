@@ -402,7 +402,7 @@
 				  
 				  
 				  <ul>
-				  Over the nex few years, Prophet pbuh gets blessed with four daughters:
+				  Over the next few years, Prophet pbuh gets blessed with four daughters:
 				  <li>Birth of first daugher Zainaab (Ra)</li>
                   <li>Birth of second daugher Ruqaiya (Ra)</li>
                   <li>Birth of third daugher Umm Kulthum (Ra)</li>

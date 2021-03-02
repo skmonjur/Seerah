@@ -811,9 +811,24 @@
       </div>
 
 <div class="content">
-<p>There are many roles of Prophet pbuh for us to chose from. He pbuh was a Leader, a brother, a husband, a friend, a father in law. There are so many roles to chose from the companions (ra) around him (pbuh). Every one of us has to play our respective roles to carry and deliver the message to others up until the time Prophet Isa (i.e. Jesus) comes back and lead the nation of Muslims for the final victory by the will of Allah</p>
+
+<div>
+<h1>Who are we?</h1>
+
+<p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “I wish I could meet my brothers.” The Prophet’s companions said, “Are we not your brothers?” The Prophet said, “You are my companions, but my brothers are those who have faith in me although they never saw me.”
+
+Source: Musnad Aḥmad 12169
+
+Grade: Hasan (fair) according to Al-Albani</p>
+
+</dive>
+
 
 <p>Anything good in this small and insignificant piece of work is from Allah and all the mistakes are from myself due to the whispers of shaytan. May Allah frogive me, my family and all my beloved brothers and their families and make us all among the neighbours of Prophet Muhammad peace and blessings be upon him.</p>
+
+
+
+
 </div>
    </body>
 </html>

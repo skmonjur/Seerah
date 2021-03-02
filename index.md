@@ -171,7 +171,7 @@
 
 <p>Allah has sent Prophet Muhammad (pbuh) as a mercy to the whole humanity, someone from whom we are supposed to learn. If we dont know about his pbuh struggle and strategy to overcome the burdens, we may never succeed in this world and the one to come after this.</p>
 
-<p>Most of the details were taken from the book, "When the Moon Split" compiled by Safiur Rahman Mubarakpuri. Other additional information were taken from a range of online verifiable sources</p>
+<p>Most of the details were taken from the book, "When the Moon Split" (1998) compiled by Safiur Rahman Mubarakpuri. Other additional information were taken from a range of online verifiable sources</p>
 </div>
 
       <div class="timeline">
@@ -181,27 +181,25 @@
 		 
 		 
 		 
-		 <div class="container right">
+		 <div class="container left">
+
             <div class="content">
                <h2>Prophet Ibrahim / Abraham (As)</h2>
                <p>
                <ul>
 <li>All three Abrahamic religions initiate from this Prophet of Allah, Judaism, Christianity and Islam</li>
-<li>From Prophet Abraham's son Prophet Yaqoob / Jacob (As) comes Bani Israel (Isralites / Jews) and all their Prophets, including Prophet Yousuf / Joheph, Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
-                  <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As), other son of Prophet Abraham (As) with Hajar / Hagar</li>
+<li>From Prophet Abraham's son Prophet Iahaaq / Isaac (As) comes Bani Israel (Isralites / Jews) and all their Prophets, e.g. Prophet Yaqoob / Jacob, Prophet Yousuf / Joheph, Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
+                  <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As), other son of Prophet Abraham (As) with Hajar / Hagar (1)</li>
                 
 
 
-				  <li><a href="https://quran.com/21/58">Prophet Abraham (As) Breaks Idols as recorded in Holy Quran (Quran 21:58)</a></li>
-                  <li>His (As) Father thorws him (As) out of the home</li>
-                  <li><a href="https://quran.com/6/78">Prophet Abraham (As)goes for in search of God (Quran 6:78)</a></li>
-                  <li>King throws Ibrahim (As) in fire</li>
-                  
-				  <li><a href="https://quran.com/3/173">Ibrahim (As) says "HabunAllah owa ni maal owakeel", more or less meaning, "Allah alone is sufficient as an aid for us and He is the best Protector." And Allah knows the best</a></li>
 				  
-                  <li>His relative Prophet Lut (As) also gets prophethood</li>
+
+                  
                </ul>
-               </p>
+
+<p><cite>(1) Sahih Muslim 2276</cite></p>
+
             </div>
          </div>
          
@@ -216,6 +214,9 @@
                   <li>Life begins at Makkah</li>
                   <li>Ibrahim and Ishmael (As) builds Kabah</li>
                </ul>
+
+<p><cite>Sahih al-Bukhari 3365</cite></p>
+               </p>
                </p>
             </div>
          </div>
@@ -226,7 +227,9 @@
                <h2>Prophet Musa / Moses (Peace be upon him) indicated about a Prophet coming</h2>
                <p>
                <ul>
-                  <li>“I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.  And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.  But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die. And if thou say in thine heart, How shall we know the word which the LORD hath not spoken? When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.” Deuteronomy 18:18-22 (King James Version) </li>
+                  <li>“I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.  And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.  But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die. And if thou say in thine heart, How shall we know the word which the LORD hath not spoken? When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.” <cite>Deuteronomy 18:18-22 (King James Version)</cite> </li>
+
+<br></br>
                   <li>Similarities between Moses and Muhammad (pbuh):</li>
 <ul>
                   <li>Both were rejected by their people but later became their accepted leaders</li>
@@ -255,7 +258,7 @@
             <div class="content">
                <h2>Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</h2>
                <p>
-              "I still have many things to say to you, but you cannot bear them now. When the Spirit of Truth comes, he will guide you into all the truth; for he will not speak on his own, but will speak whatever he hears, and he will declare to you the things that are to come.  He will glorify me, because he will take what is mine and declare it to you. All that the Father has is mine.  For this reason I said that he will take what is mine and declare it to you." (John 16:12-15, NRSV)
+              "I still have many things to say to you, but you cannot bear them now. When the Spirit of Truth comes, he will guide you into all the truth; for he will not speak on his own, but will speak whatever he hears, and he will declare to you the things that are to come.  He will glorify me, because he will take what is mine and declare it to you. All that the Father has is mine.  For this reason I said that he will take what is mine and declare it to you." <cite>(John 16:12-15, NRSV)</cite>
                </p>
             </div>
          </div>
@@ -334,7 +337,8 @@
          <div class="container right">
             <div class="content">
                <h2>571 Year of Birth</h2>
-               <p>571 CE, Prophet pbuh was born as per "When the Moon Split" compilled by S R Mubarakpuri</p>
+               <p>571 CE, Prophet pbuh was born</p>
+<p><cite>When the Moon Split 1998</cite></p>
             </div>
          </div>
          <div class="container left">
@@ -378,7 +382,7 @@
          <div class="container left">
             <div class="content">
                <h2>Before Marriage</h2>
-               <p>as per "When the Moon Split" compilled by S R Mubarakpuri:
+               <p>
                <ul>
                   <li>At the age of 12 Prophet (pbuh) went to Syria with his (pbuh) uncle Abu Talib</li>
                   <li>A christian monk named as Bahira recognised Prophet (pbuh) as having sings of being a prophet</li>
@@ -389,7 +393,7 @@
 				  <li>Khadeejaa (Ra) appoints Prophet pbuh as her business representative to Syria</li>
 		
 				  
-               </ul>
+               </ul><cite>When the Moon Split 1998</cite>
                </p>
             </div>
          </div>
@@ -503,7 +507,8 @@
 			   <li>Muslims prayed openly at the Kabah</li>
 <li>They openly declared their faith</li>
 			   
-				
+				<p><cite>When the Moon Split 1998</cite></p>
+
 			   </ul>
 			   
 			   
@@ -519,7 +524,7 @@
                <h2>Dawah strategy at Makkah</h2>
                
 			   <ul>
-<p>In his book "When the Moon Split" Safiur Rahman Mubarakpuri points out some of the hikmah of the way the Prophet pbuh and companions dealt with the opression, however Allah knows the best</p>
+<p>From <cite>When the Moon Split 1998</cite> we explore some possible hikmah of the way the Prophet pbuh and companions dealt with the opression, however Allah knows the best</p>
 
 			   <li>The companions (Ra) were being trained to face the torture and punishment on the path of Allah</li>
 			   <li>They were able to endure due to their lack of attachment with the Duniya and eagerness for the bliss of Paradise</li>
@@ -553,6 +558,7 @@
 <li>In the group there were Companions (Ra) like his pbuh dauther (Rukaiya Ra), son in law (Uthman Ra) and his pbuh cousin Jafar ibn Abu Taleb, which shows he pbuh was not taking a mere chance wih the life of some followers and including his pbuh beloved family members in that decision too</li>
 <li>This also shows even though his pbuh family members had to suffer the same fate as his followers / companions (Ra)</li>
 <li>These migrations (1st and 2nd Abissinyan migrations) lowered the status of Qurayesh as others in Surrounding areas were kind eough to provide shelter to their (Qurayesh's own tribesmen) people. And it als became obvious they (Qurayesh) were prosecuting Muslims because they worship only Allah and no one else</li>
+<p><cite>When the Moon Split 1998</cite></p>
 
 
                </ul>
@@ -572,6 +578,8 @@
 <li>Makkans also offered Prophet pbuh to worship their god for few days and they were happy to worship the God of Prophet pbuh</li>
 <li>By making all these offers Qurayesh only proved they were desparate to stop the message</li>
 <li>Prophet pbuh didnot compromise at all, he pbuh could not as this is the truth came from Allah and not himself pbuh</li>
+
+<p><cite>When the Moon Split 1998</cite></p>
                </ul>
                </p>
             </div>
@@ -584,11 +592,12 @@
                <ul>
                   <li>Once Makkans realised Prophet pbuh was sincere and was not prepared to back off, they were determined to find out whether or not Muhammad pbuh was really a Prophet</li>
                   <li>Makkans sought help from Jewish rabbis</li>
-                  <li>Rabbis taught them three questions to ask the Prophet pbuh</li>
+                  <li>Rabbis taught them three questions to ask the Prophet pbuh <cite>When the Moon Split 1998</cite></li>
 <ul>
                   <li>Rabbis taught Qurayesh to ask Prophet pbuh about the youth of the cave</li>
                   <li>The next one was to ask about the Jul Kar Nayeen, the one travelled thoughout both the East and the West</li>
                   <li>They also told Makkans to ask the Prophet about "Soul"</li>
+<p><cite>When the Moon Split 1998</cite></p>
 
 </ul>
 
@@ -681,6 +690,43 @@
             </div>
          </div>
          
+
+ <div class="container left">
+            <div class="content">
+               <h2>Two Marriages of the Prophet pbuh of which some are in doubt</h2>
+               <p>
+               <ul>
+                  <li>Marriage with Zaynab (Ra), reason being Zaynab (Ra) was wife of Prophet's pbuh adopted son Zaid</li>
+<ul>
+<li>Allah commanded this marrage</li>
+<li>"...So when Zaid totally lost interest in keeping his wife, We gave her to you in marriage... <cite>(Quran 33:37, more or less meaning and Allah knows the best)</cite>"</li>
+</ul>
+                  <li>Marriage with Ayesha (Ra), reason being Aisha (Ra) according to one narration was very young at the time of the marriage</li>
+<ul>
+
+<li>Prophet pbuh was inspired by a dream about this marriage which is recorded in saheeh al bukhari</li>
+<li>Allah's Messenger (ﷺ) said to me, "You were shown to me twice (in my dream) before I married you. I saw an angel carrying you in a silken piece of cloth, and I said to him, 'Uncover (her),' and behold, it was you. I said (to myself), 'If this is from Allah, then it must happen.' Then you were shown to me, the angel carrying you in a silken piece of cloth, and I said (to him), 'Uncover (her), and behold, it was you. I said (to myself), 'If this is from Allah, then it must happen.' " <a href="https://sunnah.com/bukhari:7012"><cite>Sahih al-Bukhari 7012</cite></a></li>
+
+
+
+</ul>
+
+
+
+<li>People who have problems with these two marriages of Prophet pbuh are two types, Muslims with weak faith / imaan and enemies of Islam</li>
+<li>Problem with the first group can be dealt by saying, if they beleive Prophet pbuh as a Messenger of God, then they should have no propblems with what God has commanded or inspired him pbuh to do. It is a part of beleif</li>
+<li>According to further study and investigation we come to know that Arabs at the time of the Prophet pbuh was not maintaining any calender as such, so its very poosible for them to use a very rough estimate of time and mention their age</li>
+<li>Number system speciallay the ones that involve counting more than ten was only familarised after the Arabs found out about the number Zero from Indians, hence it could be very possible for them (i.e. Arabs) to avoid using the numbers that are greater than ten prior to that time and Allah knows the best</li>
+<li>A further in detailed study could be found here regarding the matter <a href="http://hameem.org/2019/02/11/proof-that-aisha-was-over-15-years-old-when-she-married-the-prophet-peace-be-upon-him/"><cite>Proof That Aisha Was Over 15 Years Old When She Married The Prophet (Peace Be Upon Him)</cite></a></li>
+
+
+               </ul>
+               </p>
+            </div>
+         </div>
+
+
+
          <div class="container left">
             <div class="content">
                <h2>622 Hijrah</h2>
@@ -821,7 +867,7 @@ Source: Musnad Aḥmad 12169
 
 Grade: Hasan (fair) according to Al-Albani</p>
 
-</dive>
+
 
 
 <p>Anything good in this small and insignificant piece of work is from Allah and all the mistakes are from myself due to the whispers of shaytan. May Allah frogive me, my family and all my beloved brothers and their families and make us all among the neighbours of Prophet Muhammad peace and blessings be upon him.</p>

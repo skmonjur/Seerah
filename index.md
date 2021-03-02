@@ -162,10 +162,12 @@
    <body>
 
 <div class="content">
-
+<h1>Why?</h1>
 <p>Every Muslim must know the biography of their Prophet Muhammad peace and blessings be upon him. One will not have faith untill they love their Prophet more than themselves. We are now living in a digital world where books have been replaced by devices of many forms. This small attempt In Sha Allah is one of many future steps to come to from the Ummah to include the new generations and introduce them to the Seerah (i.e. Biography) of our beloved (pbuh). </p>
 
-<p>Having said this, nothing can replace the experience of reading an actual book, turning the pages, taking notes on them etc. I personally find it very prestigeous to own a small library and having some must have books in there. I encourage all to read, listen to seerah books and lectures over and over again to know more about the Prophet pbuh and understand his mission so that we can align ours and not live a life full of directionlessness.</p>
+<p>Having said this, nothing can replace the experience of reading an actual book made of paper, turning the pages, taking notes on them etc. I personally find it very prestigeous to own a small library and having some must have books in there. I encourage all to read, listen to seerah books and lectures over and over again to know more about the Prophet pbuh and understand his mission so that we can align ours and not live a life full of directionlessness.</p>
+
+<p>Seerah lecture of Yasir Kazi was game changer for me. I took the advise from Nouman Ali Khan to go and learn about seerah. May Allah bless both of them and all the people working hard day and night to uphold and follow the religion of Allah according to the way of Prophet Muhammad peace and blessing be upon him.</p>
 
 <p>Allah has sent Prophet Muhammad (pbuh) as a mercy to the whole humanity, someone from whom we are supposed to learn. If we dont know about his pbuh struggle and strategy to overcome the burdens, we may never succeed in this world and the one to come after this.</p>
 
@@ -773,7 +775,7 @@
       </div>
 
 <div class="content">
-<p>What lesson you will take from this and use that to guide your next steps?</p>
+<p>Anything good in this small piece of work is from Allah and all the mistakes are from myself due to the whispers of shaytan. May Allah frogive me, my family and all my beloved brothers and their families and make us all among the neighbours of Prophet Muhammad peace and blessings be upon him.</p>
 </div>
    </body>
 </html>

@@ -553,13 +553,49 @@
 <li>In the group there were Companions (Ra) like his pbuh dauther (Rukaiya Ra), son in law (Uthman Ra) and his pbuh cousin Jafar ibn Abu Taleb, which shows he pbuh was not taking a mere chance wih the life of some followers and including his pbuh beloved family members in that decision too</li>
 <li>This also shows even though his pbuh family members had to suffer the same fate as his followers / companions (Ra)</li>
 <li>These migrations (1st and 2nd Abissinyan migrations) lowered the status of Qurayesh as others in Surrounding areas were kind eough to provide shelter to their (Qurayesh's own tribesmen) people. And it als became obvious they (Qurayesh) were prosecuting Muslims because they worship only Allah and no one else</li>
-<li>...</li>
+
 
                </ul>
                </p>
             </div>
          </div>
 			   
+         <div class="container left">
+            <div class="content">
+               <h2>Offers made to Prophet pbuh to refrain from preaching</h2>
+               <p>
+               <ul>
+                  <li>Utbah bin Rabiah, a leader of Makkan made few offers to Prophet pbuh to stop preaching the message</li>
+                  <li>Offered was made to make the Prophet pbuh the richest man among all</li>
+                  <li>He pbuh was offered to be the leader of all Makkan tribes</li>
+                  <li>Any bueatiful women was offered to him pbuh in marriage if thats what he pbuh was after</li>
+<li>Makkans also offered Prophet pbuh to worship their god for few days and they were happy to worship the God of Prophet pbuh</li>
+<li>By making all these offers Qurayesh only proved they were desparate to stop the message</li>
+<li>Prophet pbuh didnot compromise at all, he pbuh could not as this is the truth came from Allah and not himself pbuh</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+
+         <div class="container right">
+            <div class="content">
+               <h2>Testing the Prophethood</h2>
+               <p>
+               <ul>
+                  <li>Once Makkans realised Prophet pbuh was sincere and was not prepared to back off, they were determined to find out whether or not Muhammad pbuh was really a Prophet</li>
+                  <li>Makkans sought help from Jewish rabbis</li>
+                  <li>Rabbis taught them three questions to ask the Prophet pbuh</li>
+<ul>
+                  <li>Rabbis taught Qurayesh to ask Prophet pbuh about the youth of the cave</li>
+                  <li>The next one was to ask about the Jul Kar Nayeen, the one travelled thoughout both the East and the West</li>
+                  <li>They also told Makkans to ask the Prophet about "Soul"</li>
+
+</ul>
+                  <li>...</li>
+               </ul>
+               </p>
+            </div>
+         </div>
 			   
          
          <div class="container left">
@@ -775,6 +811,8 @@
       </div>
 
 <div class="content">
+<p>There are many roles of Prophet pbuh to chose from, he was a Leader, a brother, a husband, a friend, a father in law. There are so many roles to chose from the companions (ra) around him (pbuh). Everyone has to play their roles to carry and deliver the message to others up until the time Prophet Isa (i.e. Jesus) comes back and lead the nation of Muslims for the final victory by the will of Allah</p>
+
 <p>Anything good in this small and insignificant piece of work is from Allah and all the mistakes are from myself due to the whispers of shaytan. May Allah frogive me, my family and all my beloved brothers and their families and make us all among the neighbours of Prophet Muhammad peace and blessings be upon him.</p>
 </div>
    </body>

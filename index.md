@@ -217,7 +217,7 @@
                </ul>
 
 <p><cite>Sahih al-Bukhari 3365</cite></p>
-               </p>
+               
                </p>
             </div>
          </div>

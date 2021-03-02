@@ -162,7 +162,14 @@
    <body>
 
 <div class="content">
-<p>The details were mainly taken from the book, "When the Moon Split" compiled by Safiur Rahman Mubarakpuri. Other additional information were taken from other sources such as <a href="https://www.islamicbulletin.org">Link</a></p>
+
+<p>Every Muslim must know the biography of their Prophet Muhammad peace and blessings be upon him. One will not have faith untill they love their Prophet more than themselves. We are now living in a digital world where books have been replaced by devices of many forms. This small attempt In Sha Allah is one of many future steps to come to from the Ummah to include the new generations and introduce them to the Seerah (i.e. Biography) of our beloved (pbuh). </p>
+
+<p>Having said this, nothing can replace the experience of reading an actual book, turning the pages, taking notes on them etc. I personally find it very prestigeous to own a small library and having some must have books in there. I encourage all to read, listen to seerah books and lectures over and over again to know more about the Prophet pbuh and understand his mission so that we can align ours and not live a life full of directionlessness.</p>
+
+<p>Allah has sent Prophet Muhammad (pbuh) as a mercy to the whole humanity, someone from whom we are supposed to learn. If we dont know about his pbuh struggle and strategy to overcome the burdens, we may never succeed in this world and the one to come after this.</p>
+
+<p>Most of the details were taken from the book, "When the Moon Split" compiled by Safiur Rahman Mubarakpuri. Other additional information were taken from a range of online verifiable sources</p>
 </div>
 
       <div class="timeline">
@@ -532,7 +539,7 @@
             </div>
          </div>
 
-         <div class="container left">
+         <div class="container right">
             <div class="content">
                <h2>Few points on migration to Abisineya</h2>
                <p>

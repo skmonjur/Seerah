@@ -456,6 +456,32 @@
 		 
          
 
+		   <div class="container left">
+            <div class="content">
+               <h2>Dawah strategy at Makkah</h2>
+               
+			   <ul>
+<p>In his book Safiur Rahman Mubarakpuri points out some of the hikmah of the way the Prophet pbuh and companions dealt with the opression</p>
+
+			   <li>The companions (Ra) were being trained to face the torture and punishment on the path of Allah</li>
+			   <li>They were able to endure due to their lack of attachment with the Duniya and eagerness for the bliss of Paradise</li>
+			   <li>They were positive about the future of Islam knowing and beleiving that Allah will complete the matter and make Islam the dominant religion of God on the face of Earth</li>
+			   <li>Peaceful preaching was effective in Makkah instead of fighting as that would trigger hatered and more bloodshed instead of the spread of the message</li>
+			   <li>Fighting between Qurayesh and Muslims would mean to the outsiders that Islam came to initiate fight amongst family members</li>
+			   <li>Muslims were few in numbers so the message would get hard to get outside of Arabia if all were engaged in fighting and getting killed at that stage</li>
+			   <li>There was no real need for fighting as Islam was growing slowly but steadily</li>
+
+
+
+			   
+				
+			   </ul>
+			   
+			   
+			   
+			   
+            </div>
+         </div>
 			   
 			   
          

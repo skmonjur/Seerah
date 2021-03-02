@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
    <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -161,7 +161,7 @@
    </head>
    <body>
 
-<div>
+<div class="content">
 <p>The details were mainly taken from the book, "When the Moon Split" compiled by Safiur Rahman Mubarakpuri. Other additional information were taken from other sources such as <a href="https://www.islamicbulletin.org">Link</a></p>
 </div>
 

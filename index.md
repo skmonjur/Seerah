@@ -163,7 +163,7 @@
 
 <div class="content">
 <h1>Why?</h1>
-<p>Every Muslim must know the biography of their Prophet Muhammad peace and blessings be upon him. One will not have faith untill they love their Prophet more than themselves. We are now living in a digital world where books have been replaced by devices of many forms. This small attempt In Sha Allah is one of many future steps to come to from the Ummah to include the new generations and introduce them to the Seerah (i.e. Biography) of our beloved (pbuh). </p>
+<p>Every Muslim must know the biography of their Prophet Muhammad peace and blessings be upon him. One will not have faith untill they love their Prophet more than themselves. We are now living in a digital world where books have been replaced by devices of many forms. This small, simple and insignificant attempt In Sha Allah is one of many future steps to come to from the Ummah to include the new generations and introduce them to the Seerah (i.e. Biography) of our beloved (pbuh). </p>
 
 <p>Having said this, nothing can replace the experience of reading an actual book made of paper, turning the pages, taking notes on them etc. I personally find it very prestigeous to own a small library and having some must have books in there. I encourage all to read, listen to seerah books and lectures over and over again to know more about the Prophet pbuh and understand his mission so that we can align ours and not live a life full of directionlessness.</p>
 
@@ -775,7 +775,7 @@
       </div>
 
 <div class="content">
-<p>Anything good in this small piece of work is from Allah and all the mistakes are from myself due to the whispers of shaytan. May Allah frogive me, my family and all my beloved brothers and their families and make us all among the neighbours of Prophet Muhammad peace and blessings be upon him.</p>
+<p>Anything good in this small and insignificant piece of work is from Allah and all the mistakes are from myself due to the whispers of shaytan. May Allah frogive me, my family and all my beloved brothers and their families and make us all among the neighbours of Prophet Muhammad peace and blessings be upon him.</p>
 </div>
    </body>
 </html>

@@ -178,8 +178,8 @@
                <p>
                <ul>
 <li>All three Abrahamic religions initiate from this Prophet of Allah, Judaism, Christianity and Islam</li>
-<li>From Prophet Yaqoob (As) comes Bani Israel and all their Prophets, including Prophet Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
-                  <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As)</li>
+<li>From Prophet Abraham's son Prophet Yaqoob / Jacob (As) comes Bani Israel (Isralites / Jews) and all their Prophets, including Prophet Yousuf / Joheph, Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
+                  <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As), other son of Prophet Abraham (As) with Hajar / Hagar</li>
                 
 
 
@@ -195,27 +195,14 @@
                </p>
             </div>
          </div>
-         <div class="container left">
-            <div class="content">
-               <h2>Good news of Son</h2>
-               <p>
-               <ul>
-                  
-				  <li><a href="https://quran.com/11/71">Angel visits and gives good news of son to Ibrahim (As) (Quran 11:71)</a></li>
-				  
-                  <li>Yaqoob and Ishmael (As) are the two sons</li>
-                  
-               </ul>
-               </p>
-            </div>
-         </div>
+         
          <div class="container right">
             <div class="content">
-               <h2>Ibrahim (As) goes to Makkah</h2>
+               <h2>Prophet Ibrahim (As) goes to Makkah</h2>
                <p>
                <ul>
-                  <li>Leaves Sarah and Ishmael (As)</li>
-                  <li>Angel comes and by the will of Allah forms the ZamZam well near baby Ishmael (As)</li>
+                  <li>Leaves Sarah and Ishmael (As) as per the command from Allah</li>
+                  <li>Angel Gabriel/ Gibrael (As) comes and by the will of Allah forms the ZamZam well near baby Ishmael (As)</li>
                   <li>A tribe from Yemen (Jurhum) comes and settles there</li>
                   <li>Life begins at Makkah</li>
                   <li>Ibrahim and Ishmael (As) builds Kabah</li>
@@ -224,6 +211,57 @@
             </div>
          </div>
 		 
+
+<div class="container left">
+            <div class="content">
+               <h2>Prophet Musa / Moses (Peace be upon him) indicated about a Prophet coming</h2>
+               <p>
+               <ul>
+                  <li>“I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.  And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.  But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die. And if thou say in thine heart, How shall we know the word which the LORD hath not spoken? When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.” Deuteronomy 18:18-22 (King James Version) </li>
+                  <li>Similarities between Moses and Muhammad (pbuh):</li>
+<ul>
+                  <li>Both were rejected by their people but later became their accepted leaders</li>
+                  <li>Both brought new laws to their people</li>
+                  <li>Both emigrated before ultimately obtaining power</li>
+                  <li>Both had successors that conquered Palestine</li>                  
+<li>Both had normal births</li>
+                  <li>Both had normal deaths</li>
+                  <li>Both led armies</li>
+                  <li>Both were political leaders</li>
+
+
+
+</ul>
+               </ul>
+               </p>
+            </div>
+         </div>
+         
+
+
+
+
+
+         <div class="container right">
+            <div class="content">
+               <h2>Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</h2>
+               <p>
+              "I still have many things to say to you, but you cannot bear them now. When the Spirit of Truth comes, he will guide you into all the truth; for he will not speak on his own, but will speak whatever he hears, and he will declare to you the things that are to come.  He will glorify me, because he will take what is mine and declare it to you. All that the Father has is mine.  For this reason I said that he will take what is mine and declare it to you." (John 16:12-15, NRSV)
+               </p>
+            </div>
+         </div>
+
+
+
+
+
+
+
+
+
+
+
+
 		 <div class="container left">
             <div class="content">
                <h2>Jews in Medina</h2>

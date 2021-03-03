@@ -1,365 +1,894 @@
-<script type="text/javascript">
-var today = new Date();
-var dd = String(today.getDate()).padStart(2, '0');
-var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
-var yyyy = today.getFullYear();
-today = dd + '/' + mm + '/' + yyyy;
-var todaysDate = today;
-
-var alldates =["1/03/2021",
-"2/03/2021",
-"03/03/2021",
-"4/03/2021",
-"5/03/2021",
-"6/03/2021",
-"7/03/2021",
-"8/03/2021",
-"9/03/2021",
-"10/03/2021",
-"11/03/2021",
-"12/03/2021",
-"13/03/2021",
-"14/03/2021",
-"15/03/2021",
-"16/03/2021",
-"17/03/2021",
-"18/03/2021",
-"19/03/2021",
-"20/03/2021",
-"21/03/2021",
-"22/03/2021",
-"23/03/2021",
-"24/03/2021",
-"25/03/2021",
-"26/03/2021",
-"27/03/2021",
-"28/03/2021",
-"29/03/2021",
-"30/03/2021",
-"31/03/2021",
-"1/04/2021",
-"2/04/2021",
-"3/04/2021",
-"4/04/2021",
-"5/04/2021",
-"6/04/2021",
-"7/04/2021",
-"8/04/2021",
-"9/04/2021",
-"10/04/2021",
-"11/04/2021",
-"12/04/2021",
-"13/04/2021",
-"14/04/2021",
-"15/04/2021",
-"16/04/2021",
-"17/04/2021",
-"18/04/2021",
-"19/04/2021",
-"20/04/2021",
-"21/04/2021",
-"22/04/2021",
-"23/04/2021",
-"24/04/2021",
-"25/04/2021",
-"26/04/2021",
-"27/04/2021",
-"28/04/2021",
-"29/04/2021",
-"30/04/2021",
-"1/05/2021",
-"2/05/2021",
-"3/05/2021",
-"4/05/2021",
-"5/05/2021",
-"6/05/2021",
-"7/05/2021",
-"8/05/2021",
-"9/05/2021",
-"10/05/2021",
-"11/05/2021",
-"12/05/2021",
-"13/05/2021",
-"14/05/2021",
-"15/05/2021",
-"16/05/2021",
-"17/05/2021",
-"18/05/2021",
-"19/05/2021",
-"20/05/2021",
-"21/05/2021",
-"22/05/2021",
-"23/05/2021",
-"24/05/2021",
-"25/05/2021",
-"26/05/2021",
-"27/05/2021",
-"28/05/2021",
-"29/05/2021",
-"30/05/2021",
-"31/05/2021",
-"1/06/2021",
-"2/06/2021",
-"3/06/2021",
-"4/06/2021",
-"5/06/2021",
-"6/06/2021",
-"7/06/2021",
-"8/06/2021",
-"9/06/2021",
-"10/06/2021",
-"11/06/2021",
-"12/06/2021",
-"13/06/2021",
-"14/06/2021",
-"15/06/2021",
-"16/06/2021",
-"17/06/2021",
-"18/06/2021",
-"19/06/2021",
-"20/06/2021",
-"21/06/2021",
-"22/06/2021",
-"23/06/2021",
-"24/06/2021",
-"25/06/2021",
-"26/06/2021",
-"27/06/2021",
-"28/06/2021",
-"29/06/2021",
-"30/06/2021",
-"1/07/2021",
-"2/07/2021",
-"3/07/2021",
-"4/07/2021",
-"5/07/2021",
-"6/07/2021",
-"7/07/2021",
-"8/07/2021",
-"9/07/2021",
-"10/07/2021",
-"11/07/2021",
-"12/07/2021",
-"13/07/2021",
-"14/07/2021",
-"15/07/2021",
-"16/07/2021",
-"17/07/2021",
-"18/07/2021",
-"19/07/2021",
-"20/07/2021",
-"21/07/2021",
-"22/07/2021",
-"23/07/2021",
-"24/07/2021",
-"25/07/2021",
-"26/07/2021",
-"27/07/2021",
-"28/07/2021",
-"29/07/2021",
-"30/07/2021",
-"31/07/2021",
-"1/08/2021",
-"2/08/2021",
-"3/08/2021",
-"4/08/2021",
-"5/08/2021",
-"6/08/2021",
-"7/08/2021",
-"8/08/2021"
-];
-
-
-
-
-var a = alldates.indexOf(todaysDate);
-
-var prayerTimes = ["Mon	1/03/2021	Fajr	5:31	|	Dhuhur	1:35	|	Asr	5:14	|	Maghrib	8:05	|	Ishaa	9:15",
-"Tues	2/03/2021	Fajr	5:33	|	Dhuhur	1:35	|	Asr	5:13	|	Maghrib	8:04	|	Ishaa	9:13",
-"Wed	3/03/2021	Fajr	5:34	|	Dhuhur	1:35	|	Asr	5:12	|	Maghrib	8:02	|	Ishaa	9:11",
-"Thur	4/03/2021	Fajr	5:35	|	Dhuhur	1:35	|	Asr	5:12	|	Maghrib	8:01	|	Ishaa	9:10",
-"Friday	5/03/2021	Fajr	5:36	|	Dhuhur	1:35	|	Asr	5:11	|	Maghrib	7:59	|	Ishaa	9:08",
-"Sat	6/03/2021	Fajr	5:38	|	Dhuhur	1:34	|	Asr	5:10	|	Maghrib	7:58	|	Ishaa	9:07",
-"Sun	7/03/2021	Fajr	5:39	|	Dhuhur	1:34	|	Asr	5:09	|	Maghrib	7:57	|	Ishaa	9:05",
-"Mon	8/03/2021	Fajr	5:40	|	Dhuhur	1:34	|	Asr	5:08	|	Maghrib	7:55	|	Ishaa	9:03",
-"Tues	9/03/2021	Fajr	5:41	|	Dhuhur	1:34	|	Asr	5:07	|	Maghrib	7:54	|	Ishaa	9:02",
-"Wed	10/03/2021	Fajr	5:42	|	Dhuhur	1:33	|	Asr	5:07	|	Maghrib	7:52	|	Ishaa	9:00",
-"Thur	11/03/2021	Fajr	5:43	|	Dhuhur	1:33	|	Asr	5:06	|	Maghrib	7:51	|	Ishaa	8:58",
-"Friday	12/03/2021	Fajr	5:45	|	Dhuhur	1:33	|	Asr	5:05	|	Maghrib	7:49	|	Ishaa	8:57",
-"Sat	13/03/2021	Fajr	5:46	|	Dhuhur	1:33	|	Asr	5:04	|	Maghrib	7:48	|	Ishaa	8:55",
-"Sun	14/03/2021	Fajr	5:47	|	Dhuhur	1:32	|	Asr	5:03	|	Maghrib	7:46	|	Ishaa	8:54",
-"Mon	15/03/2021	Fajr	5:48	|	Dhuhur	1:32	|	Asr	5:02	|	Maghrib	7:44	|	Ishaa	8:52",
-"Tues	16/03/2021	Fajr	5:49	|	Dhuhur	1:32	|	Asr	5:01	|	Maghrib	7:43	|	Ishaa	8:50",
-"Wed	17/03/2021	Fajr	5:50	|	Dhuhur	1:31	|	Asr	5:00	|	Maghrib	7:41	|	Ishaa	8:49",
-"Thur	18/03/2021	Fajr	5:51	|	Dhuhur	1:31	|	Asr	4:59	|	Maghrib	7:40	|	Ishaa	8:47",
-"Friday	19/03/2021	Fajr	5:52	|	Dhuhur	1:31	|	Asr	4:58	|	Maghrib	7:38	|	Ishaa	8:46",
-"Sat	20/03/2021	Fajr	5:53	|	Dhuhur	1:31	|	Asr	4:57	|	Maghrib	7:37	|	Ishaa	8:44",
-"Sun	21/03/2021	Fajr	5:54	|	Dhuhur	1:30	|	Asr	4:56	|	Maghrib	7:35	|	Ishaa	8:42",
-"Mon	22/03/2021	Fajr	5:55	|	Dhuhur	1:30	|	Asr	4:55	|	Maghrib	7:34	|	Ishaa	8:41",
-"Tues	23/03/2021	Fajr	5:56	|	Dhuhur	1:30	|	Asr	4:54	|	Maghrib	7:32	|	Ishaa	8:39",
-"Wed	24/03/2021	Fajr	5:57	|	Dhuhur	1:29	|	Asr	4:53	|	Maghrib	7:31	|	Ishaa	8:38",
-"Thur	25/03/2021	Fajr	5:58	|	Dhuhur	1:29	|	Asr	4:52	|	Maghrib	7:29	|	Ishaa	8:36",
-"Friday	26/03/2021	Fajr	5:59	|	Dhuhur	1:29	|	Asr	4:51	|	Maghrib	7:28	|	Ishaa	8:34",
-"Sat	27/03/2021	Fajr	6:00	|	Dhuhur	1:28	|	Asr	4:50	|	Maghrib	7:26	|	Ishaa	8:33",
-"Sun	28/03/2021	Fajr	6:01	|	Dhuhur	1:28	|	Asr	4:49	|	Maghrib	7:25	|	Ishaa	8:31",
-"Mon	29/03/2021	Fajr	6:02	|	Dhuhur	1:28	|	Asr	4:47	|	Maghrib	7:23	|	Ishaa	8:30",
-"Tues	30/03/2021	Fajr	6:03	|	Dhuhur	1:28	|	Asr	4:46	|	Maghrib	7:21	|	Ishaa	8:28",
-"Wed	31/03/2021	Fajr	6:04	|	Dhuhur	1:27	|	Asr	4:45	|	Maghrib	7:20	|	Ishaa	8:27",
-"Thur	1/04/2021	Fajr	6:05	|	Dhuhur	1:27	|	Asr	4:44	|	Maghrib	7:18	|	Ishaa	8:25",
-"Friday	2/04/2021	Fajr	6:06	|	Dhuhur	1:27	|	Asr	4:43	|	Maghrib	7:17	|	Ishaa	8:24",
-"Sat	3/04/2021	Fajr	6:07	|	Dhuhur	1:26	|	Asr	4:42	|	Maghrib	7:15	|	Ishaa	8:22",
-"Sun	4/04/2021	Fajr	5:08	|	Dhuhur	12:26	|	Asr	3:41	|	Maghrib	6:14	|	Ishaa	7:21",
-"Mon	5/04/2021	Fajr	5:09	|	Dhuhur	12:26	|	Asr	3:40	|	Maghrib	6:12	|	Ishaa	7:19",
-"Tues	6/04/2021	Fajr	5:10	|	Dhuhur	12:26	|	Asr	3:39	|	Maghrib	6:11	|	Ishaa	7:18",
-"Wed	7/04/2021	Fajr	5:11	|	Dhuhur	12:25	|	Asr	3:38	|	Maghrib	6:09	|	Ishaa	7:16",
-"Thur	8/04/2021	Fajr	5:11	|	Dhuhur	12:25	|	Asr	3:37	|	Maghrib	6:08	|	Ishaa	7:15",
-"Friday	9/04/2021	Fajr	5:12	|	Dhuhur	12:25	|	Asr	3:35	|	Maghrib	6:07	|	Ishaa	7:14",
-"Sat	10/04/2021	Fajr	5:13	|	Dhuhur	12:24	|	Asr	3:34	|	Maghrib	6:05	|	Ishaa	7:12",
-"Sun	11/04/2021	Fajr	5:14	|	Dhuhur	12:24	|	Asr	3:33	|	Maghrib	6:04	|	Ishaa	7:11",
-"Mon	12/04/2021	Fajr	5:15	|	Dhuhur	12:24	|	Asr	3:32	|	Maghrib	6:02	|	Ishaa	7:10",
-"Tues	13/04/2021	Fajr	5:16	|	Dhuhur	12:24	|	Asr	3:31	|	Maghrib	6:01	|	Ishaa	7:08",
-"Wed	14/04/2021	Fajr	5:17	|	Dhuhur	12:23	|	Asr	3:30	|	Maghrib	5:59	|	Ishaa	7:07",
-"Thur	15/04/2021	Fajr	5:17	|	Dhuhur	12:23	|	Asr	3:29	|	Maghrib	5:58	|	Ishaa	7:05",
-"Friday	16/04/2021	Fajr	5:18	|	Dhuhur	12:23	|	Asr	3:28	|	Maghrib	5:57	|	Ishaa	7:04",
-"Sat	17/04/2021	Fajr	5:19	|	Dhuhur	12:23	|	Asr	3:27	|	Maghrib	5:55	|	Ishaa	7:03",
-"Sun	18/04/2021	Fajr	5:20	|	Dhuhur	12:22	|	Asr	3:26	|	Maghrib	5:54	|	Ishaa	7:02",
-"Mon	19/04/2021	Fajr	5:21	|	Dhuhur	12:22	|	Asr	3:25	|	Maghrib	5:52	|	Ishaa	7:00",
-"Tues	20/04/2021	Fajr	5:22	|	Dhuhur	12:22	|	Asr	3:24	|	Maghrib	5:51	|	Ishaa	6:59",
-"Wed	21/04/2021	Fajr	5:22	|	Dhuhur	12:22	|	Asr	3:23	|	Maghrib	5:50	|	Ishaa	6:58",
-"Thur	22/04/2021	Fajr	5:23	|	Dhuhur	12:22	|	Asr	3:22	|	Maghrib	5:49	|	Ishaa	6:57",
-"Friday	23/04/2021	Fajr	5:24	|	Dhuhur	12:21	|	Asr	3:20	|	Maghrib	5:47	|	Ishaa	6:55",
-"Sat	24/04/2021	Fajr	5:25	|	Dhuhur	12:21	|	Asr	3:19	|	Maghrib	5:46	|	Ishaa	6:54",
-"Sun	25/04/2021	Fajr	5:26	|	Dhuhur	12:21	|	Asr	3:18	|	Maghrib	5:45	|	Ishaa	6:53",
-"Mon	26/04/2021	Fajr	5:26	|	Dhuhur	12:21	|	Asr	3:17	|	Maghrib	5:43	|	Ishaa	6:52",
-"Tues	27/04/2021	Fajr	5:27	|	Dhuhur	12:21	|	Asr	3:16	|	Maghrib	5:42	|	Ishaa	6:51",
-"Wed	28/04/2021	Fajr	5:28	|	Dhuhur	12:21	|	Asr	3:16	|	Maghrib	5:41	|	Ishaa	6:50",
-"Thur	29/04/2021	Fajr	5:29	|	Dhuhur	12:20	|	Asr	3:15	|	Maghrib	5:40	|	Ishaa	6:49",
-"Friday	30/04/2021	Fajr	5:30	|	Dhuhur	12:20	|	Asr	3:14	|	Maghrib	5:39	|	Ishaa	6:48",
-"Sat	1/05/2021	Fajr	5:30	|	Dhuhur	12:20	|	Asr	3:13	|	Maghrib	5:38	|	Ishaa	6:47",
-"Sun	2/05/2021	Fajr	5:31	|	Dhuhur	12:20	|	Asr	3:12	|	Maghrib	5:36	|	Ishaa	6:46",
-"Mon	3/05/2021	Fajr	5:32	|	Dhuhur	12:20	|	Asr	3:11	|	Maghrib	5:35	|	Ishaa	6:45",
-"Tues	4/05/2021	Fajr	5:33	|	Dhuhur	12:20	|	Asr	3:10	|	Maghrib	5:34	|	Ishaa	6:44",
-"Wed	5/05/2021	Fajr	5:33	|	Dhuhur	12:20	|	Asr	3:09	|	Maghrib	5:33	|	Ishaa	6:43",
-"Thur	6/05/2021	Fajr	5:34	|	Dhuhur	12:20	|	Asr	3:08	|	Maghrib	5:32	|	Ishaa	6:42",
-"Friday	7/05/2021	Fajr	5:35	|	Dhuhur	12:20	|	Asr	3:07	|	Maghrib	5:31	|	Ishaa	6:41",
-"Sat	8/05/2021	Fajr	5:36	|	Dhuhur	12:20	|	Asr	3:07	|	Maghrib	5:30	|	Ishaa	6:40",
-"Sun	9/05/2021	Fajr	5:36	|	Dhuhur	12:20	|	Asr	3:06	|	Maghrib	5:29	|	Ishaa	6:39",
-"Mon	10/05/2021	Fajr	5:37	|	Dhuhur	12:19	|	Asr	3:05	|	Maghrib	5:28	|	Ishaa	6:38",
-"Tues	11/05/2021	Fajr	5:38	|	Dhuhur	12:19	|	Asr	3:04	|	Maghrib	5:27	|	Ishaa	6:38",
-"Wed	12/05/2021	Fajr	5:39	|	Dhuhur	12:19	|	Asr	3:03	|	Maghrib	5:26	|	Ishaa	6:37",
-"Thur	13/05/2021	Fajr	5:39	|	Dhuhur	12:19	|	Asr	3:03	|	Maghrib	5:25	|	Ishaa	6:36",
-"Friday	14/05/2021	Fajr	5:40	|	Dhuhur	12:19	|	Asr	3:02	|	Maghrib	5:25	|	Ishaa	6:35",
-"Sat	15/05/2021	Fajr	5:41	|	Dhuhur	12:19	|	Asr	3:01	|	Maghrib	5:24	|	Ishaa	6:35",
-"Sun	16/05/2021	Fajr	5:41	|	Dhuhur	12:19	|	Asr	3:01	|	Maghrib	5:23	|	Ishaa	6:34",
-"Mon	17/05/2021	Fajr	5:42	|	Dhuhur	12:19	|	Asr	3:00	|	Maghrib	5:22	|	Ishaa	6:33",
-"Tues	18/05/2021	Fajr	5:43	|	Dhuhur	12:19	|	Asr	2:59	|	Maghrib	5:21	|	Ishaa	6:33",
-"Wed	19/05/2021	Fajr	5:43	|	Dhuhur	12:20	|	Asr	2:59	|	Maghrib	5:21	|	Ishaa	6:32",
-"Thur	20/05/2021	Fajr	5:44	|	Dhuhur	12:20	|	Asr	2:58	|	Maghrib	5:20	|	Ishaa	6:32",
-"Friday	21/05/2021	Fajr	5:45	|	Dhuhur	12:20	|	Asr	2:58	|	Maghrib	5:19	|	Ishaa	6:31",
-"Sat	22/05/2021	Fajr	5:45	|	Dhuhur	12:20	|	Asr	2:57	|	Maghrib	5:19	|	Ishaa	6:31",
-"Sun	23/05/2021	Fajr	5:46	|	Dhuhur	12:20	|	Asr	2:57	|	Maghrib	5:18	|	Ishaa	6:30",
-"Mon	24/05/2021	Fajr	5:47	|	Dhuhur	12:20	|	Asr	2:56	|	Maghrib	5:17	|	Ishaa	6:30",
-"Tues	25/05/2021	Fajr	5:47	|	Dhuhur	12:20	|	Asr	2:56	|	Maghrib	5:17	|	Ishaa	6:29",
-"Wed	26/05/2021	Fajr	5:48	|	Dhuhur	12:20	|	Asr	2:55	|	Maghrib	5:16	|	Ishaa	6:29",
-"Thur	27/05/2021	Fajr	5:49	|	Dhuhur	12:20	|	Asr	2:55	|	Maghrib	5:16	|	Ishaa	6:28",
-"Friday	28/05/2021	Fajr	5:49	|	Dhuhur	12:20	|	Asr	2:54	|	Maghrib	5:15	|	Ishaa	6:28",
-"Sat	29/05/2021	Fajr	5:50	|	Dhuhur	12:20	|	Asr	2:54	|	Maghrib	5:15	|	Ishaa	6:28",
-"Sun	30/05/2021	Fajr	5:50	|	Dhuhur	12:21	|	Asr	2:54	|	Maghrib	5:14	|	Ishaa	6:27",
-"Mon	31/05/2021	Fajr	5:51	|	Dhuhur	12:21	|	Asr	2:53	|	Maghrib	5:14	|	Ishaa	6:27",
-"Tues	1/06/2021	Fajr	5:51	|	Dhuhur	12:21	|	Asr	2:53	|	Maghrib	5:14	|	Ishaa	6:27",
-"Wed	2/06/2021	Fajr	5:52	|	Dhuhur	12:21	|	Asr	2:53	|	Maghrib	5:13	|	Ishaa	6:27",
-"Thur	3/06/2021	Fajr	5:53	|	Dhuhur	12:21	|	Asr	2:53	|	Maghrib	5:13	|	Ishaa	6:26",
-"Friday	4/06/2021	Fajr	5:53	|	Dhuhur	12:21	|	Asr	2:53	|	Maghrib	5:13	|	Ishaa	6:26",
-"Sat	5/06/2021	Fajr	5:54	|	Dhuhur	12:22	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Sun	6/06/2021	Fajr	5:54	|	Dhuhur	12:22	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Mon	7/06/2021	Fajr	5:55	|	Dhuhur	12:22	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Tues	8/06/2021	Fajr	5:55	|	Dhuhur	12:22	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Wed	9/06/2021	Fajr	5:56	|	Dhuhur	12:22	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Thur	10/06/2021	Fajr	5:56	|	Dhuhur	12:23	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Friday	11/06/2021	Fajr	5:56	|	Dhuhur	12:02	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Sat	12/06/2021	Fajr	5:57	|	Dhuhur	12:23	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Sun	13/06/2021	Fajr	5:57	|	Dhuhur	12:23	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Mon	14/06/2021	Fajr	5:58	|	Dhuhur	12:23	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Tues	15/06/2021	Fajr	5:58	|	Dhuhur	12:24	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Wed	16/06/2021	Fajr	5:58	|	Dhuhur	12:24	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Thur	17/06/2021	Fajr	5:58	|	Dhuhur	12:24	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Friday	18/06/2021	Fajr	5:59	|	Dhuhur	12:24	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Sat	19/06/2021	Fajr	5:59	|	Dhuhur	12:24	|	Asr	2:52	|	Maghrib	5:12	|	Ishaa	6:26",
-"Sun	20/06/2021	Fajr	5:59	|	Dhuhur	12:25	|	Asr	2:53	|	Maghrib	5:12	|	Ishaa	6:26",
-"Mon	21/06/2021	Fajr	6:00	|	Dhuhur	12:25	|	Asr	2:53	|	Maghrib	5:12	|	Ishaa	6:27",
-"Tues	22/06/2021	Fajr	6:00	|	Dhuhur	12:25	|	Asr	2:53	|	Maghrib	5:13	|	Ishaa	6:27",
-"Wed	23/06/2021	Fajr	6:00	|	Dhuhur	12:25	|	Asr	2:53	|	Maghrib	5:13	|	Ishaa	6:27",
-"Thur	24/06/2021	Fajr	6:00	|	Dhuhur	12:25	|	Asr	2:54	|	Maghrib	5:13	|	Ishaa	6:27",
-"Friday	25/06/2021	Fajr	6:00	|	Dhuhur	12:26	|	Asr	2:54	|	Maghrib	5:14	|	Ishaa	6:28",
-"Sat	26/06/2021	Fajr	6:00	|	Dhuhur	12:26	|	Asr	2:54	|	Maghrib	5:14	|	Ishaa	6:28",
-"Sun	27/06/2021	Fajr	6:00	|	Dhuhur	12:26	|	Asr	2:55	|	Maghrib	5:14	|	Ishaa	6:28",
-"Mon	28/06/2021	Fajr	6:01	|	Dhuhur	12:26	|	Asr	2:55	|	Maghrib	5:15	|	Ishaa	6:29",
-"Tues	29/06/2021	Fajr	6:01	|	Dhuhur	12:27	|	Asr	2:55	|	Maghrib	5:15	|	Ishaa	6:29",
-"Wed	30/06/2021	Fajr	6:01	|	Dhuhur	12:27	|	Asr	2:56	|	Maghrib	5:15	|	Ishaa	6:29",
-"Thur	1/07/2021	Fajr	6:01	|	Dhuhur	12:27	|	Asr	2:56	|	Maghrib	5:16	|	Ishaa	6:30",
-"Friday	2/07/2021	Fajr	6:01	|	Dhuhur	12:27	|	Asr	2:57	|	Maghrib	5:16	|	Ishaa	6:30",
-"Sat	3/07/2021	Fajr	6:01	|	Dhuhur	12:27	|	Asr	2:57	|	Maghrib	5:17	|	Ishaa	6:31",
-"Sun	4/07/2021	Fajr	6:01	|	Dhuhur	12:27	|	Asr	2:57	|	Maghrib	5:17	|	Ishaa	6:31",
-"Mon	5/07/2021	Fajr	6:00	|	Dhuhur	12:28	|	Asr	2:58	|	Maghrib	5:18	|	Ishaa	6:32",
-"Tues	6/07/2021	Fajr	6:00	|	Dhuhur	12:28	|	Asr	2:58	|	Maghrib	5:18	|	Ishaa	6:32",
-"Wed	7/07/2021	Fajr	6:00	|	Dhuhur	12:28	|	Asr	2:59	|	Maghrib	5:19	|	Ishaa	6:33",
-"Thur	8/07/2021	Fajr	6:00	|	Dhuhur	12:28	|	Asr	2:59	|	Maghrib	5:20	|	Ishaa	6:33",
-"Friday	9/07/2021	Fajr	6:00	|	Dhuhur	12:28	|	Asr	3:00	|	Maghrib	5:20	|	Ishaa	6:34",
-"Sat	10/07/2021	Fajr	6:00	|	Dhuhur	12:28	|	Asr	3:01	|	Maghrib	5:21	|	Ishaa	6:34",
-"Sun	11/07/2021	Fajr	5:59	|	Dhuhur	12:29	|	Asr	3:01	|	Maghrib	5:21	|	Ishaa	6:35",
-"Mon	12/07/2021	Fajr	5:59	|	Dhuhur	12:29	|	Asr	3:02	|	Maghrib	5:22	|	Ishaa	6:35",
-"Tues	13/07/2021	Fajr	5:59	|	Dhuhur	12:29	|	Asr	3:02	|	Maghrib	5:23	|	Ishaa	6:36",
-"Wed	14/07/2021	Fajr	5:59	|	Dhuhur	12:29	|	Asr	3:03	|	Maghrib	5:23	|	Ishaa	6:36",
-"Thur	15/07/2021	Fajr	5:58	|	Dhuhur	12:29	|	Asr	3:03	|	Maghrib	5:24	|	Ishaa	6:37",
-"Friday	16/07/2021	Fajr	5:58	|	Dhuhur	12:29	|	Asr	3:04	|	Maghrib	5:25	|	Ishaa	6:37",
-"Sat	17/07/2021	Fajr	5:57	|	Dhuhur	12:29	|	Asr	3:05	|	Maghrib	5:26	|	Ishaa	6:38",
-"Sun	18/07/2021	Fajr	5:57	|	Dhuhur	12:29	|	Asr	3:05	|	Maghrib	5:26	|	Ishaa	6:39",
-"Mon	19/07/2021	Fajr	5:57	|	Dhuhur	12:29	|	Asr	3:06	|	Maghrib	5:27	|	Ishaa	6:39",
-"Tues	20/07/2021	Fajr	5:56	|	Dhuhur	12:29	|	Asr	3:07	|	Maghrib	5:28	|	Ishaa	6:40",
-"Wed	21/07/2021	Fajr	5:56	|	Dhuhur	12:29	|	Asr	3:07	|	Maghrib	5:29	|	Ishaa	6:41",
-"Thur	22/07/2021	Fajr	5:55	|	Dhuhur	12:30	|	Asr	3:08	|	Maghrib	5:29	|	Ishaa	6:41",
-"Friday	23/07/2021	Fajr	5:54	|	Dhuhur	12:30	|	Asr	3:08	|	Maghrib	5:30	|	Ishaa	6:42",
-"Sat	24/07/2021	Fajr	5:54	|	Dhuhur	12:30	|	Asr	3:09	|	Maghrib	5:31	|	Ishaa	6:42",
-"Sun	25/07/2021	Fajr	5:53	|	Dhuhur	12:30	|	Asr	3:10	|	Maghrib	5:32	|	Ishaa	6:43",
-"Mon	26/07/2021	Fajr	5:53	|	Dhuhur	12:30	|	Asr	3:10	|	Maghrib	5:32	|	Ishaa	6:44",
-"Tues	27/07/2021	Fajr	5:52	|	Dhuhur	12:30	|	Asr	3:11	|	Maghrib	5:33	|	Ishaa	6:44",
-"Wed	28/07/2021	Fajr	5:51	|	Dhuhur	12:30	|	Asr	3:12	|	Maghrib	5:34	|	Ishaa	6:45",
-"Thur	29/07/2021	Fajr	5:51	|	Dhuhur	12:30	|	Asr	3:12	|	Maghrib	5:35	|	Ishaa	6:46",
-"Friday	30/07/2021	Fajr	5:50	|	Dhuhur	12:30	|	Asr	3:13	|	Maghrib	5:36	|	Ishaa	6:47",
-"Sat	31/07/2021	Fajr	5:49	|	Dhuhur	12:29	|	Asr	3:14	|	Maghrib	5:37	|	Ishaa	6:47",
-"Sun	1/08/2021	Fajr	5:48	|	Dhuhur	12:29	|	Asr	3:14	|	Maghrib	5:37	|	Ishaa	6:48",
-"Mon	2/08/2021	Fajr	5:47	|	Dhuhur	12:29	|	Asr	3:15	|	Maghrib	5:38	|	Ishaa	6:49",
-"Tues	3/08/2021	Fajr	5:47	|	Dhuhur	12:29	|	Asr	3:16	|	Maghrib	5:39	|	Ishaa	6:49",
-"Wed	4/08/2021	Fajr	5:46	|	Dhuhur	12:29	|	Asr	3:16	|	Maghrib	5:40	|	Ishaa	6:50",
-"Thur	5/08/2021	Fajr	5:45	|	Dhuhur	12:29	|	Asr	3:17	|	Maghrib	5:41	|	Ishaa	6:51",
-"Friday	6/08/2021	Fajr	5:44	|	Dhuhur	12:29	|	Asr	3:18	|	Maghrib	5:42	|	Ishaa	6:51",
-"Sat	7/08/2021	Fajr	5:43	|	Dhuhur	12:29	|	Asr	3:18	|	Maghrib	5:42	|	Ishaa	6:52",
-"Sun	8/08/2021	Fajr	5:42	|	Dhuhur	12:29	|	Asr	3:19	|	Maghrib	5:43	|	Ishaa	6:53"];
-var b = a;
-
-
-//document.write(prayerTimes[324]) === document.getElementById("mytext").value;
-
-//document.write(prayerTimes[a]) === document.getElementById("mydate").value;
-
-document.write(prayerTimes[a]) === document.getElementById("mydate").value;
-
-
-
-
-
-
-
-
-
-
-</script>
-
-
 
 <html>
-<h1 id="mydate"style="color:red;font-size:40px;"></h1>  
+   <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <style>
+         * {
+         box-sizing: border-box;
+         }
+         body {
+         background-color: #474e5d;
+         font-family: Helvetica, sans-serif;
+         }
+         /* The actual timeline (the vertical ruler) */
+         .timeline {
+         position: relative;
+         max-width: 1200px;
+         margin: 0 auto;
+         }
+         /* The actual timeline (the vertical ruler) */
+         .timeline::after {
+         content: '';
+         position: absolute;
+         width: 6px;
+         background-color: white;
+         top: 0;
+         bottom: 0;
+         left: 50%;
+         margin-left: -3px;
+         }
+         /* Container around content */
+         .container {
+         padding: 10px 40px;
+         position: relative;
+         background-color: inherit;
+         width: 50%;
+         }
+         /* The circles on the timeline */
+         .container::after {
+         content: '';
+         position: absolute;
+         width: 25px;
+         height: 25px;
+         right: -17px;
+         background-color: white;
+         border: 4px solid #FF9F55;
+         top: 15px;
+         border-radius: 50%;
+         z-index: 1;
 
-<div>Please note Fajar, Duhur and Asor Prayers have fixed time. Please contact the Masjid for updated times for these prayers.</div>
+         }
+         /* Place the container to the left */
+         .left {
+         left: 0;
+         }
+         /* Place the container to the right */
+         .right {
+         left: 50%;
+         }
+         /* Add arrows to the left container (pointing right) */
+         .left::before {
+         content: " ";
+         height: 0;
+         position: absolute;
+         top: 22px;
+         width: 0;
+         z-index: 1;
+         right: 30px;
+         border: medium solid white;
+         border-width: 10px 0 10px 10px;
+         border-color: transparent transparent transparent white;
+         }
+         /* Add arrows to the right container (pointing left) */
+         .right::before {
+         content: " ";
+         height: 0;
+         position: absolute;
+         top: 22px;
+         width: 0;
+         z-index: 1;
+         left: 30px;
+         border: medium solid white;
+         border-width: 10px 10px 10px 0;
+         border-color: transparent white transparent transparent;
+         }
+         /* Fix the circle for containers on the right side */
+         .right::after {
+         left: -16px;
+         }
+         /* The actual content */
+         .content {
+         padding: 20px 30px;
+         background-color: white;
+         position: relative;
+         border-radius: 6px;
+         }
+         /* Media queries - Responsive timeline on screens less than 600px wide */
+         @media screen and (max-width: 600px) {
+         /* Place the timelime to the left */
+         .timeline::after {
+         left: 31px;
+         }
+         /* Full-width containers */
+         .container {
+         width: 100%;
+         padding-left: 70px;
+         padding-right: 25px;
+         }
+         /* Make sure that all arrows are pointing leftwards */
+         .container::before {
+         left: 60px;
+         border: medium solid white;
+         border-width: 10px 10px 10px 0;
+         border-color: transparent white transparent transparent;
+         }
+         /* Make sure all circles are at the same spot */
+         .left::after, .right::after {
+         left: 15px;
+         }
+         /* Make all right containers behave like the left ones */
+         .right {
+         left: 0%;
+         }
+         .collapsible {
+         background-color: #777;
+         color: white;
+         cursor: pointer;
+         padding: 18px;
+         width: 100%;
+         border: none;
+         text-align: left;
+         outline: none;
+         font-size: 15px;
+         }
+         .active, .collapsible:hover {
+         background-color: #555;
+         }
+         .span.a {
+         padding: 0 18px;
+         display: none;
+         overflow: hidden;
+         background-color: #f1f1f1;
+         }
+         }
+      </style>
+      <script>
+         var coll = document.getElementsByClassName("collapsible");
+         var i;
+         
+         for (i = 0; i < coll.length; i++) {
+           coll[i].addEventListener("click", function() {
+             this.classList.toggle("active");
+             var content = this.nextElementSibling;
+             if (content.style.display === "block") {
+               content.style.display = "none";
+             } else {
+               content.style.display = "block";
+             }
+           });
+         }
+      </script>
+   </head>
+   <body>
 
+<div class="content">
+<h1>Why?</h1>
+
+
+<p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “None of you have faith until I am more beloved to him than his children, his father, and all of the people.”
+</p>
+<cite>More or less translation of Sahih al-Bukhari 15, Sahih Muslim 44</cite>
+
+<p>How can one love someone they dont know about?</p>
+
+<p>Seerah or biography of Prophet Muhammad pbuh is one of the most neglected area of knowledge in our times. Most of us only know our Prophet pbuh via a range of well known hadith and fail to connect to the real human being existed on the face of earth.</p>
+
+<p>Every Muslim must know the biography of their Prophet Muhammad peace and blessings be upon him. We are now living in a digital world where books have been replaced by devices of many forms. This small, simple and insignificant attempt In Sha Allah is one of many future steps to come to from the Ummah to include the new generations and introduce them to the Seerah (i.e. Biography) of our beloved (pbuh). </p>
+
+
+
+<p>Seerah lecture sereis of <a href="https://muslimcentral.com/series/yasir-qadhi-seerah/">Yasir Qazi</a> was game changer for me, I went back to them multiple times and can do that again and again without "Well, I knew this" attitude, as everytime I find something new that I didnt understand previously. I took the advise from Nouman Ali Khan's lecture to go and learn about seerah. For me it was a level up in terms of knowledge, from average to above average Alhamdulillah. Since then I have read few other sources and listened to others who worked on Seerah, and this is just a result of all their hard work. There is no way a sincere Muslim who goes through the Seerah can remain same as before without the uplifted connection with the Prophet pbuh. May Allah bless all the people working hard, day and night to uphold and follow the religion of Allah according to the way of Prophet Muhammad peace and blessing be upon him.</p>
+
+<p>Allah has sent Prophet Muhammad (pbuh) as a mercy to the whole humanity, someone from whom we are supposed to learn. If we dont know about his pbuh struggle and strategy to overcome the burdens, we may never succeed in this world and the one to come after this.</p>
+
+<p>Most of the details were taken from the book, "When the Moon Split" (1998) compiled by Safiur Rahman Mubarakpuri. I highly recommend everyone to read his book "Rahikul Makhtum (Sealed Nectar)" to gain more in depth and detailed knowledge on the subject. If one takes this advise and picks up the book and reads it, I will consider that as a huge success from this small project. May Allah give us ability to do more.</p>
+</div>
+
+      <div class="timeline">
+         
+		  
+		 
+		 
+		 
+		 
+		 <div class="container left">
+
+            <div class="content">
+               <h2>Prophet Ibrahim / Abraham (As)</h2>
+               <p>
+               <ul>
+<li>All three Abrahamic religions initiate from this Prophet of Allah, Judaism, Christianity and Islam</li>
+<li>From Prophet Abraham's son Prophet Iahaaq / Isaac (As) comes Bani Israel (Isralites / Jews) and all their Prophets, e.g. Prophet Yaqoob / Jacob, Prophet Yousuf / Joheph, Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
+                  <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As), other son of Prophet Abraham (As) with Hajar / Hagar (1)</li>
+                
+
+
+				  
+
+                  
+               </ul>
+</p>
+
+<p><cite>(1) Sahih Muslim 2276</cite></p>
+
+            </div>
+         </div>
+         
+         <div class="container right">
+            <div class="content">
+               <h2>Prophet Ibrahim (As) goes to Makkah</h2>
+               <p>
+               <ul>
+                  <li>Leaves Sarah and Ishmael (As) as per the command from Allah</li>
+                  <li>Angel Gabriel/ Gibrael (As) comes and by the will of Allah forms the ZamZam well near baby Ishmael (As)</li>
+                  <li>A tribe from Yemen (Jurhum) comes and settles there</li>
+                  <li>Life begins at Makkah</li>
+                  <li>Ibrahim and Ishmael (As) builds Kabah</li>
+               </ul>
+
+<p><cite>Sahih al-Bukhari 3365</cite></p>
+               
+               </p>
+            </div>
+         </div>
+		 
+
+<div class="container left">
+            <div class="content">
+               <h2>Prophet Musa / Moses (Peace be upon him) indicated about a Prophet coming</h2>
+               <p>
+               <ul>
+                  <li>“I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.  And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.  But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die. And if thou say in thine heart, How shall we know the word which the LORD hath not spoken? When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.” <cite>Deuteronomy 18:18-22 (King James Version)</cite> </li>
+
+<br></br>
+                  <li>Similarities between Moses and Muhammad (pbuh):</li>
+<ul>
+                  <li>Both were rejected by their people but later became their accepted leaders</li>
+                  <li>Both brought new laws to their people</li>
+                  <li>Both emigrated before ultimately obtaining power</li>
+                  <li>Both had successors that conquered Palestine</li>                  
+<li>Both had normal births</li>
+                  <li>Both had normal deaths</li>
+                  <li>Both led armies</li>
+                  <li>Both were political leaders</li>
+
+
+
+</ul>
+               </ul>
+               </p>
+            </div>
+         </div>
+         
+
+
+
+
+
+         <div class="container right">
+            <div class="content">
+               <h2>Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</h2>
+               <p>
+              "I still have many things to say to you, but you cannot bear them now. When the Spirit of Truth comes, he will guide you into all the truth; for he will not speak on his own, but will speak whatever he hears, and he will declare to you the things that are to come.  He will glorify me, because he will take what is mine and declare it to you. All that the Father has is mine.  For this reason I said that he will take what is mine and declare it to you." <cite>(John 16:12-15, NRSV)</cite>
+               </p>
+            </div>
+         </div>
+
+
+
+
+
+
+
+
+
+
+
+
+		 		 
+		 
+         <div class="container left">
+            <div class="content">
+               <h2>Tribe and Lineage of Prophet Muhammad (pbuh)</h2>
+               <p>
+               <ul>
+                  <li>Prophet pbuh belonged to the most respected tribe in Arabia, the Qurayesh, the tribe was highly honored and well known in the peninsula</li>
+		<li>One member of the tribe Qusayy played a vital rol in establishing the greatness of this tribe over others</li>
+<li>Under Qysayy's leadership his tribesmen grew from a scattered band of people into a homogeneous community</li>
+<li>Qusayy's son Abd Munaf, Abd Munaf's son Hashim, Hashim's son Abdul Muttalib</li>
+<li>Abdul Muttalib was the grandfather of the Prophet, another very well respected man from the Qurayesh clan</li>		  
+<li>Abdul Muttalib's son Abdullah (among 12 others) was the father of the Prophet pbuh</li>
+               </ul>
+<p><cite>When the Moon Split 1998</cite></p>
+               </p>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>Abdul Muttalib</h2>
+               <p>
+               <ul>
+                  <li>Abraha attacks Kaba</li>
+                  <li>Abdul Muttalib prays to Allah to save Kaba</li>
+                  <li>Allah sends small birds to attack the army of Abraha</li>
+                  <li>This year is recorded in verbal history as the year of fill (Elephants)</li>
+                  <li>Zurhum hides ZamZam before fleeing</li>
+                  <li>Abdul Muttalib sees a dream and gets inspired to dig and find ZamZam again</li>
+                  <li>Abdul Muttalib prays for more sons</li>
+                  <li>Abdul Muttalib was blessed with more sons and as per his promise he goes to sacrifice Abdullah, the father of Prophet (pbuh)</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>His (pbuh) father</h2>
+               <div>
+                  <p>Prophet (pbuh)'s father died few months before he (pbuh) was born. Approximately on 570 CE. (Require Verification)</p>
+               </div>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>571 Year of Birth</h2>
+               <p>571 CE, Prophet pbuh was born</p>
+<p><cite>When the Moon Split 1998</cite></p>
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>Brought up by Grandfather and Mother</h2>
+               <p>Ameena and Abdul Muttalib</p>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>Haleema Sa'dya (Ra)</h2>
+               <p>
+               <ul>
+                  <li>Makkan's had a tradition of sending young kids to deserts for learning pure language and to be tough in the harsh environment</li>
+                  <li>Haleema (Ra) was one of the foster mothers who was looking for a baby to take care</li>
+				  <li>Haleema (Ra) finds blessings in her body, animals and they could spot the goodness as soon as the Prophet pbuh went to their house</li>
+                  <li>None took Prophet pbuh as he pbuh was an orphan, except Haleema(Ra)</li>
+                  <li>During his pbuh stay at Haleema (Ra) (Ra) the incident with Angel Gibrael took place where he came and washed his (pbuh) heart as per the hadith. Narrated by Muslim (162)</li>
+				  
+               </ul>
+               </p>
+
+
+
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>Losing Mother and Grandfather</h2>
+               <ul>
+                  <li>After coming back from Haleema (Ra), Prophet pbuh stayed with his pbuh mother approximately 2 years</li>
+				  <li>After that his pbuh mother died</li>
+				  <li>Then for sometime Prophet pbuh was under the care of his pbuh, Grandfather</li>
+				  <li>After the Grandfather passed away the Prophet pbuh was looked after by his pbuh Uncle Abu Talib, the son of Abdul Muttalib</li>
+                  
+				  
+               </ul>
+            </div>
+         </div>
+         
+         <div class="container left">
+            <div class="content">
+               <h2>Before Marriage</h2>
+               <p>
+               <ul>
+                  <li>At the age of 12 Prophet (pbuh) went to Syria with his (pbuh) uncle Abu Talib</li>
+                  <li>A christian monk named as Bahira recognised Prophet (pbuh) as having sings of being a prophet</li>
+                  <li>Bahira warned Abu talib to take the Prophet (pbuh) at a safe place in case the Bizentines finds out about him and kill him</li>
+                  <li>Prophet pbuh participated Battle of Fijar at the age of 20 on the side of Qurayesh</li>
+                  <li>Hilf ul Fudul was formed</li>
+                  <li>Like all other prophets, our Prophet pbuh also tended sheep for sometime for the people of Makkah</li>
+				  <li>Khadeejaa (Ra) appoints Prophet pbuh as her business representative to Syria</li>
+		
+				  
+               </ul><cite>When the Moon Split 1998</cite>
+               </p>
+            </div>
+         </div>
+         
+         <div class="container left">
+            <div class="content">
+               <h2>596 Marriage with Khadeeja (Ra)</h2>
+               
+               <ul>
+                  <li>Khadeeja (Ra) gets very impressed by the character and truthfulness of the Prophet pbuh</li>
+				  <li>Khadeeja offers to marry Prophet pbuh</li>
+				  
+				  
+				  <ul>
+				  Over the next few years, Prophet pbuh gets blessed with four daughters:
+				  <li>Birth of first daugher Zainaab (Ra)</li>
+                  <li>Birth of second daugher Ruqaiya (Ra)</li>
+                  <li>Birth of third daugher Umm Kulthum (Ra)</li>
+                  <li>Birth of fourth daugher Fatimah (Ra)</li>
+				  </ul>
+				  
+				  
+				  
+				  
+				  
+				  
+               </ul>
+               
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>Placement of Blackstone and resolving the conflicts</h2>
+               <p> 
+			   
+			                  <ul>
+                  <li>Qurayesh tribs were about to fight eachother on the issue of who will place the holy blackstone at its place after the reconstruction of Kabah</li>
+                  <li>Prophet pbuh solved this issue by using a big cloth and advising the fighting tribes to hold each corners</li>
+                  <li>He pbuh placed the stone by himself pbuh</li>
+                  <li>Everyone was happy to see Al Ameen to resolve the issue, they loved the Prophet for his noble character and truthfulness (pbuh)</li>
+               </ul>
+			   
+			   
+			   </p>
+            </div>
+         </div>
+        
+         <div class="container right">
+            <div class="content">
+               <h2>610 CE, First Revelation</h2>
+               <p>First Revelation, during the month of Ramadan (Verification Required)
+			   <ul>
+			   <li>Throughout his pbuh life, Allah kept him pbuh away from shirk and paganism</li>
+			   <li>Prophet pbuh used to to away from all the corruption of the Makkan society and seek refuge in solitude in the cave of Hira</li>
+			   <li>During one of these sessions was the first time Allah sent Gibrael (As) with the verses of Surah Alak, the first revealation at the age of 40</li>
+			   <li><a href="https://quran.com/96/1">It was not an accident or coincidence the the first verse revelaed was an advise to read, i.e. "Iqra"</a></li>
+			   
+			   <li>Reading / gaining knowldege is the foundation of seeking guidance and worship Allah with the correct knowledge</li>
+			   <li>Prophet pbuh was scared and shocked to experience the appearance of Gibarel (As)</li>
+				<li>Prophet pbuh told this to his pbuh wife Khadeeja (Ra)</li>
+				<li>Khadeeja (Ra)immediately beleived Prophet pbuh, and became the first ever Muslim on the face of Earth, what an honor</li>
+			   <li>Secret Preaching started</li>
+			   
+				
+			   </ul>
+			   
+			   
+			   
+			   </p>
+            </div>
+         </div>
+		 
+		 <div class="container right">
+            <div class="content">
+               <h2>First few beleivers</h2>
+               
+			   <ul>
+			   
+			   <li>After Khadeeja (Ra), Ali (Ra) and his pbuh daughers were among the first beleivers</li>
+			   <li>Abu Bakar (Ra) was the first Muslim outsite of Prophet (pbuh) family</li>
+			   <li>Abu Bakar was his pbuh neighbour and friend</li>
+			   <li>Makkans used to love Abu Bakar (Ra) for his noble character which was similar to Prophet pbuh, no wonder they were friends and were almost of same age (i.e. one year difference approximately)</li>
+		
+				
+			   </ul>
+			   
+			   
+			   
+			   
+            </div>
+         </div>
+		 
+		 
+		 
+		   <div class="container left">
+            <div class="content">
+               <h2>Makkans Reaction</h2>
+               
+			   <ul>
+			   <li>Makkans didnt accept the message of Prophet pbuh</li>
+			   <li>Makkans were not going to give up the religion, custom and culture of their forefathers</li>
+			   <li>Makkans started punishing their Muslim slaves</li>
+			   <li>These tourture only raised the status of the Companions (Ra) of the Prophet pbuh</li>
+			   <li>Leaders of Qurayes tribe tries to talk to Abu Talib, the Uncle of the Prophet pbuh for Prophet to refrain from preaching</li>
+			<li>Abu Talib did not back off and showed unconditional support to his nephew pbuh</li>
+			   <li>614 Sumayia's death</li>
+			   <li>615 First migration to Abisynia</li>
+			   <li>615 Hamza (Ra) joins in the group of First Muslims</li>
+			   <li>616 Omar (Ra) joins in the group of First Muslims</li>
+			   <li>Religion of Islam became strong after these two men joined in and beleived in the message</li>
+			   <li>Muslims prayed openly at the Kabah</li>
+<li>They openly declared their faith</li>
+			   
+				<p><cite>When the Moon Split 1998</cite></p>
+
+			   </ul>
+			   
+			   
+			   
+			   
+            </div>
+         </div>
+		 
+         
+
+		   <div class="container left">
+            <div class="content">
+               <h2>Dawah strategy at Makkah</h2>
+               
+			   <ul>
+<p>From <cite>When the Moon Split 1998</cite> we explore some possible hikmah of the way the Prophet pbuh and companions dealt with the opression, however Allah knows the best</p>
+
+			   <li>The companions (Ra) were being trained to face the torture and punishment on the path of Allah</li>
+			   <li>They were able to endure due to their lack of attachment with the Duniya and eagerness for the bliss of Paradise</li>
+			   <li>They were positive about the future of Islam knowing and beleiving that Allah will complete the matter and make Islam the dominant religion of God on the face of Earth</li>
+			   <li>Peaceful preaching was effective in Makkah instead of fighting as that would trigger hatered and more bloodshed instead of the spread of the message</li>
+			   <li>Fighting between Qurayesh and Muslims would mean to the outsiders that Islam came to initiate fight amongst family members</li>
+			   <li>Muslims were few in numbers so the message would get hard to get outside of Arabia if all were engaged in fighting and getting killed at that stage</li>
+			   <li>There was no real need for fighting as Islam was growing slowly but steadily</li>
+
+
+
+			   
+				
+			   </ul>
+			   
+			   
+			   
+			   
+            </div>
+         </div>
+
+         <div class="container right">
+            <div class="content">
+               <h2>Few points on migration to Abisineya</h2>
+               <p>
+               <ul>
+                  <li>Prophet pbuh wanted to save and ensure the spread of the message and hence he sent some Mulsims to a land of just king</li>
+                  <li>People of Abissinya were Christians (Abrahamic Religion) opposed to the people of Makkah who were pagans this was an advantage for Muslims</li>
+                  <li>Prophet pbuh knew about Abissinya from his pbuh nursemaid Umm Aiman about the land and its people</li>
+                  <li>As a merciful Leader Prophet pbuh was concerned about the safety and freedom of his pbuh followers and hence he pbuh permitted Hijrah option for them to go and live a safe life and spread the message</li>
+<li>In the group there were Companions (Ra) like his pbuh dauther (Rukaiya Ra), son in law (Uthman Ra) and his pbuh cousin Jafar ibn Abu Taleb, which shows he pbuh was not taking a mere chance wih the life of some followers and including his pbuh beloved family members in that decision too</li>
+<li>This also shows even though his pbuh family members had to suffer the same fate as his followers / companions (Ra)</li>
+<li>These migrations (1st and 2nd Abissinyan migrations) lowered the status of Qurayesh as others in Surrounding areas were kind eough to provide shelter to their (Qurayesh's own tribesmen) people. And it als became obvious they (Qurayesh) were prosecuting Muslims because they worship only Allah and no one else</li>
+<p><cite>When the Moon Split 1998</cite></p>
+
+
+               </ul>
+               </p>
+            </div>
+         </div>
+			   
+         <div class="container left">
+            <div class="content">
+               <h2>Offers made to Prophet pbuh to refrain from preaching</h2>
+               <p>
+               <ul>
+                  <li>Utbah bin Rabiah, a leader of Makkan made few offers to Prophet pbuh to stop preaching the message</li>
+                  <li>Offered was made to make the Prophet pbuh the richest man among all</li>
+                  <li>He pbuh was offered to be the leader of all Makkan tribes</li>
+                  <li>Any bueatiful women was offered to him pbuh in marriage if thats what he pbuh was after</li>
+<li>Makkans also offered Prophet pbuh to worship their god for few days and they were happy to worship the God of Prophet pbuh</li>
+<li>By making all these offers Qurayesh only proved they were desparate to stop the message</li>
+<li>Prophet pbuh didnot compromise at all, he pbuh could not as this is the truth came from Allah and not himself pbuh</li>
+
+<p><cite>When the Moon Split 1998</cite></p>
+               </ul>
+               </p>
+            </div>
+         </div>
+
+         <div class="container right">
+            <div class="content">
+               <h2>Testing the Prophethood</h2>
+               <p>
+               <ul>
+                  <li>Once Makkans realised Prophet pbuh was sincere and was not prepared to back off, they were determined to find out whether or not Muhammad pbuh was really a Prophet</li>
+                  <li>Makkans sought help from Jewish rabbis</li>
+                  <li>Rabbis taught them three questions to ask the Prophet pbuh <cite>When the Moon Split 1998</cite></li>
+<ul>
+                  <li>Rabbis taught Qurayesh to ask Prophet pbuh about the youth of the cave</li>
+                  <li>The next one was to ask about the Jul Kar Nayeen, the one travelled thoughout both the East and the West</li>
+                  <li>They also told Makkans to ask the Prophet about "Soul"</li>
+
+<p><cite>When the Moon Split 1998</cite></p>
+
+</ul>
+
+<li>The first two questions Allah swt addressed in Surah Qahaf, surah no 18</li>
+<li>To address the third question 17:85 was revealed, "And they ask you about the soul. Say, “The soul is something from the command of my Lord, and you are not given from the knowledge but a little.”"(more or less meaning and Allah knows the best)</li>
+
+<li>Again another proof that the Prophet pbuh was not making things up on the go and was admitting his pbuh limits which were being revealed by Allah</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+			   
+         
+         <div class="container left">
+            <div class="content">
+               <h2>618 Boycott of Banu Hasheem by Qurayesh</h2>
+               <p>
+			   
+			   
+			   
+			    <ul>
+			   <li>3 years boycott</li>
+			   <li>Including Abu Talib and Khadeeja and their children go through severe pain for not having adequate food and supplies</li>
+			   <li>Amazing stories of companions are heard on how they used to live on very little during this time</li>
+			   <li>How Prophet (pbuh) might have been feeling for putting his (phuh) in this and not being able to do anything for them subhanAllah!</li>
+			   <li>Insects ate everyting on the treaty that stated the boycott excepth the word in the name of Allah (God) which was kep inside Kabah (ref required)</li>
+			   
+			   	
+				
+			   </ul>
+			   
+			   
+			   
+			   
+			   </p>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>619 Losing Wife and Uncle</h2>
+			   
+			   <p>
+			   <ul>
+			   <li>Age 49</li>
+			   <li>A group goes for second Migration to Abisynia</li>
+			   <li>Death of Abu Talib, the Uncle</li>
+			   <li>Death of Khadeeja (Ra)</li>
+			   <li>Taif Visit</li>
+			   </ul>
+			   	   
+               </p>
+            </div>
+         </div>
+         
+         
+         <div class="container right">
+            <div class="content">
+               <h2>620 Isra al Miraaj</h2>
+               <p>
+			   
+			    
+			   
+			   <ul>
+			   <li>Age 50</li>
+			   <li><a href="https://quran.com/17/1">Firstly Prophet pbuh goes from Makkah to Jerujalem and from there to Heaven</a></li>
+			   <li>Prayer was revealed</li>
+			   <li>Last few verses of Surah Bakarah was revealed (verification required)</li>
+			   <li></li>
+			   <li>Abu Bakar (Ra) says, if he (pbuh) says he (pbuh) went to Jerusalem, then he (pbuh) is saying the truth</li>
+			   <li>Prophet (pbuh) narrates baitul makdis to the questioners (hadith ref required)</li>
+			   
+			   
+			   </ul>
+			   
+			   
+			   </p>
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>621 Akaba</h2>
+               <p>
+			   
+			   <ul>
+			   <li>1st Pledge on 621</li>
+			   <li>2nd Pledge on 622</li>
+			   
+			   
+			   
+			   
+			   </ul>
+			   
+			   </p>
+            </div>
+         </div>
+         
+
+ <div class="container left">
+            <div class="content">
+               <h2>Two Marriages of the Prophet pbuh of which some are in doubt</h2>
+               <p>
+               <ul>
+                  <li>Marriage with Zaynab (Ra), reason being Zaynab (Ra) was wife of Prophet's pbuh adopted son Zaid</li>
+<ul>
+<li>Allah commanded this marrage</li>
+<li>"...So when Zaid totally lost interest in keeping his wife, We gave her to you in marriage... <cite>(Quran 33:37, more or less meaning and Allah knows the best)</cite>"</li>
+</ul>
+                  <li>Marriage with Ayesha (Ra), reason being Aisha (Ra) according to one narration was very young at the time of the marriage</li>
+<ul>
+
+<li>Prophet pbuh was inspired by a dream about this marriage which is recorded in saheeh al bukhari</li>
+<li>Allah's Messenger (ﷺ) said to me, "You were shown to me twice (in my dream) before I married you. I saw an angel carrying you in a silken piece of cloth, and I said to him, 'Uncover (her),' and behold, it was you. I said (to myself), 'If this is from Allah, then it must happen.' Then you were shown to me, the angel carrying you in a silken piece of cloth, and I said (to him), 'Uncover (her), and behold, it was you. I said (to myself), 'If this is from Allah, then it must happen.' " <a href="https://sunnah.com/bukhari:7012"><cite>Sahih al-Bukhari 7012</cite></a></li>
+
+
+
+</ul>
+
+
+
+<li>People who have problems with these two marriages of Prophet pbuh are two types, Muslims with weak faith / imaan and enemies of Islam</li>
+<li>Problem with the first group can be dealt by saying, if they beleive Prophet pbuh as a Messenger of God, then they should have no propblems with what God has commanded or inspired him pbuh to do. It is a part of beleif</li>
+<li>According to further study and investigation we come to know that Arabs at the time of the Prophet pbuh was not maintaining any calender as such, so its very poosible for them to use a very rough estimate of time and mention their age</li>
+<li>Number system speciallay the ones that involve counting more than ten was only familarised after the Arabs found out about the number Zero from Indians, hence it could be very possible for them (i.e. Arabs) to avoid using the numbers that are greater than ten prior to that time and Allah knows the best</li>
+<li>A further in detailed study could be found here regarding the matter <a href="http://hameem.org/2019/02/11/proof-that-aisha-was-over-15-years-old-when-she-married-the-prophet-peace-be-upon-him/"><cite>Proof That Aisha Was Over 15 Years Old When She Married The Prophet (Peace Be Upon Him)</cite></a></li>
+
+
+               </ul>
+               </p>
+            </div>
+         </div>
+
+
+
+         <div class="container left">
+            <div class="content">
+               <h2>622 Hijrah</h2>
+               <p>
+               <ul>
+                  <li>Making of Masjid Al Quba and Masjid Al Nabbi</li>
+                  <li>Treaty with Jews in Madina</li>
+                  <li>Conversion of Salman al Farsi</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>623 Change of Qibla</h2>
+               <p>
+               <ul>
+                  <li>First Ramadan</li>
+                  <li>Zakat is obligated</li>
+                  <li>Death of Prophet (pbuh)'s daughter Rukaya (Ra)</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>624 Badar</h2>
+               <p>Age 54</p>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>625 Wuhud</h2>
+               <p>Age 55</p>
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>626 Abu Hurayira (Ra) joins</h2>
+               <p>
+               <ul>
+                  <li>Age 56</li>
+                  <li>Alcohol is made Haram</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>Battle of Ahzab</h2>
+               <p>...</p>
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>628 Poisoning of the Prophet (pbuh)</h2>
+               <p>Age 59</p>
+            </div>
+         </div>
+         
+         <div class="container left">
+            <div class="content">
+               <h2>629 Openning of Makkah</h2>
+               <p>
+               <ul>
+                  <li>Khaild Ibn Walid (Ra) Joins in</li>
+                  <li>Battle of Mutah</li>
+                  <li>Death of Prophet (pbuh)'s daughter Zaynaab (Ra)</li>
+                  <li>Seige of Taif</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>630 Tabuk, the last Gazwa</h2>
+               <p>
+               <ul>
+                  <li>Death of Prophet (pbuh)'s daughter Umm Kulthum (Ra)</li>
+                  <li>Tabuk</li>
+                  <li>Age 61</li>
+                  <li>...</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>631 Hajj by Abu Bakar (Ra)</h2>
+               <p>
+               <ul>
+                  <li>Ali (Ra) goes to Yemen</li>
+                  <li>...</li>
+                  <li>...</li>
+                  <li>...</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         <div class="container right">
+            <div class="content">
+               <h2>632 Last Hajj</h2>
+               <p>
+               <ul>
+                  <li>Muad ibn Jabal and Abu Musa Al Ashaari sent to Yemen</li>
+                  <li>Prophet (pbuh) falls ill</li>
+                  <li>Death of the Prophet pbuh</li>
+                  <li>Death of Fatimah (Ra)</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         <div class="container left">
+            <div class="content">
+               <h2>Non Muslims Thinkers and Writers about Prophet Muhammad pbuh</h2>
+               <p>
+               <ul>
+                  <li>Micheal Hart</li>
+                  <li>Thomas Carlyle</li>
+                  <li>...</li>
+                  <li>...</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         
+         <div class="container left">
+            <div class="content">
+               <h2>heading</h2>
+               <p>
+               <ul>
+                  <li>...</li>
+                  <li>...</li>
+                  <li>...</li>
+                  <li>...</li>
+               </ul>
+               </p>
+            </div>
+         </div>
+         
+      </div>
+
+<div class="content">
+
+<div>
+<h1>Who are we?</h1>
+
+<p>We are the brothers of the Prophet pbuh, he pbuh mentioned in this hadith in Sha Allah:</p>
+
+<p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “I wish I could meet my brothers.” The Prophet’s companions said, “Are we not your brothers?” The Prophet said, “You are my companions, but my brothers are those who have faith in me although they never saw me.”
+
+Source: Musnad Aḥmad 12169
+
+Grade: Hasan (fair) according to Al-Albani</p>
+
+
+
+
+<p>Anything good in this small and insignificant piece of work is from Allah and all the mistakes are from myself due to the whispers of shaytan. May Allah frogive me, my family and all my beloved brothers and their families and make us all among the neighbours of Prophet Muhammad peace and blessings be upon him.</p>
+
+
+
+
+</div>
+   </body>
 </html>

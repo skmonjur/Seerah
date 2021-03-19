@@ -331,16 +331,15 @@
          <div class="container right">
             <div class="content">
                <h2>571 Year of Birth</h2>
-               <p>571 CE, Prophet pbuh was born</p>
+			   <ul>
+               <li>571 CE, Prophet pbuh was born</li>
+			   <li>Brought up by Grandfather (Abdul Muttalib) and Mother (Ameenah)</li>
+			   <li></li>
+			   </ul>
 <p><cite>When the Moon Split 1998</cite></p>
             </div>
          </div>
-         <div class="container left">
-            <div class="content">
-               <h2>Brought up by Grandfather and Mother</h2>
-               <p>Ameena and Abdul Muttalib</p>
-            </div>
-         </div>
+         
          <div class="container right">
             <div class="content">
                <h2>Haleema Sa'dya (Ra)</h2>
@@ -394,7 +393,7 @@
          
          <div class="container left">
             <div class="content">
-               <h2>596 Marriage with Khadeeja (Ra)</h2>
+               <h2>Marriage with Khadeeja (Ra)</h2>
                
                <ul>
                   <li>Khadeeja (Ra) gets very impressed by the character and truthfulness of the Prophet pbuh</li>
@@ -424,7 +423,7 @@
                <p> 
 			   
 			                  <ul>
-                  <li>Qurayesh tribs were about to fight eachother on the issue of who will place the holy blackstone at its place after the reconstruction of Kabah</li>
+                  <li>After rebuilding the Kabah, Qurayesh tribes were about to fight eachother on the issue of who will place the holy blackstone at its place after the reconstruction of Kabah</li>
                   <li>Prophet pbuh solved this issue by using a big cloth and advising the fighting tribes to hold each corners</li>
                   <li>He pbuh placed the stone by himself pbuh</li>
                   <li>Everyone was happy to see Al Ameen to resolve the issue, they loved the Prophet for his noble character and truthfulness (pbuh)</li>
@@ -437,7 +436,7 @@
         
          <div class="container right">
             <div class="content">
-               <h2>610 CE, First Revelation</h2>
+               <h2>First Revelation</h2>
                <p>First Revelation, during the month of Ramadan (Verification Required)
 			   <ul>
 			   <li>Throughout his pbuh life, Allah kept him pbuh away from shirk and paganism</li>
@@ -608,13 +607,13 @@
          
          <div class="container left">
             <div class="content">
-               <h2>618 Boycott of Banu Hasheem by Qurayesh</h2>
+               <h2>Boycott of Banu Hasheem by Qurayesh</h2>
                <p>
 			   
 			   
 			   
 			    <ul>
-			   <li>3 years boycott</li>
+			   <li>It was a 3 years boycott imposed by Qurayesh to Banu Hashem, this can be compared to modern day Economic restrictions on countries</li>
 			   <li>Including Abu Talib and Khadeeja and their children go through severe pain for not having adequate food and supplies</li>
 			   <li>Amazing stories of companions are heard on how they used to live on very little during this time</li>
 			   <li>How Prophet (pbuh) might have been feeling for putting his (phuh) in this and not being able to do anything for them subhanAllah!</li>
@@ -632,17 +631,54 @@
          </div>
          <div class="container right">
             <div class="content">
-               <h2>619 Losing Wife and Uncle</h2>
+               <h2>Losing Wife and Uncle</h2>
 			   
 			   <p>
 			   <ul>
-			   <li>Age 49</li>
+			   <li>At the age of 49 (approximately) Prophet pbuh lost two of his pbuh greatest support figures</li>
+			   <li>This year is named as the year of sorrow in Seerah</li>
 			   <li>A group goes for second Migration to Abisynia</li>
 			   <li>Death of Abu Talib, the Uncle</li>
 			   <li>Death of Khadeeja (Ra)</li>
-			   <li>Taif Visit</li>
+			   <li>Being rejected by his pbuh own people Prophet decides to visit Taif for support</li>
+			   <li>Taif is approximately 30 mile east to Makkah</li>
+			   <li>People of Taif rejected the Prophet pbuh with hostility</li>
+			   <li>As the Prophet pbuh was leaving Taif, the chiefs of Taif sent a group after him pbuh who threw stones to our bleoved Prophet pbuh</li>
+			   <li>Prophet pbuh made a dua partial meaning of that dua is, "Oh Allah if you are not angry with me, I dont care this humiliation..."</li>
+			   <li>This is a great motivation for all the daee who gets rejected and face obstacles and sees not immediate benefit of their dawah work</li>
+			   
 			   </ul>
 			   	   
+               </p>
+            </div>
+         </div>
+		 
+		 <div class="container left">
+            <div class="content">
+               <h2>Qurayesh asking for Miracle</h2>
+			   
+			   <p>
+			   <ul>
+			   <li>People of Qurayesh wanted to humiliate Prophet pbuh and prove him as a lier, so they asked him pbuh to perform miracles</li>
+			   <li>Poor Qurayesh like many others of our days make the same mistake. It is not with the Prophets or anyone else who when they want can perform miracles, unless Allah gives them the ability to do so</li>
+			   <li>And they have sworn by Allah the most earnest oaths, that, indeed, in case a sign comes to them, indeed they will definitely believe in it. Say, "Surely the signs are only within the Providence of Allah; and what will make you (i.e., the believers) aware that, when it comes, they will not believe?" (More or less meaning Quran 6:109)</li>
+			   <li>Some of their demands are recorded in the Holy Quran, here are some of them (more or less translation of the meaning)</li>
+			   <ul>
+			   <li>They said, “We shall never believe in you unless you cause a spring to gush forth for us from the earth.(Quran 17:90)</li>
+			   <li>Or you have a garden of date palms and grapes, then you bring forth rivers from their midst in abundance.(Quran 17:91)</li>
+			   <li>Or you cause the sky to fall upon us in pieces, as you claimed, or you bring Allah and angels before us face to face.(Quran 17:92)</li>
+			   <li>Or you have a house made of gold. Or you ascend to the sky, and we will not believe in your ascension unless you send down to us a book we may read.” Say, “I proclaim the Purity of my Lord. I am nothing but human, a messenger.” (Quran 17:93)</li>
+			   <li>Nothing prevented people from believing, when guidance came to them, except that they said, “Has Allah sent a man as a messenger?” (Quran 17:94)</li>
+			   
+			   </ul>
+			   <li>Its amazing how the above verses are found in Surah no 17, Al Israh where the greatest miracle of all times that were given to any other Prophet as we know were recorded, i.e. Prophet Muhammad pbuh visitng the seven heavens with angel Gabriel (as) which included witnessing the glimples of afterlife,  meeting with other Prophets and above all, meeting with Allah in a way that befits our Prophet pbuh and Allah swt which we are unable to comprehend and only know about this via Quran and hadith</li>
+			   
+			   <li>Allah responds to these, "If We had sent down to them the angels, and the dead had spoken to them, and (even if) We had gathered everything before them face to face, still, they were not to believe, unless Allah would have so willed. But, most of them adopt the way of ignorance. (More or less meaning of Quran 6:111)"</li>
+			   
+			   <li>Angel Gibarel / Gabriel (as) came to Prophet pbuh and gave two options as a response. The first option was to give the Qurayesh what they wanted as a sign or miracle, but they still remained as disbelievers they will be destroyed and the second was the one of mercy, where no miracles would be given as they demanded, but the door of mecry will remain open for them. Our beloved Prophet pbuh made the wise decision and took the option of mercy</li>
+			   <li>Still there was a miracle shown by the Prophet pbuh of splitting the moon which the Qurayesh rejected saying that must be a spell that Prophet pbuh has done on them</li>
+			   </ul>
+			   	   <p><cite>When the Moon Split 1998</cite></p>
                </p>
             </div>
          </div>
@@ -650,19 +686,19 @@
          
          <div class="container right">
             <div class="content">
-               <h2>620 Isra al Miraaj</h2>
+               <h2>Isra al Miraaj</h2>
                <p>
 			   
 			    
 			   
 			   <ul>
-			   <li>Age 50</li>
+			   <li>Age 50 (approximately)</li>
 			   <li><a href="https://quran.com/17/1">Firstly Prophet pbuh goes from Makkah to Jerujalem and from there to Heaven</a></li>
 			   <li>Prayer was revealed</li>
 			   <li>Last few verses of Surah Bakarah was revealed (verification required)</li>
-			   <li></li>
 			   <li>Abu Bakar (Ra) says, if he (pbuh) says he (pbuh) went to Jerusalem, then he (pbuh) is saying the truth</li>
 			   <li>Prophet (pbuh) narrates baitul makdis to the questioners (hadith ref required)</li>
+			   <li>At the lowest point of Prophet's (pbuh) life, he pbuh was bless with one of the greatest gift, meeting with his pbuh Lord, the salah was given to the ummah of the Prophet pbuh during this journey</li>
 			   
 			   
 			   </ul>
@@ -673,12 +709,12 @@
          </div>
          <div class="container left">
             <div class="content">
-               <h2>621 Akaba</h2>
+               <h2>Akaba</h2>
                <p>
 			   
 			   <ul>
-			   <li>1st Pledge on 621</li>
-			   <li>2nd Pledge on 622</li>
+			   <li>1st Pledge by the people from Madina on 621 (approximately)</li>
+			   <li>2nd Pledge by the people from Madina on 622 (approximately)</li>
 			   
 			   
 			   
@@ -692,7 +728,7 @@
 
  <div class="container left">
             <div class="content">
-               <h2>Two Marriages of the Prophet pbuh of which some are in doubt</h2>
+               <h2>Two Marriages of the Prophet pbuh which non-muslims querry the most</h2>
                <p>
                <ul>
                   <li>Marriage with Zaynab (Ra), reason being Zaynab (Ra) was wife of Prophet's pbuh adopted son Zaid</li>
@@ -728,23 +764,26 @@
 
          <div class="container left">
             <div class="content">
-               <h2>622 Hijrah</h2>
+               <h2>Hijrah</h2>
                <p>
                <ul>
                   <li>Making of Masjid Al Quba and Masjid Al Nabbi</li>
                   <li>Treaty with Jews in Madina</li>
                   <li>Conversion of Salman al Farsi</li>
+				  <li>This is year zero of Muslim Hijri Calender System</li>
+				  <li>Before this year Prophet pbuh has approximately spent 13 years at Makkah and after this year approximately 10 years he pbuh will stay at Madina</li>
                </ul>
                </p>
             </div>
          </div>
          <div class="container right">
             <div class="content">
-               <h2>623 Change of Qibla</h2>
+               <h2>Change of Qibla</h2>
                <p>
                <ul>
-                  <li>First Ramadan</li>
-                  <li>Zakat is obligated</li>
+                  <li>"We have been seeing you turning your face to the heavens. So, We will certainly assign to you a Qiblah that you would like. Now, turn your face in the direction of the Sacred Mosque (Al-Masjid-ul-Harām), and (O Muslims), wherever you are, turn your faces in its direction. Even those who have been given the Book know well that it is the truth from their Lord, and Allah is not unaware of what they do." (more or less translation of Quran 2:144)</li>
+				  <li>First Ramadan after Hijrah</li>
+                  <li>Zakat is obligated after Hijrah</li>
                   <li>Death of Prophet (pbuh)'s daughter Rukaya (Ra)</li>
                </ul>
                </p>
@@ -752,13 +791,13 @@
          </div>
          <div class="container left">
             <div class="content">
-               <h2>624 Badar</h2>
+               <h2>Badar</h2>
                <p>Age 54</p>
             </div>
          </div>
          <div class="container right">
             <div class="content">
-               <h2>625 Wuhud</h2>
+               <h2>Wuhud</h2>
                <p>Age 55</p>
             </div>
          </div>

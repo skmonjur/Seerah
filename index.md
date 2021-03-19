@@ -677,6 +677,7 @@
 			   
 			   <li>Angel Gibarel / Gabriel (as) came to Prophet pbuh and gave two options as a response. The first option was to give the Qurayesh what they wanted as a sign or miracle, but they still remained as disbelievers they will be destroyed and the second was the one of mercy, where no miracles would be given as they demanded, but the door of mecry will remain open for them. Our beloved Prophet pbuh made the wise decision and took the option of mercy</li>
 			   <li>Still there was a miracle shown by the Prophet pbuh of splitting the moon which the Qurayesh rejected saying that must be a spell that Prophet pbuh has done on them</li>
+			   
 			   </ul>
 			   	   <p><cite>When the Moon Split 1998</cite></p>
                </p>
@@ -693,12 +694,35 @@
 			   
 			   <ul>
 			   <li>Age 50 (approximately)</li>
-			   <li><a href="https://quran.com/17/1">Firstly Prophet pbuh goes from Makkah to Jerujalem and from there to Heaven</a></li>
-			   <li>Prayer was revealed</li>
-			   <li>Last few verses of Surah Bakarah was revealed (verification required)</li>
-			   <li>Abu Bakar (Ra) says, if he (pbuh) says he (pbuh) went to Jerusalem, then he (pbuh) is saying the truth</li>
-			   <li>Prophet (pbuh) narrates baitul makdis to the questioners (hadith ref required)</li>
-			   <li>At the lowest point of Prophet's (pbuh) life, he pbuh was bless with one of the greatest gift, meeting with his pbuh Lord, the salah was given to the ummah of the Prophet pbuh during this journey</li>
+			   <li>Prophet pbuh was at the lowest point of his pbuh llife after losing his pbuh wife, uncle and being rejected by the people of Taif</li>
+			   <li><a href="https://quran.com/17/1">Firstly Prophet pbuh goes from Makkah to Jerujalem and from there to Heaven, Quran mentions the journey from Masjid al haram to Masjid al Aqsa</a></li>
+			   <li>Some sources indicate Sura An Najm (53) verse 7 to 18 indicates the Miraaj part</li>
+			   <li>More or less translation of Quran 53:7-18 :</li>
+			   <ul>
+			   <li>While he was in the highest part of the horizon, (53:7)</li>
+			   <li>Then he drew near, and came down, (53:8)</li>
+			   <li>so as he was at a distance like that of two bows (joined together), rather even nearer. (53:9)</li>
+			   <li>Thus He (Allah) revealed to His slave what He revealed. (53:10)</li>
+			   <li>The heart did not err in what he saw. (53:11)</li>
+			   <li>Do you quarrel with him in what he sees? (53:12)</li>
+			   <li>Indeed he saw him another time (53:13)</li>
+			   <li>by Sidrat-ul-Muntahā (the lote-tree in the upper realm), (53:14)</li>
+			   <li>near which there is Jannat-ul-Ma’wā (the Paradise of Abode), (53:15)</li>
+			   <li>when the lote-tree was covered by that which covered it. (53:16)</li>
+			   <li>The eye neither went wrong, nor did exceed the limit. (53:17)</li>
+			   <li>He has indeed seen a part of the biggest signs of your Lord. (53:18)</li>
+			   
+			   </ul>
+			   <li>In an attempt to prove the Prophet pbuh was lying, Makkans who were familiar with Jerusalem were asking the Prophet pbuh to describe the sacred mosque</li>
+			   <li>Prophet pbuh, described everything in details</li>
+			   <li>Makkans still disbelieved</li>
+			   <li>If one wants to lie for their own benefit, this was a very wrong time to do so as they have no support at their home town without any family members to stand by them</li>
+			   <li>Someone told Abu Bakar (ra) about this journey and Abu Bakar simply said, If he pbuh is saying so, then it must be true</li>
+			   <li>From that day Abu Bakar (ra) was called "Siddeque", the one who believes</li>
+			   <li>Prayer was revealed to Prophet during this journey, initially 50 times a day, later Prophet pbuh listened to the advise of Prophet Musa / Moses (pbuh) as he had experience with the Bani Israel people (his ummah) who were commanded less than 5 times  day and still were unable to carry on their duties. Finally Allah obligated 5 times prayer for Muslims, the Ummah of Prophet Muhammad (pbuh)</li>
+			   
+			   <p><cite>When the Moon Split 1998</cite></p>
+			   
 			   
 			   
 			   </ul>

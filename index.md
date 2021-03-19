@@ -870,7 +870,7 @@
 
 <div class="content">
 
-<div>
+
 <h1>Who are we?</h1>
 
 <p>We are the brothers of the Prophet pbuh, he pbuh mentioned in this hadith in Sha Allah:</p>

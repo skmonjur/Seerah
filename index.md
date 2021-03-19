@@ -240,7 +240,7 @@
                <ul>
                   <li>“I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.  And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.  But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die. And if thou say in thine heart, How shall we know the word which the LORD hath not spoken? When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.” <cite>Deuteronomy 18:18-22 (King James Version)</cite> </li>
 
-<br></br>
+<br/>
                   <li>Similarities between Moses and Muhammad (pbuh):</li>
 <ul>
                   <li>Both were rejected by their people but later became their accepted leaders</li>

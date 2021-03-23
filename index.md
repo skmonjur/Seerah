@@ -30,8 +30,9 @@
 
 
 
-
+<div>
 <button type="button" class="collapsible">Why we need Seerah?</button>
+</div>
 <div class="content">
 
 <p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “None of you have faith until I am more beloved to him than his children, his father, and all of the people.”
@@ -54,9 +55,10 @@
 </div>
 
 
-
-
+<br/>
+<div>
 <button type="button" class="collapsible">Prophet Abraham or Ibrahim(Peace be Upon him)</button>
+</div>
 <div class="content">
                  <h2>Where do we start?</h2>
                <p>
@@ -76,7 +78,10 @@
 <p><cite>(1) Sahih Muslim 2276</cite></p>
 
 </div>
+<br/>
+<div>
 <button type="button" class="collapsible">Prophet Moses (Peace be Upon him)</button>
+</div>
 <div class="content">
                  <h2>Prophet Musa / Moses (Peace be upon him) indicated about a Prophet coming</h2>
                <p>
@@ -102,8 +107,10 @@
                </p>
 
 </div>
-
+<br/>
+<div>
 <button type="button" class="collapsible">Prophet Jesus (Peace be Upon him)</button>
+</div>
 <div class="content">
 
 <h2>Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</h2>
@@ -113,6 +120,27 @@
 </div>
 
 
+
+<br/>
+<div>
+<button type="button" class="collapsible">...</button>
+</div>
+<div class="content">
+</div>
+
+<br/>
+<div>
+<button type="button" class="collapsible">...</button>
+</div>
+<div class="content">
+</div>
+
+<br/>
+<div>
+<button type="button" class="collapsible">...</button>
+</div>
+<div class="content">
+</div>
 
 
 

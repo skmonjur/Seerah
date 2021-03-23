@@ -31,7 +31,7 @@
 
 
 
-<button type="button" class="collapsible"><h3>Why we need Seerah?</h3></button>
+<button type="button" class="collapsible">Why we need Seerah?</button>
 <div class="content">
 
 <p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “None of you have faith until I am more beloved to him than his children, his father, and all of the people.”
@@ -56,7 +56,7 @@
 
 
 
-<button type="button" class="collapsible"><h3>Prophet Abraham or Ibrahim(Peace be Upon him)</h3></button>
+<button type="button" class="collapsible">Prophet Abraham or Ibrahim(Peace be Upon him)</button>
 <div class="content">
                  <h2>Where do we start?</h2>
                <p>
@@ -76,7 +76,7 @@
 <p><cite>(1) Sahih Muslim 2276</cite></p>
 
 </div>
-<button type="button" class="collapsible"><h3>Prophet Moses (Peace be Upon him)</h3></button>
+<button type="button" class="collapsible">Prophet Moses (Peace be Upon him)</button>
 <div class="content">
                  <h2>Prophet Musa / Moses (Peace be upon him) indicated about a Prophet coming</h2>
                <p>
@@ -103,7 +103,7 @@
 
 </div>
 
-<button type="button" class="collapsible"><h3>Prophet Jesus (Peace be Upon him)<h3></button>
+<button type="button" class="collapsible">Prophet Jesus (Peace be Upon him)</button>
 <div class="content">
 
 <h2>Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</h2>
@@ -111,6 +111,10 @@
               "I still have many things to say to you, but you cannot bear them now. When the Spirit of Truth comes, he will guide you into all the truth; for he will not speak on his own, but will speak whatever he hears, and he will declare to you the things that are to come.  He will glorify me, because he will take what is mine and declare it to you. All that the Father has is mine.  For this reason I said that he will take what is mine and declare it to you." <cite>(John 16:12-15, NRSV)</cite>
                </p>
 </div>
+
+
+
+
 
 <script>
 var coll = document.getElementsByClassName("collapsible");

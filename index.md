@@ -7,6 +7,12 @@
 </head>
 <body>
 
+<style>
+body {
+  background-color: powderblue;
+}
+</style>
+
 <div class="container">
   
    
@@ -20,7 +26,7 @@
       <div id="collapse1" class="panel-collapse collapse in">
         <div class="panel-body">
 		
-		<div>
+		<div style= "bgcolor:#00FF00">
 
 <p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “None of you have faith until I am more beloved to him than his children, his father, and all of the people.”
 </p>

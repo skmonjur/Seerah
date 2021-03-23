@@ -9,17 +9,28 @@
 <body>
 
 <style>
-html {
-width: 100%;
-height: 100%;
-position: relative;
+<!-- html { -->
+<!-- width: 100%; -->
+<!-- height: 100%; -->
+<!-- position: relative; -->
+<!-- } -->
+<!-- body { -->
+<!-- width: 100%; -->
+<!-- height: 100%; -->
+<!-- position: relative; -->
+<!-- } -->
+html, body {
+  position: relative;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
 body {
-width: 100%;
-height: 100%;
-position: relative;
+  overflow: auto;
 }
-
 
 </style>
 

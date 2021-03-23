@@ -30,9 +30,9 @@
 
 
 
-<div>
+
 <button type="button" class="collapsible">Why we need Seerah?</button>
-</div>
+
 <div class="content">
 
 <p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “None of you have faith until I am more beloved to him than his children, his father, and all of the people.”
@@ -54,11 +54,11 @@
 <p>Most of the details were taken from the book, "When the Moon Split" (1998) compiled by Safiur Rahman Mubarakpuri. I highly recommend everyone to read his book "Rahikul Makhtum (Sealed Nectar)" to gain more in depth and detailed knowledge on the subject. If one takes this advise and picks up the book and reads it, I will consider that as a huge success from this small project. May Allah give us ability to do more.</p>
 </div>
 
-
+<div/>
 <br/>
-<div>
+
 <button type="button" class="collapsible">Prophet Abraham or Ibrahim(Peace be Upon him)</button>
-</div>
+
 <div class="content">
                  <h2>Where do we start?</h2>
                <p>
@@ -78,10 +78,15 @@
 <p><cite>(1) Sahih Muslim 2276</cite></p>
 
 </div>
+
+<div/>
 <br/>
-<div>
+
+
+
+
 <button type="button" class="collapsible">Prophet Moses (Peace be Upon him)</button>
-</div>
+
 <div class="content">
                  <h2>Prophet Musa / Moses (Peace be upon him) indicated about a Prophet coming</h2>
                <p>
@@ -107,10 +112,12 @@
                </p>
 
 </div>
+<div/>
 <br/>
-<div>
+
+
 <button type="button" class="collapsible">Prophet Jesus (Peace be Upon him)</button>
-</div>
+
 <div class="content">
 
 <h2>Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</h2>
@@ -121,27 +128,25 @@
 
 
 
+<div/>
 <br/>
-<div>
-<button type="button" class="collapsible">...</button>
-</div>
-<div class="content">
-</div>
 
+<button type="button" class="collapsible">...</button>
+<div/>
 <br/>
-<div>
-<button type="button" class="collapsible">...</button>
-</div>
-<div class="content">
-</div>
 
+<button type="button" class="collapsible">...</button>
+<div/>
 <br/>
-<div>
 <button type="button" class="collapsible">...</button>
-</div>
-<div class="content">
-</div>
-
+<div/>
+<br/>
+<button type="button" class="collapsible">...</button>
+<div/>
+<br/>
+<button type="button" class="collapsible">...</button>
+<div/>
+<br/>
 
 
 <script>

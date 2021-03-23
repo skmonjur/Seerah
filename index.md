@@ -132,10 +132,10 @@ body {
 	<div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</a>
         </h4>
       </div>
-      <div id="collapse3" class="panel-collapse collapse">
+      <div id="collapse4" class="panel-collapse collapse">
         <div class="panel-body">
 		<p>
               "I still have many things to say to you, but you cannot bear them now. When the Spirit of Truth comes, he will guide you into all the truth; for he will not speak on his own, but will speak whatever he hears, and he will declare to you the things that are to come.  He will glorify me, because he will take what is mine and declare it to you. All that the Father has is mine.  For this reason I said that he will take what is mine and declare it to you." <cite>(John 16:12-15, NRSV)</cite>
@@ -149,10 +149,10 @@ body {
 	<div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Collapsible Group 3</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Collapsible Group 4</a>
         </h4>
       </div>
-      <div id="collapse3" class="panel-collapse collapse">
+      <div id="collapse4" class="panel-collapse collapse">
         <div class="panel-body">
 		
 		
@@ -160,55 +160,15 @@ body {
       </div>
     </div>
 	
-	<div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Collapsible Group 3</a>
-        </h4>
-      </div>
-      <div id="collapse3" class="panel-collapse collapse">
-        <div class="panel-body">
-		
-		
-		</div>
-      </div>
-    </div>
+	
 	
 	<div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Collapsible Group 3</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">Collapsible Group 5</a>
         </h4>
       </div>
-      <div id="collapse3" class="panel-collapse collapse">
-        <div class="panel-body">
-		
-		
-		</div>
-      </div>
-    </div>
-	
-	<div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Collapsible Group 3</a>
-        </h4>
-      </div>
-      <div id="collapse3" class="panel-collapse collapse">
-        <div class="panel-body">
-		
-		
-		</div>
-      </div>
-    </div>
-	
-	<div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Collapsible Group 3</a>
-        </h4>
-      </div>
-      <div id="collapse3" class="panel-collapse collapse">
+      <div id="collapse5" class="panel-collapse collapse">
         <div class="panel-body">
 		
 		

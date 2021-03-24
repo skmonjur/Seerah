@@ -958,7 +958,7 @@
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse40">Collapsible Group 40</a>
                   </h4>
                </div>
-               <div id="collapse40 class="panel-collapse collapse">
+               <div id="collapse40" class="panel-collapse collapse">
                   <div class="panel-body">
                   </div>
                </div>

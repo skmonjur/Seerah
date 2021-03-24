@@ -170,12 +170,110 @@ body {
 	<div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">Collapsible Group 5</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">Tribe and Lineage of Prophet Muhammad (pbuh)</a>
         </h4>
       </div>
       <div id="collapse5" class="panel-collapse collapse">
         <div class="panel-body">
+		<p>
+               <ul>
+                  <li>Prophet pbuh belonged to the most respected tribe in Arabia, the Qurayesh, the tribe was highly honored and well known in the peninsula</li>
+		<li>One member of the tribe Qusayy played a vital rol in establishing the greatness of this tribe over others</li>
+<li>Under Qysayy's leadership his tribesmen grew from a scattered band of people into a homogeneous community</li>
+<li>Qusayy's son Abd Munaf, Abd Munaf's son Hashim, Hashim's son Abdul Muttalib</li>
+<li>Abdul Muttalib was the grandfather of the Prophet, another very well respected man from the Qurayesh clan</li>		  
+<li>Abdul Muttalib's son Abdullah (among 12 others) was the father of the Prophet pbuh</li>
+               </ul>
+<p><cite>When the Moon Split 1998</cite></p>
+               </p>
 		
+		</div>
+      </div>
+    </div>
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">Abdul Muttalib</a>
+        </h4>
+      </div>
+      <div id="collapse6" class="panel-collapse collapse">
+        <div class="panel-body">
+		 <p>
+               <ul>
+                  <li>Abraha attacks Kaba</li>
+                  <li>Abdul Muttalib prays to Allah to save Kaba</li>
+                  <li>Allah sends small birds to attack the army of Abraha</li>
+                  <li>This year is recorded in verbal history as the year of fill (Elephants)</li>
+                  <li>Zurhum hides ZamZam before fleeing</li>
+                  <li>Abdul Muttalib sees a dream and gets inspired to dig and find ZamZam again</li>
+                  <li>Abdul Muttalib prays for more sons</li>
+                  <li>Abdul Muttalib was blessed with more sons and as per his promise he goes to sacrifice Abdullah, the father of Prophet (pbuh)</li>
+               </ul>
+               </p>
+		
+		</div>
+      </div>
+    </div>
+	
+	
+	
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">His (pbuh) father</a>
+        </h4>
+      </div>
+      <div id="collapse7" class="panel-collapse collapse">
+        <div class="panel-body">
+		 <p>Prophet (pbuh)'s father died few months before he (pbuh) was born. Approximately on 570 CE. (Require Verification)</p>
+		
+		</div>
+      </div>
+    </div>
+	
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">571 Year of Birth</a>
+        </h4>
+      </div>
+      <div id="collapse8" class="panel-collapse collapse">
+        <div class="panel-body">
+		
+		<ul>
+               <li>571 CE, Prophet pbuh was born</li>
+			   <li>Brought up by Grandfather (Abdul Muttalib) and Mother (Ameenah)</li>
+			   <li></li>
+			   </ul>
+<p><cite>When the Moon Split 1998</cite></p>
+		</div>
+      </div>
+    </div>
+	
+	
+	
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">Haleema Sa'dya (Ra)</a>
+        </h4>
+      </div>
+      <div id="collapse9" class="panel-collapse collapse">
+        <div class="panel-body">
+		 <p>
+               <ul>
+                  <li>Makkan's had a tradition of sending young kids to deserts for learning pure language and to be tough in the harsh environment</li>
+                  <li>Haleema (Ra) was one of the foster mothers who was looking for a baby to take care</li>
+				  <li>Haleema (Ra) finds blessings in her body, animals and they could spot the goodness as soon as the Prophet pbuh went to their house</li>
+                  <li>None took Prophet pbuh as he pbuh was an orphan, except Haleema(Ra)</li>
+                  <li>During his pbuh stay at Haleema (Ra) (Ra) the incident with Angel Gibrael took place where he came and washed his (pbuh) heart as per the hadith. Narrated by Muslim (162)</li>
+				  
+               </ul>
+               </p>
 		
 		</div>
       </div>
@@ -186,16 +284,161 @@ body {
 	<div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">Collapsible Group 5</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">Losing Mother and Grandfather</a>
         </h4>
       </div>
-      <div id="collapse5" class="panel-collapse collapse">
+      <div id="collapse10" class="panel-collapse collapse">
         <div class="panel-body">
-		
+		 <ul>
+                  <li>After coming back from Haleema (Ra), Prophet pbuh stayed with his pbuh mother approximately 2 years</li>
+				  <li>After that his pbuh mother died</li>
+				  <li>Then for sometime Prophet pbuh was under the care of his pbuh, Grandfather</li>
+				  <li>After the Grandfather passed away the Prophet pbuh was looked after by his pbuh Uncle Abu Talib, the son of Abdul Muttalib</li>
+                  
+				  
+               </ul>
 		
 		</div>
       </div>
     </div>
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">Before Marriage</a>
+        </h4>
+      </div>
+      <div id="collapse11" class="panel-collapse collapse">
+        <div class="panel-body">
+		<p>
+               <ul>
+                  <li>At the age of 12 Prophet (pbuh) went to Syria with his (pbuh) uncle Abu Talib</li>
+                  <li>A christian monk named as Bahira recognised Prophet (pbuh) as having sings of being a prophet</li>
+                  <li>Bahira warned Abu talib to take the Prophet (pbuh) at a safe place in case the Bizentines finds out about him and kill him</li>
+                  <li>Prophet pbuh participated Battle of Fijar at the age of 20 on the side of Qurayesh</li>
+                  <li>Hilf ul Fudul was formed</li>
+                  <li>Like all other prophets, our Prophet pbuh also tended sheep for sometime for the people of Makkah</li>
+				  <li>Khadeejaa (Ra) appoints Prophet pbuh as her business representative to Syria</li>
+		
+				  
+               </ul><cite>When the Moon Split 1998</cite>
+               </p>
+		
+		</div>
+      </div>
+    </div>
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">Marriage with Khadeeja (Ra)</a>
+        </h4>
+      </div>
+      <div id="collapse12" class="panel-collapse collapse">
+        <div class="panel-body">
+		<ul>
+                  <li>Khadeeja (Ra) gets very impressed by the character and truthfulness of the Prophet pbuh</li>
+				  <li>Khadeeja offers to marry Prophet pbuh</li>
+				  
+				  
+				  <ul>
+				  Over the next few years, Prophet pbuh gets blessed with four daughters:
+				  <li>Birth of first daugher Zainaab (Ra)</li>
+                  <li>Birth of second daugher Ruqaiya (Ra)</li>
+                  <li>Birth of third daugher Umm Kulthum (Ra)</li>
+                  <li>Birth of fourth daugher Fatimah (Ra)</li>
+				  </ul>
+				  
+				  
+				  
+				  
+				  
+				  
+               </ul>
+		
+		</div>
+      </div>
+    </div>
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse13">Placement of Blackstone and resolving the conflicts</a>
+        </h4>
+      </div>
+      <div id="collapse13" class="panel-collapse collapse">
+        <div class="panel-body">
+		               <p> 
+			   
+			                  <ul>
+                  <li>After rebuilding the Kabah, Qurayesh tribes were about to fight eachother on the issue of who will place the holy blackstone at its place after the reconstruction of Kabah</li>
+                  <li>Prophet pbuh solved this issue by using a big cloth and advising the fighting tribes to hold each corners</li>
+                  <li>He pbuh placed the stone by himself pbuh</li>
+                  <li>Everyone was happy to see Al Ameen to resolve the issue, they loved the Prophet for his noble character and truthfulness (pbuh)</li>
+               </ul>
+			   
+			   
+			   </p>
+		
+		</div>
+      </div>
+    </div>
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse14">First Revelation</a>
+        </h4>
+      </div>
+      <div id="collapse14" class="panel-collapse collapse">
+        <div class="panel-body">
+		<p>First Revelation, during the month of Ramadan (Verification Required)
+			   <ul>
+			   <li>Throughout his pbuh life, Allah kept him pbuh away from shirk and paganism</li>
+			   <li>Prophet pbuh used to to away from all the corruption of the Makkan society and seek refuge in solitude in the cave of Hira</li>
+			   <li>During one of these sessions was the first time Allah sent Gibrael (As) with the verses of Surah Alak, the first revealation at the age of 40</li>
+			   <li><a href="https://quran.com/96/1">It was not an accident or coincidence the the first verse revelaed was an advise to read, i.e. "Iqra"</a></li>
+			   
+			   <li>Reading / gaining knowldege is the foundation of seeking guidance and worship Allah with the correct knowledge</li>
+			   <li>Prophet pbuh was scared and shocked to experience the appearance of Gibarel (As)</li>
+				<li>Prophet pbuh told this to his pbuh wife Khadeeja (Ra)</li>
+				<li>Khadeeja (Ra)immediately beleived Prophet pbuh, and became the first ever Muslim on the face of Earth, what an honor</li>
+			   <li>Secret Preaching started</li>
+			   
+				
+			   </ul>
+			   
+			   
+			   
+			   </p>
+		
+		</div>
+      </div>
+    </div>
+	
+	<div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse15">First few beleivers</a>
+        </h4>
+      </div>
+      <div id="collapse15" class="panel-collapse collapse">
+        <div class="panel-body">
+		<ul>
+			   
+			   <li>After Khadeeja (Ra), Ali (Ra) and his pbuh daughers were among the first beleivers</li>
+			   <li>Abu Bakar (Ra) was the first Muslim outsite of Prophet (pbuh) family</li>
+			   <li>Abu Bakar was his pbuh neighbour and friend</li>
+			   <li>Makkans used to love Abu Bakar (Ra) for his noble character which was similar to Prophet pbuh, no wonder they were friends and were almost of same age (i.e. one year difference approximately)</li>
+		
+				
+			   </ul>
+		
+		</div>
+      </div>
+    </div>
+	
+	
   </div> 
 </div>
     

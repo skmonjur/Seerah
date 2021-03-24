@@ -57,7 +57,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Father of all nations</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Ibrahim or Abraham, the father of all nations</a>
                   </h4>
                </div>
                <div id="collapse2" class="panel-collapse collapse">

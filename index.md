@@ -729,48 +729,11 @@
                   </div>
                </div>
             </div>
-            <div class="panel panel-default">
-               <div class="panel-heading">
-                  <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse29">Second pledge of Aqabah</a>
-                  </h4>
-               </div>
-               <div id="collapse29" class="panel-collapse collapse">
-                  <div class="panel-body">
-				  <ul>
-				  <li>13th year of the Prophet's pbuh mission, many pilgrims visited Makkah from Madina, in them there were both Muslims and Pagans and alike</li>
-				  <li>The Muslims wanted to invite the Prophet pbuh to move to Madina. They arranged a secret meeting with the Prophet pbuh after Hajj at Akabah</li>
-				  <li>A total of 73 of the Muslims went individullay or pairs by keeping the private meeting a secret and this is known as the Second Pledge of Akabah</li>
-				  <li>All but 11 were frim Khajraj trbie. There were two women in the group</li>
-				  <li>Abbas bin Abdul Muttalib, Prophet's pbuh Uncle was with him pbuh. His pbuh Uncle was not a muslim yet. He (ra) said, Prophet pbuh has both security and honor in Makkah and if the Muslims from Madina cannot give security to the Prophet pbuh then they should leave the Prophet pbuh to stay at Makkah</li>
-				  <li>The Prophet pbuh recited some verses from the Quran and took the follwoing oath:</li>				
-				  <ul>
-				  <li>"We will worship none but Allah and we will never associate any partner with Him"</li>
-				  <li>"We will obey the Prophet pbuh"</li>
-				  <li>"We will give our wealth freely in properity and poverty"</li>
-				  <li>"We will counsel others to do good deeds and instruct them to refrain from evil"</li>
-				  <li>"We will server Allah, even when others show contempt"</li>
-				  <li>"We will protect the Prophet pbuh as we protect our women and children"</li>
-				  <li>Additionally according to Ubada (ra) they took pledge not to disobey the ones in Authority</li>
-				  			  
-				  </ul>
-				  <li>One of them asked, "O Prophet pbuh, We are bound to our people by a covenant, and by pledging loyality to you, we are about to cut off all our old ties. If success comes to you and you should conquer Makkah, will you return to Makkah then and leave us defenseless?"</li>
-				  <li>The Prophet pbuh smiled and said (more or less meaning could be), "No! Blood is blood, and destruction is destruction. I am off you, and you are of me. I will wage war against those who make war upon you, and be at peace with those who are at peace with you."</li>
-				  <li>Another one of them asked, "Tell me O Prophet pbuh, what do we get in exchange for all of this?"</li>
-				  <li>"Paradise" the Prophet pbuh replied simply (more or less meaning)</li>
-				  <li>All took the Prophet's pbuh hand and took the oath</li>
-				  <li>The two women present took oath without shaking hands with the Prophet pbuh</li>
-				  <li>After the pledge the Prophet pbuh asked the people to select 12 men who would be responsible for their affairs in the community</li>
-				  <li>9 from Khajraj and 3 from Aus tribe were chosen/li>
-				  <li>After the 12 were elected, the Prophet pbuh said (more or less meaning which could mean), "You are like the apostles of Isa (Jesus) pbuh. You are responsible for the community [in Madina] while I am the caretacker of the entire body of Muslims"</li>
-				  <li>Next morning Qurayesh heard a rumor about the pledge at Akabah, went to Madina camp to protest against what happened</li>
-				  <li>The ploytheists of Madina didnt know anything so they declined the claim</li>
-				  
-				  </ul>
-				  
-                  </div>
-               </div>
-            </div>
+			
+			
+            
+			
+			
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">

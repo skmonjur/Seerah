@@ -583,6 +583,7 @@
                         <li>Someone told Abu Bakar (ra) about this journey and Abu Bakar simply said, If he pbuh is saying so, then it must be true</li>
                         <li>From that day Abu Bakar (ra) was called "Siddeque", the one who believes</li>
                         <li>Prayer was revealed to Prophet during this journey, initially 50 times a day, later Prophet pbuh listened to the advise of Prophet Musa / Moses (pbuh) as he had experience with the Bani Israel people (his ummah) who were commanded less than 5 times  day and still were unable to carry on their duties. Finally Allah obligated 5 times prayer for Muslims, the Ummah of Prophet Muhammad (pbuh)</li>
+						<li><a href="https://www.google.com/maps/dir/makkah/Masjid+Al-Aqsa,+Jerusalem/@27.0417954,35.2125302,6z/data=!4m13!4m12!1m5!1m1!1s0x15c21b4ced818775:0x98ab2469cf70c9ce!2m2!1d39.8579118!2d21.3890824!1m5!1m1!1s0x150329c9c96f3a51:0x9d880658c9248aad!2m2!1d35.2357802!2d31.7760692?hl=en">The distance</a></li>
                         <p><cite>When the Moon Split 1998</cite></p>
                      </ul>
                      </p>
@@ -750,7 +751,7 @@
 			<div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse29">Second pledge of Aqabah</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse29">Second pledge of Aqabah (13th year of Prophethood)</a>
                   </h4>
                </div>
                <div id="collapse29" class="panel-collapse collapse">

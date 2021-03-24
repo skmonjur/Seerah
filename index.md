@@ -739,7 +739,7 @@
                </div>
                <div id="collapse29" class="panel-collapse collapse">
                   <div class="panel-body">
-				  <div>
+				  
 				  <ul>
 				  <li>13th year of the Prophet's pbuh mission, many pilgrims visited Makkah from Madina, in them there were both Muslims and Pagans and alike</li>
 				  <li>The Muslims wanted to invite the Prophet pbuh to move to Madina. They arranged a secret meeting with the Prophet pbuh after Hajj at Akabah</li>
@@ -763,12 +763,12 @@
 				  <li>All took the Prophet's pbuh hand and took the oath</li>
 				  <li>The two women present took oath without shaking hands with the Prophet pbuh</li>
 				  <li>After the pledge the Prophet pbuh asked the people to select 12 men who would be responsible for their affairs in the community</li>
-				  <li>9 from Khajraj and 3 from Aus tribe were chosen/li>
+				  <li>9 from Khajraj and 3 from Aus tribe were chosen</li>
 				  <li>After the 12 were elected, the Prophet pbuh said (more or less meaning which could mean), "You are like the apostles of Isa (Jesus) pbuh. You are responsible for the community [in Madina] while I am the caretacker of the entire body of Muslims"</li>
 				  <li>Next morning Qurayesh heard a rumor about the pledge at Akabah, went to Madina camp to protest against what happened</li>
 				  <li>The ploytheists of Madina didnt know anything so they declined the claim</li></ul>
 				  </div>
-				  </div>
+				  
                </div>
             </div>
             

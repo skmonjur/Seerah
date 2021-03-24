@@ -468,7 +468,7 @@
                         <li>Including Abu Talib and Khadeeja and their children go through severe pain for not having adequate food and supplies</li>
                         <li>Amazing stories of companions are heard on how they used to live on very little during this time</li>
                         <li>How Prophet (pbuh) might have been feeling for putting his (phuh) in this and not being able to do anything for them subhanAllah!</li>
-                        <li>Insects ate everyting on the treaty that stated the boycott excepth the word in the name of Allah (God) which was kep inside Kabah (ref required)</li>
+                        <li>Insects ate everyting on the treaty that stated the boycott excepth the word in the name of Allah (God) which was kept inside Kabah (ref required)</li>
                      </ul>
                      </p>
                   </div>
@@ -477,7 +477,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse22">Losing Wife and Uncle</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse22">Losing Wife and Uncle (Pillars of support)</a>
                   </h4>
                </div>
                <div id="collapse22" class="panel-collapse collapse">
@@ -534,7 +534,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse24">Isra al Miraaj</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse24">Isra al Miraaj (The miracle they asked for)</a>
                   </h4>
                </div>
                <div id="collapse24" class="panel-collapse collapse">
@@ -680,7 +680,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse27">First pledge of Aqabah</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse27">First pledge of Aqabah (Right people will find you if they had to, you need to continue your job)</a>
                   </h4>
                </div>
                <div id="collapse27" class="panel-collapse collapse">
@@ -710,7 +710,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse28">Islam spreads in Madina</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse28">Islam spreads in Madina (Sometimes Allah might give you results from where you would not expect)</a>
                   </h4>
                </div>
                <div id="collapse28" class="panel-collapse collapse">
@@ -779,10 +779,10 @@
 			<div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse29">Second pledge of Aqabah</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse33">Second pledge of Aqabah</a>
                   </h4>
                </div>
-               <div id="collapse29" class="panel-collapse collapse">
+               <div id="collapse33" class="panel-collapse collapse">
                   <div class="panel-body">
 				  <ul>
 				  <li>13th year of the Prophet's pbuh mission, many pilgrims visited Makkah from Madina, in them there were both Muslims and Pagans and alike</li>
@@ -814,7 +814,6 @@
 				  <li>The ploytheists of Madina didnt know anything so they declined the claim</li>
 				  
 				  </ul>
-				  
                   </div>
                </div>
             </div>

@@ -68,6 +68,9 @@
                            <li>All three Abrahamic religions initiate from this Prophet of Allah, Judaism, Christianity and Islam</li>
                            <li>From Prophet Abraham's son Prophet Iahaaq / Isaac (As) comes Bani Israel (Isralites / Jews) and all their Prophets, e.g. Prophet Yaqoob / Jacob, Prophet Yousuf / Joheph, Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
                            <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As), other son of Prophet Abraham (As) with Hajar / Hagar (1)</li>
+						   <li>From the holy Quran we come to know that Kabah was built by Prophet Abraham and his son Ishmael peace be upon them</li>
+						   <li><a href="https://travelforumrah.co.uk/blog/wp-content/uploads/2018/04/History-of-Kabah.jpg">Old Kabah</a></li>
+						   <li><a href="https://images.slideplayer.com/18/6160777/slides/slide_4.jpg">Kabah in our time</a></li>
                         </ul>
                         </p>
                         <p><cite>(1) Sahih Muslim 2276</cite></p>
@@ -840,6 +843,7 @@
                   <li>Conversion of Salman al Farsi</li>
 				  <li>This is year zero of Muslim Hijri Calender System</li>
 				  <li>Before this year Prophet pbuh has approximately spent 13 years at Makkah and after this year approximately 10 years he pbuh will stay at Madina</li>
+				  <li><a href="http://muslimsincalgary.ca/wp-content/uploads/2017/09/hejrat-alrassoul.jpg">Hijrah route, red one is the main highway used by Qurayesh Caravans, the Green one is the one used by the guide for Hijrah according to this source and When the Moon Split 1998</a></li>
                </ul>
                </p>
                   </div>

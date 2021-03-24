@@ -754,8 +754,7 @@
 				  <li>"We will counsel others to do good deeds and instruct them to refrain from evil"</li>
 				  <li>"We will server Allah, even when others show contempt"</li>
 				  <li>"We will protect the Prophet pbuh as we protect our women and children"</li>
-				  <li>Additionally according to Ubada (ra) they took pledge not to disobey the ones in Authority</li>
-							  
+				  <li>Additionally according to Ubada (ra) they took pledge not to disobey the ones in Authority</li>		  
 				  </ul>
 				  <li>One of them asked, "O Prophet pbuh, We are bound to our people by a covenant, and by pledging loyality to you, we are about to cut off all our old ties. If success comes to you and you should conquer Makkah, will you return to Makkah then and leave us defenseless?"</li>
 				  <li>The Prophet pbuh smiled and said (more or less meaning could be), "No! Blood is blood, and destruction is destruction. I am off you, and you are of me. I will wage war against those who make war upon you, and be at peace with those who are at peace with you."</li>
@@ -767,12 +766,9 @@
 				  <li>9 from Khajraj and 3 from Aus tribe were chosen/li>
 				  <li>After the 12 were elected, the Prophet pbuh said (more or less meaning which could mean), "You are like the apostles of Isa (Jesus) pbuh. You are responsible for the community [in Madina] while I am the caretacker of the entire body of Muslims"</li>
 				  <li>Next morning Qurayesh heard a rumor about the pledge at Akabah, went to Madina camp to protest against what happened</li>
-				  <li>The ploytheists of Madina didnt know anything so they declined the claim</li>
-				  
-				  </ul>
+				  <li>The ploytheists of Madina didnt know anything so they declined the claim</li></ul>
 				  </div>
-				  
-                  </div>
+				  </div>
                </div>
             </div>
             

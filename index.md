@@ -765,8 +765,7 @@
 				  <li>After the 12 were elected, the Prophet pbuh said (more or less meaning which could mean), "You are like the apostles of Isa (Jesus) pbuh. You are responsible for the community [in Madina] while I am the caretacker of the entire body of Muslims"</li>
 				  <li>Next morning Qurayesh heard a rumor about the pledge at Akabah, went to Madina camp to protest against what happened</li>
 				  <li>The ploytheists of Madina didnt know anything so they declined the claim</li>
-				  <li></li>
-				  <li></li>
+				  
 				  </ul>
 				  
                   </div>

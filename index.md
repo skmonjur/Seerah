@@ -57,7 +57,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Where to start from?</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Father of all nations</a>
                   </h4>
                </div>
                <div id="collapse2" class="panel-collapse collapse">
@@ -76,12 +76,6 @@
 						   <li><a href="https://english.alarabiya.net/perspective/features/2015/05/17/Bahraini-man-who-circumambulated-Kaaba-during-1941-floods-dies">Bahrini man doing tawaf by swimming around the Kabah back in 1941 flood</a></li>
 						   <li><a href="https://cdn.theatlantic.com/media/img/photo/2015/09/mecca-then-and-now-126-years-of-gro/m02_03076u/main_1500.jpg">Another image of old Kabah</a></li>
 						   <li><a href="https://i.ytimg.com/vi/kAlM61oNdMc/maxresdefault.jpg">1950 Kabah</a></li>
-						   
-						   
-						   
-						   
-						   
-						   
 						   <li><a href="https://images.slideplayer.com/18/6160777/slides/slide_4.jpg">Kabah in our time</a></li>
                         </ul>
                         </p>

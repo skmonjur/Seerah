@@ -69,7 +69,19 @@
                            <li>From Prophet Abraham's son Prophet Iahaaq / Isaac (As) comes Bani Israel (Isralites / Jews) and all their Prophets, e.g. Prophet Yaqoob / Jacob, Prophet Yousuf / Joheph, Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
                            <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As), other son of Prophet Abraham (As) with Hajar / Hagar (1)</li>
 						   <li>From the holy Quran we come to know that Kabah was built by Prophet Abraham and his son Ishmael peace be upon them</li>
+						   
+						   <li><a href="https://i.pinimg.com/originals/2e/4a/22/2e4a22e583e82150f52201eb278b25d2.jpg">Very old Kabah</a></li>
 						   <li><a href="https://travelforumrah.co.uk/blog/wp-content/uploads/2018/04/History-of-Kabah.jpg">Old Kabah</a></li>
+						   <li><a href="https://i.pinimg.com/564x/99/30/f1/9930f1b06f10e9b9fe6f2e864300bfe3.jpg">Flooding around Kabah</a></li>
+						   <li><a href="https://english.alarabiya.net/perspective/features/2015/05/17/Bahraini-man-who-circumambulated-Kaaba-during-1941-floods-dies">Bahrini man doing tawaf by swimming around the Kabah back in 1941 flood</a></li>
+						   <li><a href="https://cdn.theatlantic.com/media/img/photo/2015/09/mecca-then-and-now-126-years-of-gro/m02_03076u/main_1500.jpg">Another image of old Kabah</a></li>
+						   <li><a href="https://i.ytimg.com/vi/kAlM61oNdMc/maxresdefault.jpg">1950 Kabah</a></li>
+						   
+						   
+						   
+						   
+						   
+						   
 						   <li><a href="https://images.slideplayer.com/18/6160777/slides/slide_4.jpg">Kabah in our time</a></li>
                         </ul>
                         </p>
@@ -292,6 +304,9 @@
                         <li>Prophet pbuh solved this issue by using a big cloth and advising the fighting tribes to hold each corners</li>
                         <li>He pbuh placed the stone by himself pbuh</li>
                         <li>Everyone was happy to see Al Ameen to resolve the issue, they loved the Prophet for his noble character and truthfulness (pbuh)</li>
+						<li><a href="https://pbs.twimg.com/media/EZD9kmiX0AAi5X0.jpg">The blackstone</a></li>
+						<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDep2OGaeM9Ah5Zt4o7YBP_Fu_QDo7_zULAA&usqp=CAU">Broken Pieces of Hazr al wasd</a></li>
+						
                      </ul>
                      </p>
                   </div>

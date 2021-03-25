@@ -370,7 +370,7 @@
                         <li>Makkans were not going to give up the religion, custom and culture of their forefathers</li>
                         <li>Makkans started punishing their Muslim slaves</li>
                         <li>These tourture only raised the status of the Companions (Ra) of the Prophet pbuh</li>
-                        <li>Leaders of Qurayes tribe tries to talk to Abu Talib, the Uncle of the Prophet pbuh for Prophet to refrain from preaching</li>
+                        <li>Leaders of Qurayesh tribe tries to talk to Abu Talib, the Uncle of the Prophet pbuh for Prophet to refrain from preaching</li>
                         <li>Abu Talib did not back off and showed unconditional support to his nephew pbuh</li>
                         <li>614 Sumayia's death</li>
                         <li>615 First migration to Abisynia</li>
@@ -611,8 +611,8 @@
                            <li>He was a poet</li>
                            <li>He met the Prophet pbuh during Pilgrimage to Makkah</li>
                            <li>"I have never heard such noble words" were his words after he heard the Prophet pbuh reciting Quran</li>
-                           <li>He embraced Islam from Prophet pbuh and was killed in a fight between Aus and Khazraaj, two dominant tribes of Ansaari people, the people of Madina who hosted the Mujaheer from Makkah (i.e. People of Makkah who migrated to Madina for being Muslim)</li>
-                           <li>Aus and Khazraaj were to rival tribes and in Madina and were fighting for many years</li>
+                           <li>He embraced Islam from Prophet pbuh and was killed in a fight between Aus and Khazraaj, two dominant tribes of Ansaari people, the people of Madinah who hosted the Mujaheer from Makkah (i.e. People of Makkah who migrated to Madinah for being Muslim)</li>
+                           <li>Aus and Khazraaj were to rival tribes and in Madinah and were fighting for many years</li>
                         </ul>
                         <li>Ayas bin Mu'adh</li>
                         <ul>
@@ -621,7 +621,7 @@
                            <li>The Prophet pbuh invited Ayas to Islam and recited some verses from Quran to him</li>
                            <li>"By God, this is better than what we have come here for", he said after listening to Quran</li>
                            <li>His fellow tribesmen didnt agree with him</li>
-                           <li>Later after going back to Madina he became ill and passed away</li>
+                           <li>Later after going back to Madinah he became ill and passed away</li>
                         </ul>
                         <li>Abu Dhar Gifari</li>
                         <ul>
@@ -633,7 +633,7 @@
                            <li>After meeting the Prophet pbuh, he was convinced with the message of Islam and became Muslim</li>
                            <li>With Islam his heart was full of courage and faith and he declared his faith openly by announcing this infront of Kabah</li>
                            <li>Qurayesh as a response started beating him until the Prophet's pbuh uncle Abbas (ra)came and saved him from them</li>
-                           <li>Abu Dhar (ra) returned to his tribe and stayed with them until he moved to Madina</li>
+                           <li>Abu Dhar (ra) returned to his tribe and stayed with them until he moved to Madinah</li>
                         </ul>
                         <li>Tufayl bin Amr Dausi</li>
                         <ul>
@@ -649,7 +649,7 @@
                            <li>The Prophet pbuh prayed to Allah for a sign</li>
                            <li>When he went back to his people, Tufayl's face was radiant</li>
                            <li>His people were reluctant to accept Islam, however his wife and father immediately became Muslim</li>
-                           <li>By the time he migragted to Madina about 70 to 80 families from his tribe had accepted Islam and they accompanied him on the journey to Madina</li>
+                           <li>By the time he migragted to Madinah about 70 to 80 families from his tribe had accepted Islam and they accompanied him on the journey to Madinah</li>
                         </ul>
                         <li>Dhimad Azdi</li>
                         <ul>
@@ -669,7 +669,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse26">Six pilgrims from Madina</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse26">Six pilgrims from Madinah</a>
                   </h4>
                </div>
                <div id="collapse26" class="panel-collapse collapse">
@@ -693,7 +693,7 @@
                         <li>They recognised the Prophet pbuh and thought, this is the same Prophet the Jews constantly threaten su with. Let us pledge allegiance to him pbuh before they (Jews) do.</li>
                         <li>All of the six men accepted Islam</li>
                         <li>"We left our people in such a plight (difficult situation). If Allah unites us through you, you wold be the honored more than anyone else among us", they said to the Prophet pbuh</li>
-                        <li>They left to Madina and were going to meet the Prophet during the next Pilgrimage</li>
+                        <li>They left to Madinah and were going to meet the Prophet during the next Pilgrimage</li>
                      </ul>
                      </p>
                      <p><cite>When the Moon Split 1998</cite></p>
@@ -733,7 +733,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse28">Islam spreads in Madina (Sometimes Allah might give you results from where you would not expect)</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse28">Islam spreads in Madinah (Sometimes Allah might give you results from where you would not expect)</a>
                   </h4>
                </div>
                <div id="collapse28" class="panel-collapse collapse">
@@ -745,7 +745,7 @@
                         <li>Chief of Aus tribe, Sa'd ibn Mu'adh listened to Mus'ab bin Umayer about Islam and became a Muslim. This is the man who sent his cousin to stop Mus'ab from preaching the message thinking Mus'ab was deceiving their weak people (i.e. weak people from Aus tribe)</li>
                         <li>Sa'd bin Mu'adh went back to his people and said, "What do you know about me as a man among you?". They replied, "You are our chief and the wisest man among us!". Sa'd said, "Well, I will not talk to the families of those who do not believe in Allah and His Prophet". As a result of this every man and woman in the tribe became Muslim except for Usayram, who became Muslim during the battle of Uhud. He was martyred during the battle even before making a prostration as a Muslim!</li>
                         <li>Sad bin Mu'adh later on became one of the most distinguished Companions of the Prophet pbuh</li>
-                        <li>Mus'ab returned to Makkah before the next Hajj. When Prophet heard about how Allah guided people of Madina to Islam, he pbuh was very delighted</li>
+                        <li>Mus'ab returned to Makkah before the next Hajj. When Prophet heard about how Allah guided people of Madinah to Islam, he pbuh was very delighted</li>
                      </ul>
                      </p>
                      <p><cite>When the Moon Split 1998</cite></p>
@@ -764,11 +764,11 @@
                   <div class="panel-body">
 				  
 				  <ul>
-				  <li>13th year of the Prophet's pbuh mission, many pilgrims visited Makkah from Madina, in them there were both Muslims and Pagans and alike</li>
-				  <li>The Muslims wanted to invite the Prophet pbuh to move to Madina. They arranged a secret meeting with the Prophet pbuh after Hajj at Akabah</li>
+				  <li>13th year of the Prophet's pbuh mission, many pilgrims visited Makkah from Madinah, in them there were both Muslims and Pagans and alike</li>
+				  <li>The Muslims wanted to invite the Prophet pbuh to move to Madinah. They arranged a secret meeting with the Prophet pbuh after Hajj at Akabah</li>
 				  <li>A total of 73 of the Muslims went individullay or pairs by keeping the private meeting a secret and this is known as the Second Pledge of Akabah</li>
 				  <li>All but 11 were frim Khajraj trbie. There were two women in the group</li>
-				  <li>Abbas bin Abdul Muttalib, Prophet's pbuh Uncle was with him pbuh. His pbuh Uncle was not a muslim yet. He (ra) said, Prophet pbuh has both security and honor in Makkah and if the Muslims from Madina cannot give security to the Prophet pbuh then they should leave the Prophet pbuh to stay at Makkah</li>
+				  <li>Abbas bin Abdul Muttalib, Prophet's pbuh Uncle was with him pbuh. His pbuh Uncle was not a muslim yet. He (ra) said, Prophet pbuh has both security and honor in Makkah and if the Muslims from Madinah cannot give security to the Prophet pbuh then they should leave the Prophet pbuh to stay at Makkah</li>
 				  <li>The Prophet pbuh recited some verses from the Quran and took the follwoing oath:</li>				
 				  <ul>
 				  <li>"We will worship none but Allah and we will never associate any partner with Him"</li>
@@ -787,9 +787,9 @@
 				  <li>The two women present took oath without shaking hands with the Prophet pbuh</li>
 				  <li>After the pledge the Prophet pbuh asked the people to select 12 men who would be responsible for their affairs in the community</li>
 				  <li>9 from Khajraj and 3 from Aus tribe were chosen</li>
-				  <li>After the 12 were elected, the Prophet pbuh said (more or less meaning which could mean), "You are like the apostles of Isa (Jesus) pbuh. You are responsible for the community [in Madina] while I am the caretacker of the entire body of Muslims"</li>
-				  <li>Next morning Qurayesh heard a rumor about the pledge at Akabah, went to Madina camp to protest against what happened</li>
-				  <li>The ploytheists of Madina didnt know anything so they declined the claim</li></ul>
+				  <li>After the 12 were elected, the Prophet pbuh said (more or less meaning which could mean), "You are like the apostles of Isa (Jesus) pbuh. You are responsible for the community [in Madinah] while I am the caretacker of the entire body of Muslims"</li>
+				  <li>Next morning Qurayesh heard a rumor about the pledge at Akabah, went to Madinah camp to protest against what happened</li>
+				  <li>The ploytheists of Madinah didnt know anything so they declined the claim</li></ul>
 				  </div>
 				  
                </div>
@@ -850,7 +850,7 @@
 			<div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse31">Hijrah</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse31">Hijrah (The Prophet pbuh makes the move)</a>
                   </h4>
                </div>
                <div id="collapse31" class="panel-collapse collapse">
@@ -858,14 +858,49 @@
 				  
 				  <p>
                <ul>
-                  <li>Making of Masjid Al Quba and Masjid Al Nabbi</li>
-                  <li>Treaty with Jews in Madina</li>
-                  <li>Conversion of Salman al Farsi</li>
-				  <li>This is year zero of Muslim Hijri Calender System</li>
-				  <li>Before this year Prophet pbuh has approximately spent 13 years at Makkah and after this year approximately 10 years he pbuh will stay at Madina</li>
+                  <li>The second pledge of Akabah changed the equation for the Muslims, they now had a safe place to migrate to</li>
+				  <li>Muslims who were able to, started migrating to Madinah slowly</li>
+				  <li>Prophet pbuh, Abu Bakar (ra) and Ali (ra) were still in Makkah</li>
+				  <li>Prophet pbuh was waiting for the permission of Allah to migrate</li>
+				  <li>Abu Bakar (ra) had two fast camels which he (ra) would feed well to prepare for the migration when permitted by Allah</li>
+				  <li>The Qurayesh were enraged that the Muslims had found a place in the Arabian peninsula</li>
+				  <li>They were also concerned that Muslims would become strong and could control the Northern trade routes and disrupt the Pagan routes for trade</li>
+				  <li>Makkans depended on the goods brought from Northern Arabia and Syria, hence the fear was real</li>
+				  <li>There was a growing worry that Propht pbuh will move to Madinah at some point and establish a new power base there</li>
+				  <li>To discuss all these cocerns a special meeting was called at Dar Al Nadwah, the Parliament of the Qurayesh</li>
+				  <li>Iblees was also present in the meeting as Shaikh Jaleel of Najd</li>
+				  <li>Suggestion was made to drive the Prophet pbuh out of the territory</li>
+				  <li>Shaikh Jaleel (Iblees) didnt like the idea and said, "Do you not see how sweet his words are, and how he wins the hearts of people? If we exile him, he will simply find another tribe and make them his followers. With their help he will attack your city and deal with you as he pleases. Think of another plan"</li>
+				  <li>"Let him imprison until he dies, like the poets of olden times", another one suggested.</li>
+				  <li>"By God, if you make him a captive, the news will surely reach his companions who love him more than their father and sons. They might raid your territory and free him. Once their number increase, they will return and conquer you! Think of another plan", said Shaikh Jaleel</li>
+				  <li>Abu Jahl, himself a rival of Iblees, put forth his idea. "I have my own opinion", he began. "I see none of you have touched on it so far. We will select strong and smart person from each of our noble tribes. Each one will be given a sowrd, sharp and deadly. Those will approach and kill the Prophet as one man. Sicne all the tribes will share his blood, Bani Abd Manaf the protector of the Prophet will not be able to fight all the other Qurayesh tribes at one time. They will then have to accept the blood money that we can give them easily"</li>				  
+				  <li>Shaikh Jaleel said, "This is the best plan of all"</li>				  
+				  <li>Meanwhile Jibrael (as) came to Prophet pbuh with the tidings that Allah had ordered the Prophet pbuh to migrate</li>	
+				  <li>Prophet pbuh was informed about the assassination plan and the exact time he pbuh needs to depart. He pbuh was advised not to sleep at the same bed he pbuh used to sleep</li>				  
+				  <li>At noon when everyone takes nap Prophet pbuh went to the house of Abu Bakar (ra)</li>
+				  <li>They planned and prepared and took a guide to show them the way, who knew the area well</li>
+				  <li>The guide was a Non Muslim</li>
+				  <li>The Prophet pbuh told the guide to meet near Mount Thawr in three nights</li>
+				  <li>In the meantime the Prophet was engaged in his pbuh day to day activity so that none could suspect that he pbuh was about to leave Makkah</li>
+				  <li>The Prophet pbuh used to go to sleep after evening prayer and he would wake up at the middle of the night to pray Tahajjud (supplimentery) at Kabah</li>
+				  <li>The night Prophet pbuh was going to leave, he pbuh told Ali (ra) his cousin to sleep at his bed at his bed and assured there will be no harm done to him</li>
+				  <li>When everyone went to sleep, the assassins gathered around the Prophet's pbuh house</li>
+				  <li>They saw Ali (ra) sleeping there wrapped in Prophet's pbuh green mantle and thought it was the Prophet pbuh</li>
+				  <li>The Qurayesh failed to realise, when they were plotting, Allah too was planning: "And (recall) when the disbelievers were conspiring against you to hold you as a captive, or to kill you, or to expel you. They were planning, and Allah was planning, and Allah is the best planner."(More or less translation of Quran 8:30)</li>
+				  <li>The Prophet pbuh spread some dust over the head of the young boys by reciting this verse in arabic: "And We have placed a barrier in front of them and a barrier behind them, and (thus) they are encircled by Us; so they do not see.(More or less translation of Quran 36:9)"</li>
+				  <li>The youths outside the house couldnt see the Prophet pbuh leaving the house</li>
+				  <li>He pbuh went to Abu Bakar (ra) and together they started their journey not towards Madinah, but towards Yemen, opposite direction to Madinah</li>
+				  <li>Before dawn they covered a distance of 5 miles approximately and reached and took refuge in the cave of Mount Thawr</li>
+				  <li>Unaware of the Prophet's pbuh escape the assassins continued to wait for the Prophet pbuh to come out</li>
+				  <li>Only at dawn when Ali (ra) woke up and came out they (Qurayesh) realised they had been tricked</li>
+				  <li>They aked Ali (ra) about the Prophet pbuh but he pleaded ignorance,they took him to Kabah and kept him there as a captive</li>
+				  <li>Then they rushed to Abu Bakar (ra)'s house, only to find out that he also disappeared</li>
+				  <li>Abu Jahl slapped Abu Bakar's (ra) daugther Asma (ra) and she didnt give out any information</li>
+				  <li>The Qurayesh announced 100 camles on each of these two individulas, dead or alive</li>
 				  <li><a href="http://muslimsincalgary.ca/wp-content/uploads/2017/09/hejrat-alrassoul.jpg">Hijrah route, red one is the main highway used by Qurayesh Caravans, the Green one is the one used by the guide for Hijrah according to this source and When the Moon Split 1998</a></li>
                </ul>
                </p>
+			   <p><cite>When the Moon Split 1998</cite></p>
                   </div>
                </div>
             </div>
@@ -873,7 +908,7 @@
 			<div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse32">Change of Qibla</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse32">Three nights in the cave</a>
                   </h4>
                </div>
                <div id="collapse32" class="panel-collapse collapse">
@@ -881,10 +916,12 @@
 				  
 				  <p>
                <ul>
-                  <li>"We have been seeing you turning your face to the heavens. So, We will certainly assign to you a Qiblah that you would like. Now, turn your face in the direction of the Sacred Mosque (Al-Masjid-ul-Harām), and (O Muslims), wherever you are, turn your faces in its direction. Even those who have been given the Book know well that it is the truth from their Lord, and Allah is not unaware of what they do." (more or less translation of Quran 2:144)</li>
-				  <li>First Ramadan after Hijrah</li>
-                  <li>Zakat is obligated after Hijrah</li>
-                  <li>Death of Prophet (pbuh)'s daughter Rukaya (Ra)</li>
+                  <li>Abu Bakar (ra) was the one to first to enter the cave and clear away anything that might injure the Prophet</li>
+				  <li>Something stung Abu Bakar's (ra) foot when Prophet pbuh was sleeping and due to the pain, tears of Abu Bakar (ra) fell on the Prophet's pbuh face and he pbuh woke up. Abu Bakar did not want to interrupt the sleep of the Prophet pbuh and hence he didnt move. Prophet pbuh then applied his spittle and the unjure and pain disappeared</li>
+                  <li>During these three days, Abu Bakar (ra)'s son Abdullah would pass his nights nearby. The clever young man would return to Makkah early in the morning and Qurayesh would have no idea where he spent his night. Each day he would collect information about the activity of the Qurayesh and every night he would update the Prophet pbuh and Abu Bakar (ra)</li>
+                  <li>Abu Bakar's (ra) Amir bin Fuhayra slave would graze Abu Bakar's (ra) goats near the cave, so that they could drink fresh milk. Early in the morning Amir would take the goats back along the same way Abu Bakar's son Abullah took to obscure the footprints</li>
+				  <li>Search party were very close to the cave once and Abu Bakar (ra) became very worried, the Prophet pbuh said, (more or less which could mean), "How can you be apprehensive about two with whom is a third, especially when the third one is Allah?"</li>
+				  
                </ul>
                </p>
                   </div>
@@ -894,12 +931,21 @@
 			<div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse33">Badar</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse33">On the way to Madinah</a>
                   </h4>
                </div>
                <div id="collapse33" class="panel-collapse collapse">
                   <div class="panel-body">
-				  Age 54 (Approximately)
+				  <ul>
+				  <li>The guide hired by Prophet pbuh arrived at Mount Thawr with Abu Bakar's (ra) two camels. Abu Bakar's (ra) slave Amir (ra) accompanied them. The guide took them towards Yemen and the towards west in the direction of Red Sea and before reaching the sea they went towards north towards Madinah, a route which not many people used to go to Madinah.</li>
+				  <li>They travelled all night and half of the next day, then they stopped to take rest. Abu Bakar (ra) found someone who let him some milk</li>
+				  <li>Afterwards they travelled further 130 miles approximately and they met a woman who didnt have anything to offer to the travells in terms of food. She had a small goat which didnt have any milk. The Prophet pbuh took permission to milk it and the woman agreed. Milk flowed from the goat's udders and soon there was a full bowl of milk. He pbuh gave the lady to drink it. Then each of them drank to their fill. When they all finished, he pbuh milked again and left the bowl full of milk for the lady</li>
+				  <li>The lady informed the matter to her husband when he came back, who said, "That was the man from the Qurayesh that I have been hearing about. If I ever have the opportunity, I will join his followers"</li>
+				  <li></li>
+				  <li></li>
+				  <li></li>
+				  
+				  </ul>
                   </div>
                </div>
             </div>

@@ -36,7 +36,7 @@
             <div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Why?</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Why it is important?</a>
                   </h4>
                </div>
                <div id="collapse1" class="panel-collapse collapse in">
@@ -68,8 +68,10 @@
                            <li>All three Abrahamic religions initiate from this Prophet of Allah, Judaism, Christianity and Islam</li>
                            <li>From Prophet Abraham's son Prophet Iahaaq / Isaac (As) comes Bani Israel (Isralites / Jews) and all their Prophets, e.g. Prophet Yaqoob / Jacob, Prophet Yousuf / Joheph, Isa / Jesus, Prophet Musa / Moses peace be upon all off them</li>
                            <li>Prophet Muhammad (pbuh) comes fromt he lineage of Prophet Ishmael (As), other son of Prophet Abraham (As) with Hajar / Hagar (1)</li>
+						   <li>Ibrahim (as) left Hajar and baby Ishmael (as) at Macca without any source of food or water</li>
+						   <li>By the will of Allah Jibrael / Gabriel (as) came and created a flow of water coming out from earth for Hajar and the baby Ishmael (as). This is how the Zamzam well was created</li>
 						   <li>From the holy Quran we come to know that Kabah was built by Prophet Abraham and his son Ishmael peace be upon them</li>
-						   
+						   <li><a href="https://www.youtube.com/watch?v=3bHFgCsWHkU">Story of Kabah (16 min)</a></li>
 						   <li><a href="https://i.pinimg.com/originals/2e/4a/22/2e4a22e583e82150f52201eb278b25d2.jpg">Very old Kabah</a></li>
 						   <li><a href="https://travelforumrah.co.uk/blog/wp-content/uploads/2018/04/History-of-Kabah.jpg">Old Kabah</a></li>
 						   <li><a href="https://i.pinimg.com/564x/99/30/f1/9930f1b06f10e9b9fe6f2e864300bfe3.jpg">Flooding around Kabah</a></li>
@@ -77,6 +79,7 @@
 						   <li><a href="https://cdn.theatlantic.com/media/img/photo/2015/09/mecca-then-and-now-126-years-of-gro/m02_03076u/main_1500.jpg">Another image of old Kabah</a></li>
 						   <li><a href="https://i.ytimg.com/vi/kAlM61oNdMc/maxresdefault.jpg">1950 Kabah</a></li>
 						   <li><a href="https://images.slideplayer.com/18/6160777/slides/slide_4.jpg">Kabah in our time</a></li>
+						   <li><a href="https://www.youtube.com/watch?v=-Y6fvTvULyI">Documentory on Zamzam Well (15 min)</a></li>
                         </ul>
                         </p>
                         <p><cite>(1) Sahih Muslim 2276</cite></p>
@@ -144,6 +147,8 @@
                         <li>Qusayy's son Abd Munaf, Abd Munaf's son Hashim, Hashim's son Abdul Muttalib</li>
                         <li>Abdul Muttalib was the grandfather of the Prophet, another very well respected man from the Qurayesh clan</li>
                         <li>Abdul Muttalib's son Abdullah (among 12 others) was the father of the Prophet pbuh</li>
+						<li><a href="http://www.islamandihsan.com/wp-content/uploads/2019/03/family-tree-of-prophet-muhammad.png">Prophet pbuh's Lineage image 1</a></li>
+						<li><a href="https://ia800804.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/FamilyTreeOfProphetMuhammadSAW/Family%20Tree%20of%20Prophet%20Muhammad%20%28SAW%29_jp2.zip&file=Family%20Tree%20of%20Prophet%20Muhammad%20%28SAW%29_jp2/Family%20Tree%20of%20Prophet%20Muhammad%20%28SAW%29_0000.jp2&id=FamilyTreeOfProphetMuhammadSAW&scale=4&rotate=0">Prophet pbuh's Lineage image 2</a></li>
                      </ul>
                      <p><cite>When the Moon Split 1998</cite></p>
                      </p>
@@ -168,6 +173,7 @@
                         <li>Abdul Muttalib sees a dream and gets inspired to dig and find ZamZam again</li>
                         <li>Abdul Muttalib prays for more sons</li>
                         <li>Abdul Muttalib was blessed with more sons and as per his promise he goes to sacrifice Abdullah, the father of Prophet (pbuh)</li>
+						
                      </ul>
                      </p>
                   </div>

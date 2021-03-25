@@ -939,11 +939,15 @@
 				  <ul>
 				  <li>The guide hired by Prophet pbuh arrived at Mount Thawr with Abu Bakar's (ra) two camels. Abu Bakar's (ra) slave Amir (ra) accompanied them. The guide took them towards Yemen and the towards west in the direction of Red Sea and before reaching the sea they went towards north towards Madinah, a route which not many people used to go to Madinah.</li>
 				  <li>They travelled all night and half of the next day, then they stopped to take rest. Abu Bakar (ra) found someone who let him some milk</li>
-				  <li>Afterwards they travelled further 130 miles approximately and they met a woman who didnt have anything to offer to the travells in terms of food. She had a small goat which didnt have any milk. The Prophet pbuh took permission to milk it and the woman agreed. Milk flowed from the goat's udders and soon there was a full bowl of milk. He pbuh gave the lady to drink it. Then each of them drank to their fill. When they all finished, he pbuh milked again and left the bowl full of milk for the lady</li>
+				  <li>Afterwards they travelled further 130 miles approximately and they met a woman who didnt have anything to offer to the travells in terms of food. She had a  weak goat which didnt have any milk. The Prophet pbuh took permission to milk it and the woman agreed. Milk flowed from the goat's udders and soon there was a full bowl of milk. He pbuh gave the lady to drink it. Then each of them drank to their fill. When they all finished, he pbuh milked again and left the bowl full of milk for the lady</li>
 				  <li>The lady informed the matter to her husband when he came back, who said, "That was the man from the Qurayesh that I have been hearing about. If I ever have the opportunity, I will join his followers"</li>
-				  <li></li>
-				  <li></li>
-				  <li></li>
+				  <li>On the third morning after the Prophet's pbuh departure people of Makkah heard a voice echoing through the streets. They were unable to find where it was coming from because it was not a voice of a human being. It was a jiini saying: "Allah, Lord of the People, bless those two companions who reached the tent of Umm Ma'bad. In safety, they broke their journey, and in safety they resumed it. Anyone who befriends Muhammad finds success. O Qurayesh! By driving Muhammad away, you have forfeited (i.e. lost) glory and dominion! Blessed is the tribe of Banu Ka'b! Their Lady's tent became a refuge for Muhammad. Ask your lady about the weak goat and milking bowl. The goat will also inform you if you ask it."</li>
+				  <li>A man named Suraqa bin Malik bin Ju'shum Madlaji spotted after the Prophet pbuh left Qadid. He thought he could catch the fugitives and take them to Macca to and claim the reward. As he tried to go foward, his horse stumbled suddenly and he fell down. Being superstritious, he drew arrow to findout what to do. The arrow he drew was unfavourable, however greed made him get up and try again. He fell down again as the forelegs of the hourse sank in to the sand. He cursed the horse and when looked behind he saw dust rising from the hoof print of the horse like smoke. He quickly pulled out another arrow to find out its bad omen for him to chase. Now he was convinced that he will not be able to catch the Prophet pbuh, he gave up. He then called the Prophet pbuh and surrendered. Tre group stopped for Suraqa to come and catch up. Suraqa offered food by they refused. The Prophet pbuh told him not to tell the Qurayesh about his pbuh whereabouts. Suraqa agreed and asked to be given a letter of safe conduct for future security. The Prophet pbuh asked Amir to write the letter on a piece of tanned leather.</li>
+				  <li>Suraqa then returned toward Makkah. He told all the bounty hunters he met to go back because he had already searched the area and the fugitives were nowhere to be found.</li>
+				  <li>The Prophet continued his pbuh journey and on the way he pbuh met Burida bin Husayb Aslami along with seventy or eighty families of his followers. They all embraced Islam and prayed the evening prayer with the Prophet pbuh. Barida migrated to Madina after the battle of Wuhud</li>
+				  <li>The Prophet pbuh also met Abu Tamim Aus bin Hajr at Arj. At the time the Prophet pbuh and Abu Bakar (ra) were riding the same Camel as one of their Camel became weak. Abu Tamim offered them a camel and a slave. Although Abu Tamim became a Muslim he remained at Arj. He would later prove useful to the Muslims in the Battle of  Uhud by sending wrod through the slave about the Makkan's advance toward Madina</li>
+				  <li>When the Prophet pbuh reached the vally of Reem, he met Zubayer bin Awwam (ra) who was accompanying a trade caravan of Muslims returning from Syria. He presented the Prophet pbuh and Abu Bakar (ra) with sheets of white cloth</li>
+				  
 				  
 				  </ul>
                   </div>
@@ -953,11 +957,22 @@
 			<div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse34">Uhud</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse34">Arrival in Qubaa</a>
                   </h4>
                </div>
                <div id="collapse34" class="panel-collapse collapse">
-                  <div class="panel-body">Age 55 (Approximately)
+                  <div class="panel-body">
+				  <ul>
+					  <li>Fourteen years after becoming a prophet, on a Monday the Prophet pbuh arrived in Qubaa on the outskirts of Madina</li>
+					  <li>The people of Madina had long awaited for the Prophet pbuh and each day they would go and wait for the Prophet to be seen from distance so that they can prepare and welcome him until the sun used to get very hot</li>
+					  <li>One day the people returned to their homes after waiting for a long time. A jew happened to catch a glimpse of a small group of white robed travellers in the distance. He called out, "O people of Arabia! What you have been waiting for has arrived!"</li>
+					  <li>The Muslims rushed to greet the Prophet pbuh</li>
+					  <li>After reaching Qubaa the Prophet pbuh sat in silence. The Ansars (i.e. helpers) who didnt see the Prophet pbuh beofore, did a mistake by thinking Abu Bakar (ra) is the Prophet. Abu Bakar (ra) had his hair grown a little grey, hence the confusion. Once Abu Bakar (ra) held a sheet to give shade to the Prophet pbuh, people realised their mistake</li>
+					  <li>The Prophet pbuh stayed at Qubaa for four days and layed the foundation of the first Masjid (i.e. mosque) in the history of Islam</li>
+					  <li>Prophet pbuh kept moving to Madina from Qubaa and when he pbuh reached close to Banu Salim bin Auf, it was time for Friday Congregational prayer. The Prophet pbuh led a hundred Muslims approximately, in Friday pryaer.</li>
+					  <li>After the Friday prayer the Prophet and his entourage left for Madina</li>
+					  
+				  </ul>
                   </div>
                </div>
             </div>

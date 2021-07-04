@@ -41,7 +41,7 @@
                </div>
                <div id="collapse1" class="panel-collapse collapse in">
                   <div class="panel-body">
-                     <div style= "bgcolor:#00FF00">
+                     <div>
                         <p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “None of you have faith until I am more beloved to him than his children, his father, and all of the people.”</p>
                         <cite>More or less translation of Sahih al-Bukhari 15, Sahih Muslim 44</cite>
                         <p>How can one love someone they dont know about?</p>
@@ -202,7 +202,7 @@
                      <ul>
                         <li>571 CE, Prophet pbuh was born</li>
                         <li>Brought up by Grandfather (Abdul Muttalib) and Mother (Ameenah)</li>
-                        <li></li>
+                        
                      </ul>
                      <p><cite>When the Moon Split 1998</cite></p>
                   </div>
@@ -971,6 +971,11 @@
 					  <li>The Prophet pbuh stayed at Qubaa for four days and layed the foundation of the first Masjid (i.e. mosque) in the history of Islam</li>
 					  <li>Prophet pbuh kept moving to Madina from Qubaa and when he pbuh reached close to Banu Salim bin Auf, it was time for Friday Congregational prayer. The Prophet pbuh led a hundred Muslims approximately, in Friday pryaer.</li>
 					  <li>After the Friday prayer the Prophet and his entourage left for Madina</li>
+					  <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/70/Qubaorig.jpg">Quba Mosque Image Old 1</a></li>
+					  <li><a href="https://upload.wikimedia.org/wikipedia/commons/5/58/OldQuba.jpg">Quba Mosque Image Old 1.2</a></li>
+					  <li><a href="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2017/05/31/922906-1601057331.jpg?itok=NKB-2W1O">Quba Mosque Image New 2</a></li>
+					  <li><a href="https://iqna.ir/files/en/news/2020/7/7/57232_851.jpg">Quba Mosque Image New 3</a></li>
+					  
 					  
 				  </ul>
                   </div>
@@ -980,23 +985,64 @@
 			<div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse35">Uhud</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse35">Some keypoints we learn from Hijrah</a>
                   </h4>
                </div>
                <div id="collapse35" class="panel-collapse collapse">
-                  <div class="panel-body">Age 55 (Approximately)
-                  </div>
+                  <div class="panel-body">
+				  <ul>
+					<li>Understand that Islam has enemies and you will not be able to practice Islam when compared to any other religion in the world as it is not like any other religion of the world.</li>
+					<li>Once understood, it becomes easy to comprehend whats happening around the globe in our times</li>
+					<li>The enemies of Islam plot and plan to eliminate Islam from the face of earth and they do not take rest. This is not a new phenomenon, its there from the time of Prophet Adam (as)</li>
+					<li>Its a duty of Muslim to plan and action accordingly to carry the message of Islam and let others know the Truth.</li>
+					<li>Setting and and achieving goals are very important and needs to be in the mind of every Muslim individual</li>
+					<li>RasulAllah PBUH made a very well thought and careful plan before he pbuh migrated to Madinah</li>
+					<li>It is permissible for a Muslim to take help from a trustworthy disbeliever</li>
+					<li>Women played important roles in Hijrah as well as other areas of the religion</li>
+					<li>Even though he pbuh was hated by the Qurayesh for what he pbuh was preaching, everyone trusted him pbuh and kept their valuables with him pbuh. Lets build that standardard first, especially in countries like this were we live and work with many Non Muslims, we have an excellent opportunity to build that trust and then if we tell them the ultimate truth, it will be easy for them to accept. We need to first learn how to live like a Muslim and then preach Islam, unfortunately many of us doing the opposite. We need to set a high standard and maintain it</li>
+					<li>An ideal leader should have knowledge, wisdom and be willing to make many sacrifices</li>
+					<li>The Muslims of Makkah made a tremendous sacrifice when they migrated to Madinah, we have to have a mindset to sacrifice when it comes to chose between this world and the next. Most of the time we cut the corners and tend to close our eyes when we go for Home Loans, Car loans, Student Loan, Certain type of Questionable jobs etc. We need to understand the sacrifice of our time and dont compromise for the sake of this world</li>
+					<li>The Muhaajiroon are praised by Allah in many aspects. Areas they have been praised are, sincerity, patience, truthfulness, carrying out struggle for the sake of Allah, trusting in Allah alone, hoping for Allah's mercy, following the sunnah of the Prophet pbuh, having true emaan, having the honor of being the first to embrace Islam and being the people of ultimate success</li>
+					<li>The Hijrah opened the known world to Islam and the spread of Islam continues until today</li>
+					<li>The Muslims who were able to migrate but didnt, were threatened by Allah with a severe punishment</li>
+					<li>The Muslims who were unable to migrate were forgiven by Allah</li>
+					
+				  </ul>
+				  </div>
                </div>
             </div>
 			
 			<div class="panel panel-default">
                <div class="panel-heading">
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse36">Collapsible Group 35</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse36">Life in Madinah after Hijrah</a>
                   </h4>
                </div>
                <div id="collapse36" class="panel-collapse collapse">
                   <div class="panel-body">
+				  <ul>
+					<li>Immigrants from Makkans were mainly traders and People of Madina had date cultivation as their main occupation</li>
+					<li>Climate of Madina didnt suit well for the Imigrants</li>
+					<li>May of them were suffering from fever</li>
+					<li>Observing all these, Prophet pbuh made a dua (more or less meaning), "O Allah! Make Madinah as dear as to us as Makkah was, or even dearer! Make its climate healthy and bless its fruits and grains!"</li>
+					<li>Allah granted this prayer, the immigrants regained their health and began to love Madinah, they found the city becoming more and more of a home to them</li>
+					<li>Soon after ariving Madinah Prophet pbuh started to work on building the first state Under Islam, a Muslim state</li>
+					<li>The first project he started was to build a Mosque</li>
+					<li>He pbuh bought a land with a size of one hundred cubits in length and breadth</li>
+					<li>Few graves on that land had to be relocated and few trees had to be remvoed and replanted</li>
+					<li>Walls of the Mosque were made from earth and unbaked bricks</li>
+					<li>Roof was made  from branches fo date trees</li>
+					<li>Tree trunks were used as columns</li>
+					<li>Sand and pebbles were spread on the floor</li>
+					<li>Compare this against the one you are all sitting now! Compare both the materials and Eemman</li>
+					<li>Qibla of this Mosque was facing Baitul Maqdis (Temple of Solomon in Jerusalem in Palestine)</li>
+					<li>This Mosque had three doors</li>
+					<li>Prophet pbuh worked with both Ansar and Muhaajiroon to build this mosque</li>
+					<li>Two apartments were made for two of the wives of the Prophet pbuh with the Mosque (Sauda RA and Aisha RA)</li>
+					<li>Stone, mud and date palms were used to make these apartments</li>
+					<li></li>
+					<li></li>
+				  </ul>
                   </div>
                </div>
             </div>

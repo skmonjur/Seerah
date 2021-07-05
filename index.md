@@ -6,7 +6,10 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
    </head>
-   <body>
+
+
+
+   <body style="background-color:#000000;">
       <style>
          <!-- html { -->
          <!-- width: 100%; -->
@@ -31,7 +34,14 @@
          overflow: auto;
          }
       </style>
+	  
+	  
+
+
       <div class="container">
+	  <h1>
+	  <font face="Arial" size="20px" color="#00FF00">Seerah of Prophet Muhammad Peace and Blessings be upon him</font>
+	  </h1>
          <div class="panel-group" id="accordion">
             <div class="panel panel-default">
                <div class="panel-heading">

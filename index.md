@@ -67,7 +67,7 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading"; style="background-color:#34A56F;">
+               <div class="panel-heading">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Ibrahim or Abraham, the father of all nations</a>
                   </h4>

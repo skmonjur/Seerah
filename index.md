@@ -40,7 +40,7 @@
 
       <div class="container">
 	  <h1>
-	  <font face="Arial" size="20px" color="#00FF00">Seerah of Prophet Muhammad Peace and Blessings be upon him</font>
+	  <font face="Arial" size="5px" color="#00FF00">Seerah of Prophet Muhammad Peace and Blessings be upon him</font>
 	  </h1>
          <div class="panel-group" id="accordion">
             <div class="panel panel-default">

@@ -44,28 +44,32 @@
 	  </h1>
          <div class="panel-group" id="accordion">
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#98FF98;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Why it is important?</a>
                   </h4>
                </div>
                <div id="collapse1" class="panel-collapse collapse in">
-                  <div class="panel-body">
+                  <div class="panel-body" >
                      <div>
+					
                         <p>Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said, “None of you have faith until I am more beloved to him than his children, his father, and all of the people.”</p>
                         <cite>More or less translation of Sahih al-Bukhari 15, Sahih Muslim 44</cite>
                         <p>How can one love someone they dont know about?</p>
                         <p>Seerah or biography of Prophet Muhammad pbuh is one of the most neglected area of knowledge in our times. Most of us only know our Prophet pbuh via a range of well known hadith and fail to connect to the real human being existed on the face of earth.</p>
                         <p>Every Muslim must know the biography of their Prophet Muhammad peace and blessings be upon him. We are now living in a digital world where books have been replaced by devices of many forms. This small, simple and insignificant attempt In Sha Allah is one of many future steps to come to from the Ummah to include the new generations and introduce them to the Seerah (i.e. Biography) of our beloved (pbuh). </p>
-                        <p>Seerah lecture sereis of <a href="https://muslimcentral.com/series/yasir-qadhi-seerah/">Yasir Qazi</a> was game changer for me, I went back to them multiple times and can do that again and again without "Well, I knew this" attitude, as everytime I find something new that I didnt understand previously. I took the advise from Nouman Ali Khan's lecture to go and learn about seerah. For me it was a level up in terms of knowledge, from average to above average Alhamdulillah. Since then I have read few other sources and listened to others who worked on Seerah, and this is just a result of all their hard work. There is no way a sincere Muslim who goes through the Seerah can remain same as before without the uplifted connection with the Prophet pbuh. May Allah bless all the people working hard, day and night to uphold and follow the religion of Allah according to the way of Prophet Muhammad peace and blessing be upon him.</p>
+                        <p>Seerah lecture series of <a href="https://muslimcentral.com/series/yasir-qadhi-seerah/">Yasir Qazi</a> was game changer for me, I went back to them multiple times and can do that again and again without "Well, I knew this" attitude, as everytime I find something new that I didnt understand previously. I took the advise from Nouman Ali Khan's lecture to go and learn about seerah. For me it was a level up in terms of knowledge, from average to above average Alhamdulillah. Since then I have read few other sources and listened to others who worked on Seerah, and this is just a result of all their hard work. There is no way a sincere Muslim who goes through the Seerah can remain same as before without the uplifted connection with the Prophet pbuh. May Allah bless all the people working hard, day and night to uphold and follow the religion of Allah according to the way of Prophet Muhammad peace and blessing be upon him.</p>
                         <p>Allah has sent Prophet Muhammad (pbuh) as a mercy to the whole humanity, someone from whom we are supposed to learn. If we dont know about his pbuh struggle and strategy to overcome the burdens, we may never succeed in this world and the one to come after this.</p>
                         <p>Most of the details were taken from the book, "When the Moon Split" (1998) compiled by Safiur Rahman Mubarakpuri. I highly recommend everyone to read his book "Rahikul Makhtum (Sealed Nectar)" to gain more in depth and detailed knowledge on the subject. If one takes this advise and picks up the book and reads it, I will consider that as a huge success from this small project. May Allah give us ability to do more.</p>
+					
                      </div>
                   </div>
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <!-- <div class="panel-heading" style="background-color:#98FF98;> -->
+			   <div class="panel-heading" style="background-color:#64E986;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Ibrahim or Abraham, the father of all nations</a>
                   </h4>
@@ -98,7 +102,10 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+                 <div class="panel-heading" style="background-color:#34A56F;">
+			   
+			   
+			   
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Prophet Musa / Moses (Peace be upon him) indicated about a Prophet coming</a>
                   </h4>
@@ -128,9 +135,11 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			    <div class="panel-heading" style="background-color:#98FF98;>
+			   <!-- <div class="panel-heading" style="background-color:#64E986;> -->
                   <h4 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming:</a>
+                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Prophet Isa / Jesus (Peace be upon him) indicated about a Prophet coming</a>
                   </h4>
                </div>
                <div id="collapse4" class="panel-collapse collapse">
@@ -142,7 +151,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#64E986;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">Tribe and Lineage of Prophet Muhammad (pbuh)</a>
                   </h4>
@@ -166,7 +176,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">Abdul Muttalib</a>
                   </h4>
@@ -190,7 +201,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#98FF98;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">His (pbuh) father</a>
                   </h4>
@@ -202,7 +214,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#64E986;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">571 Year of Birth</a>
                   </h4>
@@ -219,7 +232,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">Haleema Sa'dya (Ra)</a>
                   </h4>
@@ -239,7 +253,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#98FF98;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">Losing Mother and Grandfather</a>
                   </h4>
@@ -256,7 +271,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#64E986;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">Before Marriage</a>
                   </h4>
@@ -279,7 +295,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">Marriage with Khadeeja (Ra)</a>
                   </h4>
@@ -301,7 +318,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#98FF98;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse13">Placement of Blackstone and resolving the conflicts</a>
                   </h4>
@@ -323,7 +341,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#64E986;>
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse14">First Revelation</a>
                   </h4>
@@ -351,7 +370,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse15">First few beleivers</a>
                   </h4>
@@ -368,7 +388,9 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#98FF98;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse16">Makkans Reaction</a>
                   </h4>
@@ -395,7 +417,9 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#64E986;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse17">Dawah strategy at Makkah</a>
                   </h4>
@@ -416,7 +440,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               
+			   <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse18">Few points on migration to Abisineya</a>
                   </h4>
@@ -437,7 +462,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#98FF98;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse19">Offers made to Prophet pbuh to refrain from preaching</a>
                   </h4>
@@ -460,7 +486,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+             <div class="panel-heading" style="background-color:#64E986;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse20">Challenging the Prophethood</a>
                   </h4>
@@ -487,7 +514,7 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse21">Boycott of Banu Hasheem by Qurayesh</a>
                   </h4>
@@ -507,7 +534,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#98FF98;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse22">Losing Wife and Uncle (Pillars of support)</a>
                   </h4>
@@ -533,7 +561,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#64E986;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse23">Qurayesh asking for Miracle</a>
                   </h4>
@@ -564,7 +593,7 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse24">Isra al Miraaj (The miracle they asked for)</a>
                   </h4>
@@ -607,7 +636,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#98FF98;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse25">Seeds of faith sprout outside Makkah</a>
                   </h4>
@@ -677,7 +707,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#64E986;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse26">Six pilgrims from Madinah</a>
                   </h4>
@@ -711,7 +742,7 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse27">First pledge of Aqabah (Right people will find you if they had to, you need to continue your job)</a>
                   </h4>
@@ -741,7 +772,8 @@
                </div>
             </div>
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#98FF98;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse28">Islam spreads in Madinah (Sometimes Allah might give you results from where you would not expect)</a>
                   </h4>
@@ -765,7 +797,8 @@
 			
 			
 			<div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#64E986;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse29">Second pledge of Aqabah (13th year of Prophethood)</a>
                   </h4>
@@ -808,7 +841,7 @@
 			
 			
             <div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse30">Two Marriages of the Prophet pbuh which non-muslims querry the most</a>
                   </h4>
@@ -858,7 +891,8 @@
 			
 			
 			<div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#98FF98;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse31">Hijrah (The Prophet pbuh makes the move)</a>
                   </h4>
@@ -916,7 +950,8 @@
             </div>
 			
 			<div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#64E986;>
+
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse32">Three nights in the cave</a>
                   </h4>
@@ -939,7 +974,7 @@
             </div>
 			
 			<div class="panel panel-default">
-               <div class="panel-heading">
+               <div class="panel-heading" style="background-color:#34A56F;">
                   <h4 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse33">On the way to Madinah</a>
                   </h4>

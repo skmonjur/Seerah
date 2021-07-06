@@ -428,7 +428,7 @@
                      <ul>
                         <li>Prophet pbuh wanted to save and ensure the spread of the message and hence he sent some Mulsims to a land of just king</li>
                         <li>People of Abissinya were Christians (Abrahamic Religion) opposed to the people of Makkah who were pagans this was an advantage for Muslims</li>
-                        <li>Prophet pbuh knew about Abissinya from his pbuh nursemaid Umm Aiman about the land and its people</li>
+                        <li>Prophet pbuh knew about Abissinya from his pbuh nurse maid Umm Aiman about the land and its people</li>
                         <li>As a merciful Leader Prophet pbuh was concerned about the safety and freedom of his pbuh followers and hence he pbuh permitted Hijrah option for them to go and live a safe life and spread the message</li>
                         <li>In the group there were Companions (Ra) like his pbuh dauther (Rukaiya Ra), son in law (Uthman Ra) and his pbuh cousin Jafar ibn Abu Taleb, which shows he pbuh was not taking a mere chance wih the life of some followers and including his pbuh beloved family members in that decision too</li>
                         <li>This also shows even though his pbuh family members had to suffer the same fate as his followers / companions (Ra)</li>

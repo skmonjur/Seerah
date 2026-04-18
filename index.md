@@ -1035,7 +1035,7 @@
 				  <ul>
 					<li>Immigrants from Makkans were mainly traders and People of Madina had date cultivation as their main occupation</li>
 					<li>Climate of Madina didnt suit well for the Imigrants</li>
-					<li>May of them were suffering from fever</li>
+					<li>Many of them were suffering from fever</li>
 					<li>Observing all these, Prophet pbuh made a dua (more or less meaning), "O Allah! Make Madinah as dear as to us as Makkah was, or even dearer! Make its climate healthy and bless its fruits and grains!"</li>
 					<li>Allah granted this prayer, the immigrants regained their health and began to love Madinah, they found the city becoming more and more of a home to them</li>
 					<li>Soon after ariving Madinah Prophet pbuh started to work on building the first state Under Islam, a Muslim state</li>

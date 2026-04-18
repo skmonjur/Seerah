@@ -1,3 +1,4 @@
+yaml id="w2k9sl"
 title: Jek
 email: hello@jek.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,7 +30,7 @@ tags: foo bar
 developer-controls: false # show developer specefic tips
 
 # Build settings
-theme: jek
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -41,4 +42,3 @@ kramdown:
   syntax_highlighter_opts:
     default_lang: html
     css_class : 'syntax'
-
